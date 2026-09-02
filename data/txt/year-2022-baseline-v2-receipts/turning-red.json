@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8097030",
+    "imdb_id": "tt8097030",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q104845027",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turning_Red"
+  },
+  "coverage_sha256": "38b77fbd995fabe49e1c1124d3b76c0cecf5ffe169f42f2ad44fb7f9d3d295c2",
+  "generated_at": "2026-09-02T08:35:14.194732+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/turning-red.cache/cache.20220623.tar.xz",
+      "sha256": "51ad9ea3995435de3ee05eb869f7c4defe4d416706cb86fec88bf7bdd34882a9",
+      "size": 3729708640
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/turning-red.md",
+      "sha256": "7877a9c6b347fa926d34b2b1456fa059450d063a8e2d260c0aa781ec3be86080",
+      "size": 628
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/turning-red.json",
+      "sha256": "9842561ad8406ffef6e0f90de88ae637725e8dbbd16f103eca3ed84814914dac",
+      "size": 2728
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/turning-red.json",
+      "sha256": "303f61e77a207566cbb1f5b0e5c089fc2b9b68ffd195f8e57d02b9c70a247af2",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "turning-red",
+  "published_files": {
+    "data/csv/bytes/turning-red-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "6806b3d6c3c50090be922b6d855c9e837b1911d9e683eeb45ea0f706eb34ba3a",
+    "docs/itemized/figures/turning-red-carto-4k.webp": "8fed98e4fcc9a3fa6455eb94a0b5f5a0050c2dc361568471ac61c9fba45159bd",
+    "docs/itemized/figures/turning-red-carto.png": "886ff564c0808cfa7d520e9e482168cc7272630a913ac1a0d032b3bbe1e202cb",
+    "docs/itemized/figures/turning-red-cumulative-detail-btiha-itemized-by-bytes.svg": "e7b82fdb63ba39484d0282405e834d92382f07633f0e7eeb7177829cfc5f7c58",
+    "docs/itemized/figures/turning-red-data-ge-1080p-4k.webp": "dc92e4d166a1bfaa67d3a44486cf43ab6ec1caacbf78d6ce190af10651b1ecd0",
+    "docs/itemized/figures/turning-red-data-ge-1080p.webp": "d9d9950ff7f788b7ad3ac417ac1da5de5738d296d5f7918a7c151c3b5bef437a",
+    "docs/itemized/figures/turning-red-data-lt-1080p-4k.webp": "869dc937d798765a53149420f9d378708c4f2da747f56feca2f207601c005a2b",
+    "docs/itemized/figures/turning-red-data-lt-1080p.webp": "aa12ff3b71d12f271e0d7ac4cd4f20aa617d3836feaf65e9a563477de80fa765",
+    "docs/itemized/figures/turning-red-downloads-by-day-day.svg": "1763a85007719d37cf23b014585192ac5a10e2eb5ffd1638db23ab4f237b4bce",
+    "docs/itemized/figures/turning-red-downloads-by-week-turning-red-week.svg": "d6e7f7c2eae253dcd557bc4ccc171dbd2cb0a83282ced12e285de7099d92048f",
+    "docs/itemized/turning-red-sample-cache-audit.md": "35bdf0f5cae236aebbbeb5aa39b238c75aa30c2f65d3131db2cb42e70ce011ce",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/turning-red/tmp/turning-red-cumulative-btiha.geojson",
+        "sha256": "37be69497a515807f44994bc3f23f3c19867eb09e61c1ece4c5a64ce8bc00cd4",
+        "size": 94252627
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/turning-red/tmp/turning-red-cumulative-btiha-media-objects.json",
+        "sha256": "e160701496235c9ca1477afeaab1a45a5c1ca2d7359ab1b2682bb5c3a6bd80c0",
+        "size": 366700
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "turning-red",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          74.0,
+          54.0,
+          42.0,
+          42.0,
+          35.0,
+          34.0,
+          31.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Quezon City",
+          "Moscow",
+          "Johannesburg",
+          "London",
+          "Shanghai",
+          "Cape Town",
+          "Ashburn",
+          "Pretoria",
+          "Colombo",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Johannesburg",
+          "London",
+          "Quezon City",
+          "Cape Town",
+          "Seoul",
+          "Krasnodar",
+          "Nizhniy Novgorod",
+          "Pretoria"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 38,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
