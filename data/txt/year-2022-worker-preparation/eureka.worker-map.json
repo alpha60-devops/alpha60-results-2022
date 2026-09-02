@@ -1485,16 +1485,16 @@
           "available_day_products": 70,
           "cache_members": 1538,
           "missing_indices": [],
-          "post_release_day_products": 36,
+          "post_release_day_products": 0,
           "sample_end": "2022-10-06",
           "sample_span_days": 70,
           "sample_start": "2022-07-29",
           "torrent_indices": 24
         },
         "required_collection_key": "renaissance",
-        "required_day_products": 34,
-        "required_sample_days": 34,
-        "required_sample_end": "2022-08-31",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-10-06",
         "required_sample_start": "2022-07-29",
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
@@ -1504,24 +1504,24 @@
         "collection_id": "",
         "collection_name": "RENAISSANCE",
         "metadata_version": "2025-11-22",
-        "sample_days": 34,
-        "sample_end": "2022-08-31",
+        "sample_days": 70,
+        "sample_end": "2022-10-06",
         "sample_start": "2022-07-29",
-        "sha256": "f79d4de3218484eeb367b74fb4d0512c11b522d8b62fe5162d4e6d76881644a6",
+        "sha256": "45495da72f0b553e25f165d25e7b24f018e428f00090700f22fbf171a82e5a1a",
         "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/renaissance.json",
         "source_kind": "canonical-swarm-metadata"
       },
       "selection": {
         "approved_observed_day_end": "2022-10-06",
-        "approved_override": "The immutable archive filename matches the canonical 2022-08-31 endpoint, but its full read-only Day-member stream continues contiguously through 2022-10-06. Admit only the canonical 2022-07-29 through 2022-08-31 window and exclude the 36-day tail.",
-        "date_matches_sample_end": true,
+        "approved_override": "The immutable archive filename date is stale. Its full read-only Day-member stream is contiguous from 2022-07-29 through 2022-10-06; use those 70 cache days as the canonical sample span.",
+        "date_matches_sample_end": false,
         "eligible_candidates": [
           {
             "filename": "cache.20220831.tar.xz",
             "size": 48051200
           }
         ],
-        "expected_filename_date": "20220831"
+        "expected_filename_date": "20221006"
       },
       "worker_archive_relative_path": "renaissance.cache/cache.20220831.tar.xz"
     },
@@ -2031,7 +2031,7 @@
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "c90fe1b2e3a12fad28c168a5028fa67e9652b4488a66621ad923385afbbbaf03",
+  "source_map_sha256": "a62ff73505dc55029e8fdf1ee71cfd4e4a19e6d8daa988965e227d3fca3292e4",
   "status": "pass",
   "year": "2022"
 }

@@ -5,20 +5,20 @@
       "records": 32,
       "rsync_manifest": "eureka.rsync-files",
       "worker_map": "eureka.worker-map.json",
-      "worker_map_sha256": "cd3bc7388f01993e3c771eb1e3ae130ad3aa6378dc9fd597d8cb6f3f9705b8f7"
+      "worker_map_sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e"
     },
     "ord": {
       "archive_bytes": 55700603364,
       "records": 31,
       "rsync_manifest": "ord.rsync-files",
       "worker_map": "ord.worker-map.json",
-      "worker_map_sha256": "84ca677b76daff4ba0698fccd5acc2397f24be32a8bab848d58a94b630ad0aa7"
+      "worker_map_sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5"
     }
   },
   "schema": "alpha60-year-day-worker-preparation/1",
   "source_map": {
     "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-cache-archive-map.json",
-    "sha256": "c90fe1b2e3a12fad28c168a5028fa67e9652b4488a66621ad923385afbbbaf03"
+    "sha256": "a62ff73505dc55029e8fdf1ee71cfd4e4a19e6d8daa988965e227d3fca3292e4"
   },
   "status": "pass",
   "year": "2022"

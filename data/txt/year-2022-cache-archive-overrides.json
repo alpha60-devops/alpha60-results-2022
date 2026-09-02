@@ -14,7 +14,7 @@
     "renaissance": {
       "archive_date": "20220831",
       "observed_day_end": "2022-10-06",
-      "reason": "The immutable archive filename matches the canonical 2022-08-31 endpoint, but its full read-only Day-member stream continues contiguously through 2022-10-06. Admit only the canonical 2022-07-29 through 2022-08-31 window and exclude the 36-day tail."
+      "reason": "The immutable archive filename date is stale. Its full read-only Day-member stream is contiguous from 2022-07-29 through 2022-10-06; use those 70 cache days as the canonical sample span."
     }
   },
   "reviewed_by": "bdekoz",

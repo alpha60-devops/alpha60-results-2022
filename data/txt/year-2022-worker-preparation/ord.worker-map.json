@@ -1997,7 +1997,7 @@
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "c90fe1b2e3a12fad28c168a5028fa67e9652b4488a66621ad923385afbbbaf03",
+  "source_map_sha256": "a62ff73505dc55029e8fdf1ee71cfd4e4a19e6d8daa988965e227d3fca3292e4",
   "status": "pass",
   "year": "2022"
 }
