@@ -1,0 +1,22 @@
+{
+  "schema": "alpha60-year-cache-archive-overrides/1",
+  "year": "2022",
+  "status": "reviewed-pending-map-validation",
+  "overrides": {
+    "flight-attendant-201": {
+      "archive_date": "20220629",
+      "reason": "The only immutable archive ends 2022-06-29; admit only the canonical 2022-04-21 through 2022-06-01 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "glass-onion": {
+      "archive_date": "20230413",
+      "reason": "The only immutable archive ends 2023-04-13; admit only the canonical 2022-12-23 through 2023-03-23 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "renaissance": {
+      "archive_date": "20220831",
+      "observed_day_end": "2022-10-06",
+      "reason": "The immutable archive filename matches the canonical 2022-08-31 endpoint, but its full read-only Day-member stream continues contiguously through 2022-10-06. Admit only the canonical 2022-07-29 through 2022-08-31 window and exclude the 36-day tail."
+    }
+  },
+  "reviewed_by": "bdekoz",
+  "reviewed_datestamp": "2026-09-01"
+}

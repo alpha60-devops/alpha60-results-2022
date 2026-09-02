@@ -1,0 +1,14 @@
+{
+  "schema": "alpha60-year-media-object-campaign-scope/1",
+  "year": "2022",
+  "status": "pass",
+  "cohort_policy": "canonical sample_year_start equals 2022, exact canonical cache directory and member key, and terminal discovery disposition",
+  "discovery_receipt_sha256": "d83e4ddf0841e7706a1e530cf0576d3de9e8e541f51971903f01bdd448ee95c3",
+  "inventory_sha256": "4b23d5579c1c0b49b0e1e96dd2421f2ca54e4e900753764f11b2fb87841a1791",
+  "inventory_records": 63,
+  "excluded_collection_keys": [],
+  "exclusions": [],
+  "reviewed_by": "bdekoz",
+  "reviewed_datestamp": "2026-09-01",
+  "notes": "All 63 canonical year-2022 records have terminal passing discovery rows. Legacy cache directories without a canonical 2022 sample contract are recorded in the discovery receipt and are outside this metadata-anchored cohort."
+}
