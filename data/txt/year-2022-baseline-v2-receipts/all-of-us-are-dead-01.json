@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14169960",
+    "imdb_id": "tt14169960",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q96414952",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/All_of_Us_Are_Dead"
+  },
+  "coverage_sha256": "633a0c5a920a2958625f59d6f31b8abd4559ddf2dd94fe1a0027245c7739c1ee",
+  "generated_at": "2026-09-03T00:28:03.065203+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/all-of-us-are-dead-01.cache/cache.20220512.tar.xz",
+      "sha256": "aea5293ee3d8379b9c57849833154761557f3310721043d5313b1aa439615610",
+      "size": 1121024940
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/all-of-us-are-dead-01.md",
+      "sha256": "72edc67d84e0ec981c25bf6accb05399ad5fc90a410b34513867a05646d214ce",
+      "size": 648
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/all-of-us-are-dead-01.json",
+      "sha256": "4674af2b47496006eabee070177726472480458e1079f72c6aa874d22bd15680",
+      "size": 2758
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/all-of-us-are-dead-01.json",
+      "sha256": "941d25c33c9535d32f27b868f9fc72646f7ceb7354779486531e7e21b07f551f",
+      "size": 375
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "all-of-us-are-dead-01",
+  "published_files": {
+    "data/csv/bytes/all-of-us-are-dead-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "13473a43515ae89251b9239c56b68e9fdb7d2da4807385772ccfb72430d3db2d",
+    "docs/itemized/all-of-us-are-dead-01-sample-cache-audit.md": "96c78cd1916a226f8bb763998842278e0b16d4fe3e27cb536d16426a5f1657d6",
+    "docs/itemized/figures/all-of-us-are-dead-01-carto-4k.webp": "3185a9cea216a3087e4a059b5c699b2c636637c18a90094d81968c33f304329a",
+    "docs/itemized/figures/all-of-us-are-dead-01-carto.png": "4e5344962e8b28ea8ea2c93fb0e4cd37021e0a9fefb8684a106aa0e9435b8593",
+    "docs/itemized/figures/all-of-us-are-dead-01-cumulative-detail-btiha-itemized-by-bytes.svg": "20dea5ad350c5abd86b6efc4b21e0de8bbc8f5c5d254eb3d2aa93f224763b2f7",
+    "docs/itemized/figures/all-of-us-are-dead-01-data-ge-1080p-4k.webp": "af8a3efef1d01067a447b4783b0c42c71ab1872676866adfb58a75db854c3622",
+    "docs/itemized/figures/all-of-us-are-dead-01-data-ge-1080p.webp": "2b9459fbfa641fa7af44757430f5d86aa34da744ca5178f581e7501abdec5dc2",
+    "docs/itemized/figures/all-of-us-are-dead-01-data-lt-1080p-4k.webp": "b795caf70e018bc88ca46a90dd10359ed165fa0dc1cadadd673f937a44bb939a",
+    "docs/itemized/figures/all-of-us-are-dead-01-data-lt-1080p.webp": "dc429e39865ffc90ba6ae319f9766be685f95e29975b2e062d5ff015e2f1c43c",
+    "docs/itemized/figures/all-of-us-are-dead-01-downloads-by-day-day.svg": "5f8bf8fa7bf04b779487a249420e8a2adbec45b9246de298c5eba05492a4974c",
+    "docs/itemized/figures/all-of-us-are-dead-01-downloads-by-week-all-of-us-are-dead-01-week.svg": "e73cacd082d8c6d2956d03a8c9c917cc99ae584a8100e4b49a416ee7253319c6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/all-of-us-are-dead-01/tmp/all-of-us-are-dead-01-cumulative-btiha.geojson",
+        "sha256": "f88603a6556ed39b829e38fa9a2f67af4613a751709fb68368819ec6823e4854",
+        "size": 76234727
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/all-of-us-are-dead-01/tmp/all-of-us-are-dead-01-cumulative-btiha-media-objects.json",
+        "sha256": "65321297bc7cb16c01cb6aa9bee466944123a8f1426a29be75292b42eaea8be0",
+        "size": 3252997
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "all-of-us-are-dead-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          45.0,
+          39.0,
+          36.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Quezon City",
+          "Ashburn",
+          "Shanghai",
+          "Saint Petersburg",
+          "Mumbai",
+          "London",
+          "Shenzhen",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          70.0,
+          62.0,
+          58.0,
+          45.0,
+          34.0,
+          32.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Quezon City",
+          "Mumbai",
+          "Ashburn",
+          "Delhi",
+          "Saint Petersburg",
+          "London",
+          "Dhaka",
+          "Kolkata"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 40,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
