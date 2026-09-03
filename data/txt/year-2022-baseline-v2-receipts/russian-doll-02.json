@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7520794",
+    "imdb_id": "tt7520794",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q55632122",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)"
+  },
+  "coverage_sha256": "f557499faaacea26465e45903a6f3c76b154c9f71e1d8cdad4432c94843179cb",
+  "generated_at": "2026-09-03T02:46:49.009106+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/russian-doll-02.cache/cache.20220628.tar.xz",
+      "sha256": "ae56175e358f01f555e4afd45eabe52d864b37bde8c4c71ae501cb567cb9d033",
+      "size": 275318288
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/russian-doll-02.md",
+      "sha256": "1cf5c36f0477838d356c209533be59dd6a383e19f5b5b134b11a8cbca080a9a9",
+      "size": 563
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/russian-doll-02.json",
+      "sha256": "8d71f242ac5446c81ce096596ab9337af3209122f6bccf47f59d258ea04961bb",
+      "size": 2449
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/russian-doll-02.json",
+      "sha256": "ee2ac8767f2d3a8507cc0d15e21a68af65eb14f1ef30872fc595c3bc21379dfc",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "russian-doll-02",
+  "published_files": {
+    "data/csv/bytes/russian-doll-02-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "ddba13d73b9832bd58d169d19f45580bb270ff6ecbb4448aa13b8c31daab296f",
+    "docs/itemized/figures/russian-doll-02-carto-4k.webp": "b30a67e732c9242c2f79033865c621b32b051571b24ecc3c1f00d75ed0539d3f",
+    "docs/itemized/figures/russian-doll-02-carto.png": "d33dca48082ebe6bf25bd9a73764fd6bc58cc2c1d2b85edec012867f7d3721f6",
+    "docs/itemized/figures/russian-doll-02-cumulative-detail-btiha-itemized-by-bytes.svg": "c76a4cab23b96709a825393ef7a7c6d538fbbe7028f5c654f49bbbb92435f6eb",
+    "docs/itemized/figures/russian-doll-02-data-ge-1080p-4k.webp": "c949f3c63136552f9768dc9896121292c855e64af4bd5b8e7a4bb53cb67376c9",
+    "docs/itemized/figures/russian-doll-02-data-ge-1080p.webp": "bc955f298ea4d5d68d9cfde7a60c248b34e6fdb97394683ae8926df460c64e95",
+    "docs/itemized/figures/russian-doll-02-data-lt-1080p-4k.webp": "eae42c255ac51ba98c3db5c1114931c97dd3936fa5d2ea7344f269a642e98b87",
+    "docs/itemized/figures/russian-doll-02-data-lt-1080p.webp": "6ef2a1b9aa05876cc5cb7f34ba1d7f1e2938dcb69fdad9c456f4ba4a15bc1e67",
+    "docs/itemized/figures/russian-doll-02-downloads-by-day-day.svg": "5fb16c888e756acf2b090013eef1dfe2d85b2e1af55171ac4668b0314873943f",
+    "docs/itemized/figures/russian-doll-02-downloads-by-week-russian-doll-02-week.svg": "1ae9b297e5146e6b7824d2c0bc02bd39d94381d51745e4a65bd6db8b28a346b6",
+    "docs/itemized/russian-doll-02-sample-cache-audit.md": "2411284bd74703262cca3bac07d9a2c0c35944b38be601dad3625a3a0fe49020",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/russian-doll-02/tmp/russian-doll-02-cumulative-btiha.geojson",
+        "sha256": "c788831609d29632753535986ca8c5ed47ff01ce82af8dd36a686f7a5e52159b",
+        "size": 32954386
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/russian-doll-02/tmp/russian-doll-02-cumulative-btiha-media-objects.json",
+        "sha256": "17cd00cbd0bfd43d7d989d853f42963f2d38b1a4aebe8fb491a2bb50bdb9f015",
+        "size": 577252
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "russian-doll-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          43.0,
+          35.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Paris",
+          "Yekaterinburg",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          39.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Seoul",
+          "Amsterdam",
+          "Paris",
+          "New York City",
+          "Lelystad",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 35,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
