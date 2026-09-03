@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9032400",
+    "imdb_id": "tt9032400",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q23894629",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eternals_(film)"
+  },
+  "coverage_sha256": "a8598385f4dc700b7f862d061709aa09bee5769fb0d7f9facf623d4f63168ee3",
+  "generated_at": "2026-09-03T01:29:54.406674+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/eternals.cache/cache.20220426.tar.xz",
+      "sha256": "5aebb02d7222849634ca5ce9d2455f594be64c4e722313e1be3b696e526d0693",
+      "size": 7107691280
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/eternals.md",
+      "sha256": "41264984504f15d41bac64294593a96cce130737dcb1611079be1da3768931da",
+      "size": 796
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/eternals.json",
+      "sha256": "e32021cb407bcab02c3b704d647ac124a6999fdee1d7cfe59e6353ea04565249",
+      "size": 2720
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/eternals.json",
+      "sha256": "87a4ff50bee2b7206560be134394f55b9daa6d86b1c775c5dcd9ec14ee31e797",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "eternals",
+  "published_files": {
+    "data/csv/bytes/eternals-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "668454d0f128007f8edfacf8d393cd9fba52616adae1a31d1436bea7da7c13b4",
+    "docs/itemized/eternals-sample-cache-audit.md": "9ebfd661a3cf1f40d8b46a9ce2efa378a6e29cbe302c8819233bef983ac7e3e6",
+    "docs/itemized/figures/eternals-carto-4k.webp": "59eb02c45ab7d04c42006618ef01edcf9536da8b6bcd0c227777026879680914",
+    "docs/itemized/figures/eternals-carto.png": "befbcfc1e91c63745c1032685309558355562020e2f95661cb7dfa32ee00e7fb",
+    "docs/itemized/figures/eternals-cumulative-detail-btiha-itemized-by-bytes.svg": "8eaddb1d00f016cb6c1887d9371ada3d8aa9fc0e88940b71e7cf4caf6010b5cc",
+    "docs/itemized/figures/eternals-data-ge-1080p-4k.webp": "f31d04ad9ee00712c94a0b9bd87f74150f5a30373cbc82054f0988fe02133215",
+    "docs/itemized/figures/eternals-data-ge-1080p.webp": "6cec7324a842b844246c0ad410010240196ecebf9fbf90e77767dd9378a0210d",
+    "docs/itemized/figures/eternals-data-lt-1080p-4k.webp": "d37b25763d712779d227dc32cf3f44e5bccd0a4e5de7c202ca9b10677a32ccfd",
+    "docs/itemized/figures/eternals-data-lt-1080p.webp": "af03a07681eadea9484179bec3a2d11e267ee30296dcc2ffb1c177400d959a22",
+    "docs/itemized/figures/eternals-downloads-by-day-day.svg": "8b438ae986f046be51e42699b29f661a18502ddfb6d0bff1ccf6529011a06bd2",
+    "docs/itemized/figures/eternals-downloads-by-week-eternals-week.svg": "5d550657e77be529f4d1bbeeb1039a6f597ea4322461dfb8b984cceaf34340ec",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/eternals/tmp/eternals-cumulative-btiha.geojson",
+        "sha256": "e1cfad172b5f3acc218946242c9a03ad718f4441ec9d07bf9f39e010490063a1",
+        "size": 213863060
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/eternals/tmp/eternals-cumulative-btiha-media-objects.json",
+        "sha256": "7f33226b817b777582bfe6a399ccbde7faec8670abc062e0f76ec15b264fbf05",
+        "size": 1345634
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "eternals",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          47.0,
+          42.0,
+          41.0,
+          34.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Mumbai",
+          "Johannesburg",
+          "Saint Petersburg",
+          "Ashburn",
+          "Quezon City",
+          "Shanghai",
+          "Delhi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Seoul",
+          "Ashburn",
+          "Mumbai",
+          "Krasnodar",
+          "Quezon City",
+          "London",
+          "Nizhniy Novgorod",
+          "Hyderabad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 57,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
