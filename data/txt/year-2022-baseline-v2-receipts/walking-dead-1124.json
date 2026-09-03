@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1520211",
+    "imdb_id": "tt1520211",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q232737",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"
+  },
+  "coverage_sha256": "52bb920362dae1650c985b2705276725c089f54d30a8b6b9b5cbd6aff4144216",
+  "generated_at": "2026-09-03T03:33:24.308015+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/walking-dead-1124.cache/cache.20230129.tar.xz",
+      "sha256": "7918697875dee4d4cf559429286b72b8d633f6f70ba734ec95c5ac93cbb4a836",
+      "size": 676138504
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/walking-dead-1124.md",
+      "sha256": "3dff551f666bc9790c7fb45c323f27fa688b1eb6b816b6dba6d45f6fcf4ff9b2",
+      "size": 567
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/walking-dead-1124.json",
+      "sha256": "63b46b4ef80c8804c2870d190452c688a99802161fae17b577fe8936ac46aad6",
+      "size": 2455
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/walking-dead-1124.json",
+      "sha256": "8e093b166968fc5aeb62237294302a8b9dae5f25e0a1f04c0a02153a1b74b7f1",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "walking-dead-1124",
+  "published_files": {
+    "data/csv/bytes/walking-dead-1124-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "cc7018710dd47dd66e2ce2ac3ff7425e1aef8c45c10c80a1e44f382e971184f7",
+    "docs/itemized/figures/walking-dead-1124-carto-4k.webp": "234d0bab9bc171134a287057aaa426b74aab837b87827e664ca86409ee756e01",
+    "docs/itemized/figures/walking-dead-1124-carto.png": "93b0af489ca120f496b37390392bfd4e74e8e32800f82f441a94ee6f184fba03",
+    "docs/itemized/figures/walking-dead-1124-cumulative-detail-btiha-itemized-by-bytes.svg": "fb70c754c52ec02608e5cf606afa1ca4422932b64c4bd74b2fc6562163a71322",
+    "docs/itemized/figures/walking-dead-1124-data-ge-1080p-4k.webp": "8e0832ee75811475cf74c28c3578c9cfbac90301c2fe057190dc061e29308dfe",
+    "docs/itemized/figures/walking-dead-1124-data-ge-1080p.webp": "707bcf95e2c43731047f2a1372da82c287a20dceaab65685f34229365df30a13",
+    "docs/itemized/figures/walking-dead-1124-data-lt-1080p-4k.webp": "c5f1baf6e0517df2af5584af796a3cc886154edbf0ce608efd591575aee6dce4",
+    "docs/itemized/figures/walking-dead-1124-data-lt-1080p.webp": "e90ac055d79718aa8648ec7452020c081c7cd19c3f054ae1177a49ef30b359bf",
+    "docs/itemized/figures/walking-dead-1124-downloads-by-day-day.svg": "3763302ddd74f0ea0c8a720a5ee0f20892091c9de1a2848b3ed80cc0b0d3fa47",
+    "docs/itemized/figures/walking-dead-1124-downloads-by-week-walking-dead-1124-week.svg": "7df4a9dfb63e4b13ef3e5968df59f02330e25f7cd04cd79684106cd0f631256f",
+    "docs/itemized/walking-dead-1124-sample-cache-audit.md": "ca3d1454f9b6c2d6c85eab94c481fe470f4750275fffcb171753cee7d3e3b246",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/walking-dead-1124/tmp/walking-dead-1124-cumulative-btiha.geojson",
+        "sha256": "14dc0b0a0ff098553545d6100b54a88413f316487e25419888ee320fae651183",
+        "size": 54476028
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/walking-dead-1124/tmp/walking-dead-1124-cumulative-btiha-media-objects.json",
+        "sha256": "9dc56cdaca06e91243128198b37758a820643743c9d0ebb156507a72f10f6f23",
+        "size": 606729
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "walking-dead-1124",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          41.0,
+          39.0,
+          35.0,
+          32.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Amsterdam",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Madrid",
+          "Paris",
+          "Istanbul",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          42.0,
+          35.0,
+          34.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Amsterdam",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "New York City",
+          "Istanbul",
+          "Shanghai",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
