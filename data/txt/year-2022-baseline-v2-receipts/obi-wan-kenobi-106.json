@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8466564",
+    "imdb_id": "tt8466564",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q104154217",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Obi-Wan_Kenobi_(miniseries)"
+  },
+  "coverage_sha256": "a032fb778de093b8fd2ea3ecadf8452cf0e7c0d0602c91e0966329e067d97ae9",
+  "generated_at": "2026-09-03T02:13:32.478675+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/obi-wan-kenobi-106.cache/cache.20221004.tar.xz",
+      "sha256": "77bb72f49551a87ae400b7725b7d8614130b25c635868bfba39fc5b058849b0b",
+      "size": 2550637208
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/obi-wan-kenobi-106.md",
+      "sha256": "252eae54d55b47d9ca673c4ca56f63d4814954e81262238eef265f2b9a46a04c",
+      "size": 730
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/obi-wan-kenobi-106.json",
+      "sha256": "bdab49db8ac98eaebcdd4cb4b9122b6591de56a292688c8d4daa5dd6d56318fc",
+      "size": 2749
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/obi-wan-kenobi-106.json",
+      "sha256": "e0ff38f99bd1b9e4644970822cac9f702b5d5649761267ef49935dc008cac291",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "obi-wan-kenobi-106",
+  "published_files": {
+    "data/csv/bytes/obi-wan-kenobi-106-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "2800f07cc6b9a6cf86d268d2556fc62752aa8d120ada23d58b309cbce9173114",
+    "docs/itemized/figures/obi-wan-kenobi-106-carto-4k.webp": "1e8bb08bf419d5dc133bb55459965dbade9b43172db0b037e372a11ff4e6fcfd",
+    "docs/itemized/figures/obi-wan-kenobi-106-carto.png": "b7a3f89ce8b1551891f235ac53e9f9e8eeb2aff47aedccdab1d1117ba9d3700b",
+    "docs/itemized/figures/obi-wan-kenobi-106-cumulative-detail-btiha-itemized-by-bytes.svg": "2039621d37fadc30c6457512b72e9fe8436d1791e35338aa305837107f78dbae",
+    "docs/itemized/figures/obi-wan-kenobi-106-data-ge-1080p-4k.webp": "f062ec57fe3a0bfac01975ca7bf912a72a474f393a21443ffba8db8582d5f510",
+    "docs/itemized/figures/obi-wan-kenobi-106-data-ge-1080p.webp": "276e25a9af8966c2ea854882ae34efa2d567ecbf5c956124b233df44c0512bcd",
+    "docs/itemized/figures/obi-wan-kenobi-106-data-lt-1080p-4k.webp": "315570c0c89d755d515dd6ad28239fe08a0a79f23d2668f5b52f1e4901dd3e6e",
+    "docs/itemized/figures/obi-wan-kenobi-106-data-lt-1080p.webp": "66c57442b733fcfe436089368cf95ba27f778eef5a94cb6fa119b1cb475eda1f",
+    "docs/itemized/figures/obi-wan-kenobi-106-downloads-by-day-day.svg": "da42db2d890ba5a12d78ee7efce97681d932aabad7d01eaecd6bfca79f3026ce",
+    "docs/itemized/figures/obi-wan-kenobi-106-downloads-by-week-obi-wan-kenobi-106-week.svg": "82d95acd7d5b1d3fd6bbf24d93874e651018bd13df1166c58d92d5f8d48269d8",
+    "docs/itemized/obi-wan-kenobi-106-sample-cache-audit.md": "24346cf1a2c4925d0fe92771c909d0446ed76a45795c16b94b617584501bb465",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/obi-wan-kenobi-106/tmp/obi-wan-kenobi-106-cumulative-btiha.geojson",
+        "sha256": "64e85b6f59585dddefcfcc0dd6d661bec0dd8d3d7b8fe84bd69348f78ccf4676",
+        "size": 116768980
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/obi-wan-kenobi-106/tmp/obi-wan-kenobi-106-cumulative-btiha-media-objects.json",
+        "sha256": "35826bc2a797748062a38aad846d1bc7140941daeee3e49ebf4f8452f7bdb5ff",
+        "size": 1034792
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "obi-wan-kenobi-106",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          36.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Amsterdam",
+          "Sofia",
+          "Frankfurt am Main",
+          "Shanghai",
+          "Krasnodar"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          37.0,
+          35.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Ashburn",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Sofia",
+          "Frankfurt am Main",
+          "New York City",
+          "Madrid"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 54,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
