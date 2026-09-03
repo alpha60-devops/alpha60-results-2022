@@ -1,0 +1,331 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2022",
+  "status": "pass",
+  "counts": {
+    "passed": 63,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 63,
+    "unique": 63
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "abbott-elementary-113",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "all-of-us-are-dead-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "all-the-old-knives",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "andor-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "andy-warhol-diaries-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "archer-1308",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "atlanta-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "atlanta-310",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "atlanta-410",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "book-of-boba-fett-107",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-308",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-presents-diabolical-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "bridgerton-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "enola-holmes-2",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "eternals",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "euphoria-208",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "everything-everywhere-all-at-once",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-606",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "fistful-of-vengeance",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "flight-attendant-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "glass-onion",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "gray-man",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "harley-quinn-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-the-dragon-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-the-dragon-103",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "house-of-the-dragon-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "inventing-anna-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "jeen-yuhs-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "kimi",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-407",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "obi-wan-kenobi-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "obi-wan-kenobi-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "old-man-107",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "pantheon-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "paper-girls-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "peripheral-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "peripheral-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "prehistoric-planet-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "prey",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "raised-by-wolves-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "raised-by-wolves-208",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "renaissance",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "reservation-dogs-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "rings-of-power-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "rings-of-power-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "roar-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "russian-doll-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "sandman-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "spider-man-no-way-home",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "stranger-things-04.1",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "stranger-things-04.2",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "turning-red",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "undone-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-1124",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "wednesday-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-401",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-408",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "witcher-blood-origin-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowjackets-110",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

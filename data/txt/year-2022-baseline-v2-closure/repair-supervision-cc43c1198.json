@@ -1,0 +1,65 @@
+{
+  "schema": "alpha60-year-baseline-v2-repair-supervision/1",
+  "year": "2022",
+  "status": "pass",
+  "service": {
+    "name": "alpha60-year-2022-repair-supervisor-cc43c1198.service",
+    "invocation_id": "",
+    "result": "success",
+    "exec_main_status": 0,
+    "started_at": "2026-09-03T01:19:01-07:00",
+    "repair_worker_pid": 1249753,
+    "repair_finished_at": "2026-09-03T01:19:18-07:00"
+  },
+  "guard": {
+    "required_original_records": 32,
+    "required_original_passed": 31,
+    "required_original_errors": 1,
+    "required_error_keys": [
+      "renaissance"
+    ],
+    "original_worker_receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-run.json",
+      "size": 17533,
+      "sha256": "f39402a1b6f17a272a8e1d27180984d5fe754eaf4e2ea623599c77687d59c499"
+    },
+    "original_archive_verification_sha256": "b6be920e4c4aba00f540b9def839f1311479f56882ac0a4cc2fcb3a4c933a3b3",
+    "supervisor_script": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/year-2022-repair-supervisor-cc43c1198.sh",
+      "size": 3240,
+      "sha256": "1de6ac9c1acc9979c94c0c22de67144a0ffc0bf0baf8418b9d6c7933420fdbd2"
+    }
+  },
+  "repair_bundle": {
+    "alpha60_revision": "cc43c11988454ec298675491af25a3069706d31b",
+    "path": "/home/bkoz/src/alpha60/build/year-2022-repair-cc43c1198",
+    "binaries": {
+      "a60-carto-geo.exe": "71c1d7a72f66ac4fc24f3cfa39bc99618b91356033d710d3e3c156061eb2f87c",
+      "a60-meta-collection.exe": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65"
+    }
+  },
+  "repair_worker": {
+    "receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-run.repair-cc43c1198.json",
+      "size": 1428,
+      "sha256": "73b45244360eba348adec6916a1cf34c676c0afe1b1540b5967135613631b28e"
+    },
+    "log": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker.repair-cc43c1198.log",
+      "size": 68897,
+      "sha256": "88be32b0073ccc9a05c4b7c6e78365b62a6f4b42e09519e92a94145205d3e25e"
+    },
+    "counts": {
+      "records": 1,
+      "passed": 1,
+      "errors": 0
+    },
+    "records": [
+      {
+        "collection_key": "renaissance",
+        "status": "pass",
+        "results_revision": "7d780e98ee034bc1a11ea24d2fb3a9c7a71603f6"
+      }
+    ]
+  }
+}

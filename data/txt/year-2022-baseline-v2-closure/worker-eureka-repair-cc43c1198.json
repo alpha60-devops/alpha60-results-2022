@@ -1,0 +1,44 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/archive-verification.json",
+    "sha256": "b6be920e4c4aba00f540b9def839f1311479f56882ac0a4cc2fcb3a4c933a3b3",
+    "size": 19880
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-03T08:19:18.369722+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/renaissance.cache/cache.20220831.tar.xz",
+      "collection_key": "renaissance",
+      "executor": "eureka",
+      "finished_at": "2026-09-03T08:19:18.369244+00:00",
+      "owner": "eureka",
+      "results_revision": "7d780e98ee034bc1a11ea24d2fb3a9c7a71603f6",
+      "started_at": "2026-09-03T08:19:02.727629+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/renaissance",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-03T08:19:02.726812+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+    "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+    "size": 75716
+  },
+  "year": "2022"
+}
