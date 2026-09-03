@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4288182",
+    "imdb_id": "tt4288182",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q23016639",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlanta_(TV_series)"
+  },
+  "coverage_sha256": "e01e5f67a103f5ed1b4fd7427c5c54f3d5f6f55e768dbb1ceac394b1143bf00a",
+  "generated_at": "2026-09-03T00:34:47.561729+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/atlanta-301.cache/cache.20220602.tar.xz",
+      "sha256": "0c91af658b789f0d06e7fe8b38ba77f4f2dd3b3eac3fe00564b4dd3f67384a99",
+      "size": 258300360
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/atlanta-301.md",
+      "sha256": "4349e805479b3723c077ce1c3ed9c17f14a604efc9d8eb4c3453656f64fc39b3",
+      "size": 628
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/atlanta-301.json",
+      "sha256": "f45365506ae0e1314456b77716d33f541ec7faa8b859963c2d7b9d982f9aeab3",
+      "size": 2432
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/atlanta-301.json",
+      "sha256": "eedba23e986bc59153711f8af941825c83a3fe4da74e4cc4a1ebc198c43905f2",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "atlanta-301",
+  "published_files": {
+    "data/csv/bytes/atlanta-301-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "3c793871a2a438b5bf3b2d70049f192bc609ea319a03c54ce37224c00c372097",
+    "docs/itemized/atlanta-301-sample-cache-audit.md": "c8030e63afb78f84e7998663a9cc4e6b3371b2448327460463240e07daa5044e",
+    "docs/itemized/figures/atlanta-301-carto-4k.webp": "ba0915115141facca2d8881a370c0897958e9593b29f8349eaa717f29c55407f",
+    "docs/itemized/figures/atlanta-301-carto.png": "6f0fb87e05c0fb17254481e5670262e15ee3b0a70757787cfb087415755824a2",
+    "docs/itemized/figures/atlanta-301-cumulative-detail-btiha-itemized-by-bytes.svg": "50288e85aaea9e392e8ef74e9568cc99f312172a1c2ca90fb97501c0bb01e46b",
+    "docs/itemized/figures/atlanta-301-data-ge-1080p-4k.webp": "6c1be2e66908917df87e312d069b5d97b648b1b6985a5695ef3bce90d5909318",
+    "docs/itemized/figures/atlanta-301-data-ge-1080p.webp": "48b605148f78bbf396f99ca8f0e68aa7bcba3db2fb2ee634c5f56c66851b0e38",
+    "docs/itemized/figures/atlanta-301-data-lt-1080p-4k.webp": "a0495464e28a93f8fbbc5ffd22e84ae1b03fc15bfaca54c7e49ce190fedf3e76",
+    "docs/itemized/figures/atlanta-301-data-lt-1080p.webp": "2daef4148922d467d7d732a3d1a0c4bc885a8c812177b74c713077ccd63d5422",
+    "docs/itemized/figures/atlanta-301-downloads-by-day-day.svg": "3db97ab42350405e3b133c111a0fcabc435f04d5f0d5e0bd41462b36c65be4ec",
+    "docs/itemized/figures/atlanta-301-downloads-by-week-atlanta-301-week.svg": "3a6de5208e3c4aaf7d179504285998bf019b42f9a51e1cbfae1fa990d15ba1cf",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/atlanta-301/tmp/atlanta-301-cumulative-btiha.geojson",
+        "sha256": "950702c98621d58c1081f88c7b5ce54b71f5ea8c73531bc635006aed6780f887",
+        "size": 19908774
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/atlanta-301/tmp/atlanta-301-cumulative-btiha-media-objects.json",
+        "sha256": "546009060f28504951e1560b8facbc066350c1bb339ee91daea00cace8a7fee8",
+        "size": 149112
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "atlanta-301",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          42.0,
+          41.0,
+          36.0,
+          35.0,
+          31.0,
+          27.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Seoul",
+          "Toronto",
+          "Paris",
+          "S\u00e3o Paulo",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          62.0,
+          41.0,
+          39.0,
+          35.0,
+          34.0,
+          33.0,
+          31.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Ashburn",
+          "Amsterdam",
+          "New York City",
+          "Toronto",
+          "S\u00e3o Paulo",
+          "Paris",
+          "Johannesburg",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 21,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
