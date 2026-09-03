@@ -1,0 +1,4847 @@
+{
+    "collection_name": "Raised by Wolves",
+    "collection_id": "201",
+    "collection_key": "raised-by-wolves-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "81c0c400f15d2edacecffd1ba02a42f62f568896",
+            "duplicate_0_0": "Raised By Wolves (2020) S02E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "duplicate_0_1": "Raised-By-Wolves-(2020)-S02E01-(1080p-HMAX-WEB-DL-x265-HEVC-10bit-DD-5-1-Vyndros)"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "442f23936008e577a40f2a525dff0a2d7fbdea32",
+            "duplicate_1_0": "Raised By Wolves (2020) S02E02 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "duplicate_1_1": "Raised-By-Wolves-(2020)-S02E02-(1080p-HMAX-WEB-DL-x265-HEVC-10bit-DD-5-1-Vyndros)"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "7be3693560b6bf6877f01569fe8ca0f49937d797",
+            "duplicate_2_0": "Raised by Wolves (2022) (S02E01) (1080p)",
+            "duplicate_2_1": "raised.by.wolves.2020.s02e01.1080p.web.h264-cakes[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "200c0d5a432dc48dd34b423ee06819917c5a1016",
+            "duplicate_3_0": "Raised by Wolves (2022) (S02E01) (480p)",
+            "duplicate_3_1": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "128dea4497c88642681dcc5f925e557084cb5895",
+            "duplicate_4_0": "Raised by Wolves (2022) (S02E01) (720p)",
+            "duplicate_4_1": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "63749c6a64ac690b85ff85392198b29a8c2f096e",
+            "duplicate_5_0": "Raised by Wolves (2022) (S02E02) (1080p)",
+            "duplicate_5_1": "Raised by Wolves 2020 S02E02 1080p WEB H264-CAKES[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "768bbc48c7f01bdeb3d8b1cf4aee090b9623a83e",
+            "duplicate_6_0": "Raised by Wolves (2022) (S02E02) (480p)",
+            "duplicate_6_1": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "0ccab45fa30561394c376596b280dcc1366e2b76",
+            "duplicate_7_0": "Raised by Wolves (2022) (S02E02) (720p)",
+            "duplicate_7_1": "raised.by.wolves.2020.s02e02.720p.web.h264-cakes[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "91e2c9f9258d85e3e1e5d7881cfa97cfd74f23d1",
+            "duplicate_8_0": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]",
+            "duplicate_8_1": "Raised-by-Wolves-2020-S02E01-and-02-1080p-HMAX-WEBrip-x265-DD5-1-D0ct0rLew[SEV]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "dbfddba80d8e37869465d576fada2c15ced15037",
+            "duplicate_9_0": "Raised-by-Wolves-2020-S02E01-1080p-WEB-H264",
+            "duplicate_9_1": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "76159721f70c47d341292da8e6ad057cb00efd3e",
+            "duplicate_10_0": "Raised-by-Wolves-2020-S02E01-720p-WEB-H264",
+            "duplicate_10_1": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "f16f1ef52e63953448324ef6d7d1bec519c36e03",
+            "duplicate_11_0": "Raised-by-Wolves-2020-S02E02-1080p-WEB-H264",
+            "duplicate_11_1": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "6b2fecb8fc6429150fbb57a0f878dc09588b23d7",
+            "duplicate_12_0": "Raised-by-Wolves-S02E01-WEBRip-x264",
+            "duplicate_12_1": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_12_2": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "250a22d7b9ef3e4eaec9fc21ab446805c20467f2",
+            "duplicate_13_0": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "duplicate_13_1": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "6ebf8b0ae8e9083edbcdf905b72a082f7531968f",
+            "duplicate_14_0": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI",
+            "duplicate_14_1": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Люк Скотт, Алекс Габасси, Серджо Мимика-Геззан) [2022, США, ф [rutracker-6174279]",
+            "duplicate_14_2": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEBRip] [rutracker-6174279]"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "af72bab429e35357e151ecabd0f12e122250d419",
+            "duplicate_15_0": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_15_1": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "7c890cd4fd369b9f05be21c872373ecb85ca0f87",
+            "duplicate_16_0": "[rutor.is]Raised by Wolves_(s02)_1080p",
+            "duplicate_16_1": "Raised-by-Wolves-S02-1080p-HMAX-WEB-DL-DD5-1-H-264",
+            "duplicate_16_2": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD",
+            "duplicate_16_3": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEB-DL 1 [rutracker-6173975]"
+        },
+        {
+            "duplicate_id": 17,
+            "duplicate_btih": "339169df7c140eb44a446339e9389152ce782d5a",
+            "duplicate_17_0": "[rutor.is]Raised.by.Wolves.2020.S02.400p.Kerob",
+            "duplicate_17_1": "Raised.by.Wolves.2020.S02.400p.Kerob"
+        },
+        {
+            "duplicate_id": 18,
+            "duplicate_btih": "815262bb9517fbdc21c1666a9f40adcbb078bebe",
+            "duplicate_18_0": "[rutor.is]Raised.by.Wolves.2020.S02E01.1080p.VP",
+            "duplicate_18_1": "Raised-by-Wolves-2020-S02-1080p-ViruseProject",
+            "duplicate_18_2": "Raised.by.Wolves.2020.S02.1080p.ViruseProject"
+        },
+        {
+            "duplicate_id": 19,
+            "duplicate_btih": "2d9d32a1ea9bd9c48f7ee85693a510fca7d11f3e",
+            "duplicate_19_0": "[rutor.is]Raised.by.Wolves.2020.S02E01.400p.VP",
+            "duplicate_19_1": "Raised-by-Wolves-2020-S02-400p-ViruseProject",
+            "duplicate_19_2": "Raised.by.Wolves.2020.S02.400p.ViruseProject"
+        },
+        {
+            "duplicate_id": 20,
+            "duplicate_btih": "eb8f2241141a7b57b0d9ca98d2bbc04ebbff7105",
+            "duplicate_20_0": "[rutor.is]Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDR",
+            "duplicate_20_1": "Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDREZKA.STUDIO"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911",
+            "size_total": 7.192697836,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.777648175,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E01.REPACK.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E01.REPACK.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E01.REPACK.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E01.REPACK.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.60065579,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E02.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E02.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E02.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E02.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 5,
+                    "size": 0.710973407,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E03.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E03.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E03.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E03.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 0.672229593,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E04.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E04.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E04.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E04.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 9,
+                    "size": 0.799688567,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E05.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E05.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E05.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E05.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 11,
+                    "size": 0.80707527,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E06.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY/Raised.by.Wolves.2020.S01E06.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.00000661,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E06.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY/Raised.by.Wolves.2020.S01E06.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 13,
+                    "size": 0.715901904,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E07.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY/Raised.by.Wolves.2020.S01E07.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.00000661,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E07.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY/Raised.by.Wolves.2020.S01E07.REPACK.FRENCH.LD.AMZN.WEB-DL.x264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 15,
+                    "size": 0.720179767,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E08.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E08.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E08.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E08.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 17,
+                    "size": 0.651299596,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E09.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E09.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E09.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E09.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                },
+                {
+                    "number": 19,
+                    "size": 0.736979675,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E10.FiNAL.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E10.FiNAL.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.mkv"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000006609,
+                    "path": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911/Raised.by.Wolves.2020.S01E10.FiNAL.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY/Raised.by.Wolves.2020.S01E10.FiNAL.FRENCH.LD.HMAX.WEB-DL.H264-FRATERNiTY.nfo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.com ] Raised.By.Wolves.2020.S02E01.FASTSUB.VOSTFR.WEBRip.x264-WEEDS.mp4",
+            "size_total": 0.377012189,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.377012189,
+                    "path": "[ Torrent911.com ] Raised.By.Wolves.2020.S02E01.FASTSUB.VOSTFR.WEBRip.x264-WEEDS.mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[BD影视分享bd2020.co]异星灾变.Raised.by.Wolves.S02E01.HD1080P.官方中字.霸王龙压制组.mp4",
+            "size_total": 0.967308504,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.967308504,
+                    "path": "[BD影视分享bd2020.co]异星灾变.Raised.by.Wolves.S02E01.HD1080P.官方中字.霸王龙压制组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Raised by Wolves",
+            "size_total": 8.042532864,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.6793216,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E01.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.7023104,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E02.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.688121856,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E03.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.693516288,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E04.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.675856384,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E05.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.675659776,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E06.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.687261696,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E07.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.687081472,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E08.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.695232512,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E09.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.687069184,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E10.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.61581312,
+                    "path": "Raised.by.Wolves/S02/Raised.by.Wolves.S02E01.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.555288576,
+                    "path": "Raised.by.Wolves/S02/Raised.by.Wolves.S02E02.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Raised by Wolves_(s01)_LF_1080p",
+            "size_total": 33.214711186,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.583256701,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.777010677,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E02.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.288293839,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E03.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.100376784,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E04.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.702710499,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E05.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.718502811,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E06.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.29468347,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E07.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.324993687,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E08.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.011277786,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E09.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.413604932,
+                    "path": "Raised.by.Wolves.WEB-DL.1080p.LostFilm/Raised.by.Wolves.S01E10.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Raised by Wolves_(s02)_1080p",
+            "size_total": 6.37470946,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348482827,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026226633,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02.1080p.Kerob",
+            "size_total": 5.032787834,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.642447506,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.Kerob/Raised.by.Wolves.2020.S02E01.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.390340328,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.Kerob/Raised.by.Wolves.2020.S02E02.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02.400p.Kerob",
+            "size_total": 0.849425328,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.465126356,
+                    "path": "Raised.by.Wolves.2020.S02.400p.Kerob/Raised.by.Wolves.2020.S02E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.384298972,
+                    "path": "Raised.by.Wolves.2020.S02.400p.Kerob/Raised.by.Wolves.2020.S02E02.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01-02.1080p.VP",
+            "size_total": 6.374727106,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348492256,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.ViruseProject/Raised.by.Wolves.2020.S02E01.1080p.WEB-DL.ViruseProject.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.02623485,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.ViruseProject/Raised.by.Wolves.2020.S02E02.1080p.WEB-DL.ViruseProject.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01-02.400p.VP",
+            "size_total": 1.256102629,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.659822592,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.596099072,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Raised.by.Wolves.2020.S02E02.400p.WEB-DLRip.ViruseProject.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000043427,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Eng.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000050073,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Rus.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000040552,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E02.400p.WEB-DLRip.ViruseProject_Eng.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000046913,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E02.400p.WEB-DLRip.ViruseProject_Rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01.1080p.VP",
+            "size_total": 3.348491103,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348491103,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.ViruseProject/Raised.by.Wolves.2020.S02E01.1080p.WEB-DL.ViruseProject.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01.400p.VP",
+            "size_total": 0.659916092,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.659822592,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000043427,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000050073,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDR",
+            "size_total": 3.372230294,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.372230294,
+                    "path": "Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDREZKA.STUDIO/Raised.by.Wolves.2022.S02E01.WEB-DL.1080p.HMAX.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]Raised.by.Wolves",
+            "size_total": 7.487244288,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.6793216,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E01.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.7023104,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E02.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.688121856,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E03.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.693516288,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E04.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.675856384,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E05.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.675659776,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E06.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.687261696,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E07.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.687081472,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E08.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.695232512,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E09.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.687069184,
+                    "path": "Raised.by.Wolves/S01/Raised.by.Wolves.S01E10.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.61581312,
+                    "path": "Raised.by.Wolves/S02/Raised.by.Wolves.S02E01.avi"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]Raised_by_Wolves_s02_AlexFilm_1080p",
+            "size_total": 3.348367983,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348367983,
+                    "path": "Raised_by_Wolves_(s02)_AlexFilm_1080p/Raised.by.Wolves.2022.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.x264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Raised By Wolves (2020) S02E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "size_total": 1.288299268,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.288299268,
+                    "path": "Raised By Wolves (2020) S02E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)/Raised.by.Wolves.S02E01.The.Collective.1080p.10bit.HMAX.WEB-DL.DD5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Raised By Wolves (2020) S02E02 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "size_total": 1.045736924,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.045736924,
+                    "path": "Raised By Wolves (2020) S02E02 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)/Raised.by.Wolves.S02E02.Seven.1080p.10bit.HMAX.WEB-DL.DD5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Raised by Wolves (2020)",
+            "size_total": 33.21591687,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.777093911,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E02.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.011316168,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E09.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.100467167,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E04.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.288406169,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E03.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.294870383,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E07.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.325033092,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E08.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.413788877,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E10.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.583341742,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E01.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.702904423,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E05.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.718694938,
+                    "path": "Raised by Wolves (2020)/Raised.by.Wolves.2020.S01E06.1080p.HMAX.WEB-DL.DD5.1.HDrezka.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Raised by Wolves (2022) (S02E01) (1080p)",
+            "size_total": 3.205125884,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.205125884,
+                    "path": "raised.by.wolves.2020.s02e01.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Raised by Wolves (2022) (S02E01) (480p)",
+            "size_total": 0.278730964,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278730964,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Raised by Wolves (2022) (S02E01) (720p)",
+            "size_total": 1.27305512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.27305512,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Raised by Wolves (2022) (S02E02) (1080p)",
+            "size_total": 2.896714768,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.896714768,
+                    "path": "Raised by Wolves 2020 S02E02 1080p WEB H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Raised by Wolves (2022) (S02E02) (480p)",
+            "size_total": 0.238735923,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.238735923,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Raised by Wolves (2022) (S02E02) (720p)",
+            "size_total": 1.27305512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.27305512,
+                    "path": "raised.by.wolves.2020.s02e02.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Raised by Wolves (Season 2) (2022) [Ukr,Eng sub.Eng] WEB-DL 1080p [Hurtom]",
+            "size_total": 10.02787437,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348619087,
+                    "path": "Raised by Wolves (Season 2) (2022) [Ukr,Eng sub.Eng] WEB-DL 1080p [Hurtom]/Raised.by.Wolves.2022.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-Hurtom.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026368041,
+                    "path": "Raised by Wolves (Season 2) (2022) [Ukr,Eng sub.Eng] WEB-DL 1080p [Hurtom]/Raised.by.Wolves.2022.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-Hurtom.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.652887242,
+                    "path": "Raised by Wolves (Season 2) (2022) [Ukr,Eng sub.Eng] WEB-DL 1080p [Hurtom]/Raised.by.Wolves.2022.S02E03.Good.Creatures.1080p.HMAX.WEB-DL.DD5.1.x264-Hurtom.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 1080p",
+            "size_total": 3.348277443,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348277443,
+                    "path": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 1080p/Raised.by.Wolves.s02e01.WEB-DL.1080p.Rus.Eng.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 720p",
+            "size_total": 1.551785506,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.551785506,
+                    "path": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 720p/Raised.by.Wolves.s02e01.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Raised By Wolves - Temporada 2 [HDTV][Cap.201].avi",
+            "size_total": 0.585198458,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.585198458,
+                    "path": "Raised By Wolves - Temporada 2 [HDTV][Cap.201].avi"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART]",
+            "size_total": 0.585198693,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART]/ATOMIXHQ ART.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.585198458,
+                    "path": "Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART].avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]",
+            "size_total": 3.203405901,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/ATOMIXHQ ART.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 1.03809024,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART].part3.rar"
+                },
+                {
+                    "number": 6,
+                    "size": 0.089134946,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART].part4.rar"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]",
+            "size_total": 2.896043426,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]/ATOMIXHQ ART.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 0.819862711,
+                    "path": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]/Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART].part3.rar"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]",
+            "size_total": 3.553226923,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001057,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Contact SEV.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.014114021,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Raised by Wolves 2020 S02E01 The Collective 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.539111845,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Raised by Wolves 2020 S02E02 Seven 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Raised by Wolves 2020 S02E02 1080p WEB H264-CAKES[eztv.re].mkv",
+            "size_total": 2.896714768,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.896714768,
+                    "path": "Raised by Wolves 2020 S02E02 1080p WEB H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano",
+            "size_total": 1.751912321,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.09e-7,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/Canal de Noticias@yadixv.URL"
+                },
+                {
+                    "number": 2,
+                    "size": 2.14e-7,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/Descargar Torrent Gratis.URL"
+                },
+                {
+                    "number": 3,
+                    "size": 0.585198458,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/Raised By Wolves 2X1 HDTV XviD Castellano.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.528816212,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/Raised By Wolves 2X2 HDTV XviD Castellano.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.637897,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/Raised By Wolves 2X3 HDTV XviD Castellano.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 2.28e-7,
+                    "path": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano/YaDixv Facebook.URL"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Raised-By-Wolves-(2020)-S02E01-(1080p-HMAX-WEB-DL-x265-HEVC-10bit-DD-5-1-Vyndros)",
+            "size_total": 1.288299268,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.288299268,
+                    "path": "Raised By Wolves (2020) S02E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)/Raised.by.Wolves.S02E01.The.Collective.1080p.10bit.HMAX.WEB-DL.DD5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Raised-By-Wolves-(2020)-S02E02-(1080p-HMAX-WEB-DL-x265-HEVC-10bit-DD-5-1-Vyndros)",
+            "size_total": 1.045736924,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.045736924,
+                    "path": "Raised By Wolves (2020) S02E02 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)/Raised.by.Wolves.S02E02.Seven.1080p.10bit.HMAX.WEB-DL.DD5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Raised-by-Wolves-2020-S02-1080p-ViruseProject",
+            "size_total": 3.348491103,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348491103,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.ViruseProject/Raised.by.Wolves.2020.S02E01.1080p.WEB-DL.ViruseProject.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Raised-by-Wolves-2020-S02-400p-ViruseProject",
+            "size_total": 0.659916092,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.659822592,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000043427,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000050073,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Raised-by-Wolves-2020-S02E01-1080p-WEB-H264",
+            "size_total": 3.205126274,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.205125884,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Raised-by-Wolves-2020-S02E01-720p-WEB-H264",
+            "size_total": 1.408637929,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.40863754,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Raised-by-Wolves-2020-S02E01-and-02-1080p-HMAX-WEBrip-x265-DD5-1-D0ct0rLew[SEV]",
+            "size_total": 3.553226923,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001057,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Contact SEV.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.014114021,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Raised by Wolves 2020 S02E01 The Collective 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.539111845,
+                    "path": "Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]/Raised by Wolves 2020 S02E02 Seven 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Raised-by-Wolves-2020-S02E02-1080p-WEB-H264",
+            "size_total": 2.896715158,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.896714768,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Raised-by-Wolves-S02-1080p-HMAX-WEB-DL-DD5-1-H-264",
+            "size_total": 6.37470946,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348482827,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026226633,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Raised-by-Wolves-S02E01-WEBRip-x264",
+            "size_total": 0.502755282,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.502643579,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Raised.by.Wolves.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000045239,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000033285,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00003305,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/4_Portuguese.srt"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Raised.by.Wolves.1×01.lati.mp4",
+            "size_total": 0.529473774,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.529473774,
+                    "path": "Raised.by.Wolves.1×01.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Raised.by.Wolves.1×02.lati.mp4",
+            "size_total": 0.410143269,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.410143269,
+                    "path": "Raised.by.Wolves.1×02.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Raised.by.Wolves.1×10.lati.mp4",
+            "size_total": 0.504214378,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.504214378,
+                    "path": "Raised.by.Wolves.1×10.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Raised.by.Wolves.2020.S02.1080p.ViruseProject",
+            "size_total": 3.348491103,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348491103,
+                    "path": "Raised.by.Wolves.2020.S02.1080p.ViruseProject/Raised.by.Wolves.2020.S02E01.1080p.WEB-DL.ViruseProject.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Raised.by.Wolves.2020.S02.400p.Kerob",
+            "size_total": 0.849425328,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.465126356,
+                    "path": "Raised.by.Wolves.2020.S02.400p.Kerob/Raised.by.Wolves.2020.S02E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.384298972,
+                    "path": "Raised.by.Wolves.2020.S02.400p.Kerob/Raised.by.Wolves.2020.S02E02.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Raised.by.Wolves.2020.S02.400p.ViruseProject",
+            "size_total": 0.659916092,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.659822592,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000043427,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000050073,
+                    "path": "Raised.by.Wolves.2020.S02.400p.ViruseProject/Subs/Raised.by.Wolves.2020.S02E01.400p.WEB-DLRip.ViruseProject_Rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "raised.by.wolves.2020.s02e01.1080p.60FPS.Dubbed.HEVC.8bit.AC3.ytcodecs",
+            "size_total": 1.221488856,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.48e-7,
+                    "path": "raised.by.wolves.2020.s02e01.1080p.60FPS.Dubbed.HEVC.8bit.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 1.221488208,
+                    "path": "raised.by.wolves.2020.s02e01.1080p.60FPS.Dubbed.HEVC.8bit.AC3.ytcodecs/raised.by.wolves.2020.s02e01.1080p.60FPS.Dubbed.HEVC.8bit.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.523742969,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.508069228,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005787419,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004775368,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.0051098,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.508069228,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.508069228,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.5080711,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.508069228,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 3.205128165,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.055127264,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.35,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.4e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES",
+            "size_total": 3.205160855,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.205125884,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000034971,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.srt"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "raised.by.wolves.2020.s02e01.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 3.205125884,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.205125884,
+                    "path": "raised.by.wolves.2020.s02e01.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 3.205126274,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.205125884,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[TGx]",
+            "size_total": 3.205126863,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.205125884,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[TGx]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[TGx]/raised.by.wolves.2020.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.279111046,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278730964,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD/Raised.by.Wolves.2020.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.85e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD/Raised.by.Wolves.2020.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000132403,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000116456,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000130238,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.278730964,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278730964,
+                    "path": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.384226904,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376415933,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001152,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002920753,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002405671,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002483395,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.376415933,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376415933,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.439433056,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05863883,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.3e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.030793336,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/Sample/raised.by.wolves.2020.s02e01.720p.web.h264-cakes-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES",
+            "size_total": 1.40863754,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.40863754,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[eztv.re].mkv",
+            "size_total": 1.27305512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.27305512,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.408637929,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.40863754,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 1.408638518,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.40863754,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[TGx]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[TGx]/raised.by.wolves.2020.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.194159491,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.193712632,
+                    "path": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile/Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001244,
+                    "path": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile/Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000161027,
+                    "path": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000134637,
+                    "path": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000149951,
+                    "path": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.632034102,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.632034102,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv",
+            "size_total": 3.205172368,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.205172368,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "size_total": 3.205172497,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.205172368,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.205172497,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.205172368,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.276088976,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.276088976,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv",
+            "size_total": 1.408684045,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.408684045,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.408684174,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.408684045,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 1.408684763,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.408684045,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.35226109,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.352260322,
+                    "path": "Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY[TGx]/Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5e-8,
+                    "path": "Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Raised.by.Wolves.2020.s02e01.WEBDL.1080p.NewStudio.TV.mkv",
+            "size_total": 3.348280766,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348280766,
+                    "path": "Raised.by.Wolves.2020.s02e01.WEBDL.1080p.NewStudio.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.475750997,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.475286126,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG/Raised.by.Wolves.2020.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000111,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG/Raised.by.Wolves.2020.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000166447,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000155439,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000141875,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.475286126,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.475286126,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.475287954,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.475286126,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG[TGx]/Raised.by.Wolves.2020.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000111,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG[TGx]/Raised.by.Wolves.2020.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.432483566,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.414563933,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001156,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004082602,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.006717572,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.007118303,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.414563933,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.414563933,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.414565807,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.414563933,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001156,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 2.970312008,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.196716148,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.3,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.4e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.073594959,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/Sample/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv",
+            "size_total": 2.896714768,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.896714768,
+                    "path": "raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES",
+            "size_total": 2.896746311,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.896714768,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000031543,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.srt"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 2.896715158,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.896714768,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.61e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD [IPT]",
+            "size_total": 0.239153252,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.238735923,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD/Raised.by.Wolves.2020.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.85e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD/Raised.by.Wolves.2020.S02E02.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000068813,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000150951,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00019658,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.238735923,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.238735923,
+                    "path": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.321021068,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.312390426,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001152,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta/Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002015323,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003270814,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003343353,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta.mkv",
+            "size_total": 0.312390426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.312390426,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.312390426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.312390426,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.30597756,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.073056281,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 5.67e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.032920452,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES/Sample/raised.by.wolves.2020.s02e02.720p.web.h264-cakes-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "raised.by.wolves.2020.s02e02.720p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 1.27305512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.27305512,
+                    "path": "raised.by.wolves.2020.s02e02.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.305975961,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.032920452,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rarbg]/Sample/raised.by.wolves.2020.s02e02.720p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.27305512,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.6e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rarbg]/raised.by.wolves.2020.s02e02.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.215264468,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.215263701,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX[TGx]/Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.162822161,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.162327468,
+                    "path": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile/Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001243,
+                    "path": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile/Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000080936,
+                    "path": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000182486,
+                    "path": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000230028,
+                    "path": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.512362948,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.512362948,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.896757307,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.896757178,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.273097663,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.273097534,
+                    "path": "Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG [IPT]",
+            "size_total": 0.390648109,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.390159264,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG/Raised.by.Wolves.2020.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001108,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG/Raised.by.Wolves.2020.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000080209,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000184134,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000223394,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG[eztv.re].avi",
+            "size_total": 0.390159264,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.390159264,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG[TGx]",
+            "size_total": 0.39016109,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.390159264,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG[TGx]/Raised.by.Wolves.2020.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001108,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG[TGx]/Raised.by.Wolves.2020.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Raised.by.Wolves.2020.S02E02.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDREZKA.STUDIO",
+            "size_total": 3.372230294,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.372230294,
+                    "path": "Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDREZKA.STUDIO/Raised.by.Wolves.2022.S02E01.WEB-DL.1080p.HMAX.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Raised.by.Wolves.2×01.lati.mp4",
+            "size_total": 0.495515214,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.495515214,
+                    "path": "Raised.by.Wolves.2×01.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Raised.by.Wolves.2×02.lati.mp4",
+            "size_total": 0.395553752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.395553752,
+                    "path": "Raised.by.Wolves.2×02.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD",
+            "size_total": 6.37470946,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348482827,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026226633,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng",
+            "size_total": 6.661102464,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.634942732,
+                    "path": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng/Raised.by.Wolves.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026159732,
+                    "path": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng/Raised.by.Wolves.S02E02.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI",
+            "size_total": 1.216462848,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.639674368,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E01.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.57678848,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E02.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL",
+            "size_total": 2.309692177,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.022983105,
+                    "path": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL/1XBET.COM_promo_SHREK_dinheiro_livre.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 4.5e-8,
+                    "path": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL/Comando.to.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.201367179,
+                    "path": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.085341848,
+                    "path": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL/Raised.By.Wolves.S02e02.1080p.WEB-DL.DUAL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠",
+            "size_total": 1.559957453,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.79e-7,
+                    "path": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠/FIXSUB FIX字幕侠官方主站.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.82e-7,
+                    "path": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠/FIXSUB FIX字幕侠官方微博.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000015409,
+                    "path": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠/FIX字幕侠长期招募.docx"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000398662,
+                    "path": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠/招募.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 1.559543021,
+                    "path": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠/Raised.by.Wolves.S02E01.1080p.FIX字幕侠.mp4"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Raised.by.Wolves.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 2.829545079,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.829545079,
+                    "path": "Raised.by.Wolves.S02E01.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Raised.by.Wolves.S02E01.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.592491383,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.592491383,
+                    "path": "Raised.by.Wolves.S02E01.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.502755282,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.502643579,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Raised.by.Wolves.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000045239,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000033285,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00003305,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/4_Portuguese.srt"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10",
+            "size_total": 0.502755282,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.502643579,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Raised.by.Wolves.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000045239,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000033285,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00003305,
+                    "path": "Raised.by.Wolves.S02E01.WEBRip.x264-ION10/Subs/4_Portuguese.srt"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Raised.By.Wolves.S02E02.480p.x264-ZMNT",
+            "size_total": 0.194718094,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.193661147,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Raised.By.Wolves.S02E02.480p.x264-ZMNT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001237,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Raised.By.Wolves.S02E02.480p.x264-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000622733,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Screens/Raised.By.Wolves.S02E02.480p.x264-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000068552,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Screens/Raised.By.Wolves.S02E02.480p.x264-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00020225,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Screens/Raised.By.Wolves.S02E02.480p.x264-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000162175,
+                    "path": "Raised.By.Wolves.S02E02.480p.x264-ZMNT/Screens/Raised.By.Wolves.S02E02.480p.x264-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "Raised.by.Wolves.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 1.013098791,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.013098791,
+                    "path": "Raised.by.Wolves.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "Raised.by.Wolves.S02E02.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.472704929,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.472704929,
+                    "path": "Raised.by.Wolves.S02E02.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "name": "Raised.by.Wolves.S02E02.rus.LostFilm.TV.avi",
+            "size_total": 0.696229888,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.696229888,
+                    "path": "Raised.by.Wolves.S02E02.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Raised.by.Wolves.S02E02.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.49693768,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.49693768,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.454816338,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.454706708,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Raised.by.Wolves.S02E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046091,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000031931,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000031479,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/4_Portuguese.srt"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "name": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10",
+            "size_total": 0.454816338,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.454706708,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Raised.by.Wolves.S02E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046091,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000031931,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000031479,
+                    "path": "Raised.by.Wolves.S02E02.WEBRip.x264-ION10/Subs/4_Portuguese.srt"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "name": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG",
+            "size_total": 0.475751083,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.475286126,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Raised.by.Wolves.2020.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000111,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Raised.by.Wolves.2020.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000166447,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000155439,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000141875,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "name": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD",
+            "size_total": 0.239153338,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.238735923,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Raised.by.Wolves.2020.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.85e-7,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Raised.by.Wolves.2020.S02E02.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000068813,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000150951,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00019658,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEBRip] MV [rutracker-6174224]",
+            "size_total": 0.639649792,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.639649792,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.HDRezka/Raised.by.Wolves.S02E01.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "name": "Воспитанные волками Raised By Wolves Сезон 2 Серии 1-2 из 10 (Люк Скотт) [2022, США, фантастика, триллер, драма, WEB-DL 10 [rutracker-6174839]",
+            "size_total": 6.517840772,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.49168104,
+                    "path": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng/Raised.by.Wolves.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026159732,
+                    "path": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng/Raised.by.Wolves.S02E02.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Люк Скотт, Алекс Габасси, Серджо Мимика-Геззан) [2022, США, ф [rutracker-6174224]",
+            "size_total": 1.216438272,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.639649792,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.HDRezka/Raised.by.Wolves.S02E01.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.57678848,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.HDRezka/Raised.by.Wolves.S02E02.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Люк Скотт, Алекс Габасси, Серджо Мимика-Геззан) [2022, США, ф [rutracker-6174279]",
+            "size_total": 1.216462848,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.639674368,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E01.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.57678848,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E02.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEB-DL 1 [rutracker-6173975]",
+            "size_total": 6.37470946,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.348482827,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.026226633,
+                    "path": "Raised.by.Wolves.S02.1080p.HMAX.WEB-DL.DD5.1.H.264-EniaHD/Raised.by.Wolves.S02E02.Seven.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEBRip] [rutracker-6174279]",
+            "size_total": 1.216462848,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.639674368,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E01.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.57678848,
+                    "path": "Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI/Raised.by.Wolves.S02E02.WEBRip.Rus.Iyuno-SDI.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "name": "异星灾变.Raised.by.Wolves.2020.S02E01-02",
+            "size_total": 1.680362966,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4e-8,
+                    "path": "异星灾变.Raised.by.Wolves.2020.S02E01-02/发布页 收藏不迷路.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.924476243,
+                    "path": "异星灾变.Raised.by.Wolves.2020.S02E01-02/异星灾变.Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HD中英双字[66影视www.66Ys.Co].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.755886683,
+                    "path": "异星灾变.Raised.by.Wolves.2020.S02E01-02/异星灾变.Raised.by.Wolves.2020.S02E02.Seven.1080p.HD中英双字[66影视www.66Ys.Co].mp4"
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "name": "异星灾变.Raised.by.Wolves.S02E01.720p.WEB.H264.双语字幕-深影字幕组.mp4",
+            "size_total": 0.66384443,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.66384443,
+                    "path": "异星灾变.Raised.by.Wolves.S02E01.720p.WEB.H264.双语字幕-深影字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 147,
+            "name": "multi-btih-12-3-x-Raised-by-Wolves-S02E01-WEBRip-x264",
+            "btih": "6b2fecb8fc6429150fbb57a0f878dc09588b23d7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.502755282,
+            "creation": "2022-02-03T08:38:52.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 136494,
+            "uuploaders": 52760
+        },
+        {
+            "id": 137,
+            "name": "multi-btih-2-2-x-Raised by Wolves (2022) (S02E01) (1080p)",
+            "btih": "7be3693560b6bf6877f01569fe8ca0f49937d797",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.205125884,
+            "creation": "2022-02-03T08:19:19.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 126665,
+            "uuploaders": 49133
+        },
+        {
+            "id": 142,
+            "name": "multi-btih-7-2-x-Raised by Wolves (2022) (S02E02) (720p)",
+            "btih": "0ccab45fa30561394c376596b280dcc1366e2b76",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.27305512,
+            "creation": "2022-02-03T08:51:27.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 117204,
+            "uuploaders": 47087
+        },
+        {
+            "id": 148,
+            "name": "multi-btih-13-2-x-Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "btih": "250a22d7b9ef3e4eaec9fc21ab446805c20467f2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205172497,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 112469,
+            "uuploaders": 45931
+        },
+        {
+            "id": 27,
+            "name": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 720p",
+            "btih": "20bca0df23965e6b11f0bf1626e6e0b2eaae9452",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.551785506,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 108098,
+            "uuploaders": 42787
+        },
+        {
+            "id": 150,
+            "name": "multi-btih-15-2-x-Raised.by.Wolves.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "af72bab429e35357e151ecabd0f12e122250d419",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.454816338,
+            "creation": "2022-02-03T08:37:40.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99651,
+            "uuploaders": 41400
+        },
+        {
+            "id": 145,
+            "name": "multi-btih-10-2-x-Raised-by-Wolves-2020-S02E01-720p-WEB-H264",
+            "btih": "76159721f70c47d341292da8e6ad057cb00efd3e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.408637929,
+            "creation": "2022-02-03T08:14:32.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 97392,
+            "uuploaders": 33556
+        },
+        {
+            "id": 154,
+            "name": "multi-btih-19-3-x-[rutor.is]Raised.by.Wolves.2020.S02E01.400p.VP",
+            "btih": "2d9d32a1ea9bd9c48f7ee85693a510fca7d11f3e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.659916092,
+            "creation": "2022-02-06T15:40:05.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/861372",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 92302,
+            "uuploaders": 38616
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01-02.1080p.VP",
+            "btih": "b3540c16f5f2d4908b8bd9180e214964c3518003",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.374727106,
+            "creation": "2022-02-07T15:50:25.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/861371",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87283,
+            "uuploaders": 38946
+        },
+        {
+            "id": 69,
+            "name": "Raised.by.Wolves.2020.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "2ddbead891144b05cb3cf86988dfd1ef9311d7fd",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.194159491,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 82127,
+            "uuploaders": 29393
+        },
+        {
+            "id": 151,
+            "name": "multi-btih-16-4-x-[rutor.is]Raised by Wolves_(s02)_1080p",
+            "btih": "7c890cd4fd369b9f05be21c872373ecb85ca0f87",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.37470946,
+            "creation": "2022-02-04T09:04:41.000000000Z,qBittorrent v4.4.0,http://rutor.is/torrent/860762",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77413,
+            "uuploaders": 19413
+        },
+        {
+            "id": 144,
+            "name": "multi-btih-9-2-x-Raised-by-Wolves-2020-S02E01-1080p-WEB-H264",
+            "btih": "dbfddba80d8e37869465d576fada2c15ced15037",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205126274,
+            "creation": "2022-02-03T08:15:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73609,
+            "uuploaders": 24545
+        },
+        {
+            "id": 103,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG [IPT]",
+            "btih": "33b070f0a72d2b6c240a60b1f0ed1284dee18dd3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.390648109,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 72137,
+            "uuploaders": 25801
+        },
+        {
+            "id": 98,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.x265-MiNX[TGx]",
+            "btih": "a68a1b58ac59c1453412af79d707eaa0ef7e5226",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.215264468,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68900,
+            "uuploaders": 25877
+        },
+        {
+            "id": 83,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "6c9da2706af707450b9e066a17db74ca73320efe",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.432483566,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 63116,
+            "uuploaders": 24234
+        },
+        {
+            "id": 29,
+            "name": "Raised By Wolves - Temporada 2 [HDTV][Cap.201][Castellano][www.atomixHQ.ART]",
+            "btih": "f645931dace9c0274a66eb0be9d673e6670f6633",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.585198693,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57795,
+            "uuploaders": 19036
+        },
+        {
+            "id": 133,
+            "name": "异星灾变.Raised.by.Wolves.2020.S02E01-02",
+            "btih": "5a07842ec6f04cdee4056673681487b145adc04f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.680362966,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55909,
+            "uuploaders": 17882
+        },
+        {
+            "id": 80,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG [IPT]",
+            "btih": "83c3943739fd89ff8db509056b4c63901c9357ba",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.475750997,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 55079,
+            "uuploaders": 9190
+        },
+        {
+            "id": 104,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG[eztv.re].avi",
+            "btih": "7a97017f7aee71f62cd9a3bfb7afc18ca02c7b3f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.390159264,
+            "creation": "2022-02-03T09:02:36.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50514,
+            "uuploaders": 10848
+        },
+        {
+            "id": 63,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "fa4e5197c5faa8aec63254cdabf7f0586912d9ae",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.376415933,
+            "creation": "2022-02-03T09:05:10.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49344,
+            "uuploaders": 14536
+        },
+        {
+            "id": 149,
+            "name": "multi-btih-14-3-x-Raised.by.Wolves.S02.WEBRip.Rus.Iyuno-SDI",
+            "btih": "6ebf8b0ae8e9083edbcdf905b72a082f7531968f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.216462848,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48473,
+            "uuploaders": 11098
+        },
+        {
+            "id": 99,
+            "name": "Raised.by.Wolves.2020.S02E02.AAC.MP4-Mobile [IPT]",
+            "btih": "aa0d124d75a8fe49ab805a94b3a82146061e3b24",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.162822161,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 47638,
+            "uuploaders": 10733
+        },
+        {
+            "id": 53,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "d75b520f8a3abe0f4d6ef27426319fe1582b0313",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.508069228,
+            "creation": "2022-02-03T09:15:24.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47045,
+            "uuploaders": 16567
+        },
+        {
+            "id": 153,
+            "name": "multi-btih-18-3-x-[rutor.is]Raised.by.Wolves.2020.S02E01.1080p.VP",
+            "btih": "815262bb9517fbdc21c1666a9f40adcbb078bebe",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.348491103,
+            "creation": "2022-02-06T15:39:55.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/861371",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44582,
+            "uuploaders": 7335
+        },
+        {
+            "id": 25,
+            "name": "Raised by Wolves (Season 2) (2022) [Ukr,Eng sub.Eng] WEB-DL 1080p [Hurtom]",
+            "btih": "3942459447c1c08c4499056bf3d891affaaf7681",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 10.02787437,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44320,
+            "uuploaders": 13934
+        },
+        {
+            "id": 77,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "btih": "d3316d3a6a0fc9cc5abda7bad4ed41be96a526f5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.408684763,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41233,
+            "uuploaders": 4714
+        },
+        {
+            "id": 79,
+            "name": "Raised.by.Wolves.2020.s02e01.WEBDL.1080p.NewStudio.TV.mkv",
+            "btih": "13066583c8149638b9c3d3f3e593b61e778aa52c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.348280766,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40774,
+            "uuploaders": 12996
+        },
+        {
+            "id": 139,
+            "name": "multi-btih-4-2-x-Raised by Wolves (2022) (S02E01) (720p)",
+            "btih": "128dea4497c88642681dcc5f925e557084cb5895",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.27305512,
+            "creation": "2022-02-03T08:38:02.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35616,
+            "uuploaders": 7018
+        },
+        {
+            "id": 113,
+            "name": "Raised.by.Wolves.S02E01.1080p.FIX字幕侠",
+            "btih": "a2cd5ab0cb698e6b4d382c08bb7b1c186c2cd03a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.559957453,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34787,
+            "uuploaders": 14544
+        },
+        {
+            "id": 31,
+            "name": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.ART]",
+            "btih": "3c3486b1c7d65dcd4c26cbb7ced9a45fba6c20ab",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.896043426,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34359,
+            "uuploaders": 7840
+        },
+        {
+            "id": 138,
+            "name": "multi-btih-3-2-x-Raised by Wolves (2022) (S02E01) (480p)",
+            "btih": "200c0d5a432dc48dd34b423ee06819917c5a1016",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.278730964,
+            "creation": "2022-02-03T09:11:03.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33061,
+            "uuploaders": 3639
+        },
+        {
+            "id": 92,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "b6f4d91ead5eb70ea3ecb335a7fe29c3df88425b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.321021068,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 28549,
+            "uuploaders": 9811
+        },
+        {
+            "id": 126,
+            "name": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E02 480p x264-mSD",
+            "btih": "929f6f41a1719684384298c2b039df6e25f6ee81",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.239153338,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28213,
+            "uuploaders": 6400
+        },
+        {
+            "id": 46,
+            "name": "Raised.by.Wolves.1×02.lati.mp4",
+            "btih": "28f2b3297bdc54472f1d19de36f02fd8282c3b5f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.410143269,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27111,
+            "uuploaders": 4373
+        },
+        {
+            "id": 112,
+            "name": "Raised.By.Wolves.S02e01-02.1080p.WEB-DL.DUAL",
+            "btih": "d10aadc892fc045342221eb70edfccbfe0d9967e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.309692177,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26942,
+            "uuploaders": 5385
+        },
+        {
+            "id": 52,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ed12c59447b88a600af13a029e45b033f30fc6c9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.523742969,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 25370,
+            "uuploaders": 3940
+        },
+        {
+            "id": 143,
+            "name": "multi-btih-8-2-x-Raised by Wolves 2020 S02E01 and 02 1080p HMAX WEBrip x265 DD5.1 D0ct0rLew[SEV]",
+            "btih": "91e2c9f9258d85e3e1e5d7881cfa97cfd74f23d1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 3.553226923,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25164,
+            "uuploaders": 6864
+        },
+        {
+            "id": 62,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9723e8af2fb31932c02e5110db4233a5b24eb6f3",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.384226904,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 25156,
+            "uuploaders": 7319
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Raised by Wolves",
+            "btih": "5116b0c056011e78a5af4b74287664eea853e955",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 8.042532864,
+            "creation": "2022-02-08T13:51:29.000000000Z,uTorrent/1820,http://rutor.is/torrent/773858",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24774,
+            "uuploaders": 6453
+        },
+        {
+            "id": 155,
+            "name": "multi-btih-20-2-x-[rutor.is]Raised.by.Wolves.2022.S02.WEB-DL.1080p.HMAX.HDR",
+            "btih": "eb8f2241141a7b57b0d9ca98d2bbc04ebbff7105",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.372230294,
+            "creation": "2022-02-04T08:29:54.000000000Z,uTorrent/3.5.4,http://rutor.is/torrent/860773",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24594,
+            "uuploaders": 2907
+        },
+        {
+            "id": 28,
+            "name": "Raised By Wolves - Temporada 2 [HDTV][Cap.201].avi",
+            "btih": "c571f56049258d578fe5b99f504f3eb651dc46d4",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.585198458,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24438,
+            "uuploaders": 8792
+        },
+        {
+            "id": 105,
+            "name": "Raised.by.Wolves.2020.S02E02.XviD-AFG[TGx]",
+            "btih": "f9d8a98eecfedebc14ca49d6928e6381c47aa56f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.39016109,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24296,
+            "uuploaders": 5996
+        },
+        {
+            "id": 74,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "57f93e3121e3332acd676f62ec596418505f00b8",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.276088976,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23829,
+            "uuploaders": 3948
+        },
+        {
+            "id": 84,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "2051f9ed8f7a55fc79eed0bdbbc8ab6dc8bb03a3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.414563933,
+            "creation": "2022-02-03T11:06:25.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23752,
+            "uuploaders": 7312
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]Raised.by.Wolves",
+            "btih": "e8479cedd15be308d47e8cfa38195cb001f9e9d3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.487244288,
+            "creation": "2022-02-05T22:15:50.000000000Z,uTorrent/1820,http://rutor.is/torrent/773857",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23541,
+            "uuploaders": 4767
+        },
+        {
+            "id": 136,
+            "name": "multi-btih-1-2-x-Raised By Wolves (2020) S02E02 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "btih": "442f23936008e577a40f2a525dff0a2d7fbdea32",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.045736924,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23238,
+            "uuploaders": 3423
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02E01-02.400p.VP",
+            "btih": "5b9bd7fb89731a44fff64b7aaa15f71d145a4abf",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.256102629,
+            "creation": "2022-02-07T15:50:36.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/861372",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22157,
+            "uuploaders": 3108
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.com ] Raised.by.Wolves.2020.S01.FRENCH.LD.HMAX.WEB-DL.H264-T911",
+            "btih": "40e100d996052bbd26094c3fe696028aa2fbcd86",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 7.192697836,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21312,
+            "uuploaders": 1649
+        },
+        {
+            "id": 108,
+            "name": "Raised.by.Wolves.2×02.lati.mp4",
+            "btih": "7a289b09b530d0989323c8ebb7ebe5f8770f67d3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.395553752,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19958,
+            "uuploaders": 3929
+        },
+        {
+            "id": 140,
+            "name": "multi-btih-5-2-x-Raised by Wolves (2022) (S02E02) (1080p)",
+            "btih": "63749c6a64ac690b85ff85392198b29a8c2f096e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.896714768,
+            "creation": "2022-02-03T08:48:07.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19699,
+            "uuploaders": 2733
+        },
+        {
+            "id": 87,
+            "name": "raised.by.wolves.2020.s02e02.1080p.web.h264-cakes.mkv",
+            "btih": "b16a4c5e3bbbba2353d677ce9fbb4fdb05608fce",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.896714768,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19322,
+            "uuploaders": 3132
+        },
+        {
+            "id": 114,
+            "name": "Raised.by.Wolves.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "btih": "bc9c8848f3cf21b6c1ef34d6f1d90c28c0483fde",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.829545079,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 17240,
+            "uuploaders": 5090
+        },
+        {
+            "id": 146,
+            "name": "multi-btih-11-2-x-Raised-by-Wolves-2020-S02E02-1080p-WEB-H264",
+            "btih": "f16f1ef52e63953448324ef6d7d1bec519c36e03",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.896715158,
+            "creation": "2022-02-03T08:25:01.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16518,
+            "uuploaders": 1974
+        },
+        {
+            "id": 68,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES[TGx]",
+            "btih": "910a08619441918d6d25b3ffa45be6db75eac15f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.408638518,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15622,
+            "uuploaders": 2042
+        },
+        {
+            "id": 122,
+            "name": "Raised.by.Wolves.S02E02.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "b8a0658cd092b6a66453cef2b452a2d87d1f9dfd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.49693768,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15301,
+            "uuploaders": 1008
+        },
+        {
+            "id": 94,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "b0b1800cf6a92d4547f23e0519046b6632ed3e05",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.312390426,
+            "creation": "2022-02-03T09:12:25.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13995,
+            "uuploaders": 1732
+        },
+        {
+            "id": 101,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "c116afb4c865222994bbd767fe4669464e7b86ae",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.896757307,
+            "creation": "2022-02-03T15:51:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13414,
+            "uuploaders": 3115
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.com ] Raised.By.Wolves.2020.S02E01.FASTSUB.VOSTFR.WEBRip.x264-WEEDS.mp4",
+            "btih": "c7de66aebd5382a4a73f9435ea7f20bc33d2c612",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.377012189,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13357,
+            "uuploaders": 2005
+        },
+        {
+            "id": 115,
+            "name": "Raised.by.Wolves.S02E01.720p.rus.LostFilm.TV.mp4",
+            "btih": "d390b44e0929a86975131dfddc6d63216e86d03c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.592491383,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12936,
+            "uuploaders": 2960
+        },
+        {
+            "id": 97,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "4839edd3c6a419c3cd919e4b42bec77001dd3ff3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.305975961,
+            "creation": "2022-02-03T08:15:36.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12848,
+            "uuploaders": 2885
+        },
+        {
+            "id": 141,
+            "name": "multi-btih-6-2-x-Raised by Wolves (2022) (S02E02) (480p)",
+            "btih": "768bbc48c7f01bdeb3d8b1cf4aee090b9623a83e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.238735923,
+            "creation": "2022-02-03T09:13:25.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12462,
+            "uuploaders": 2288
+        },
+        {
+            "id": 70,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "cafea3ebafd3361bb9ef0712845b818cb0c3d066",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.632034102,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11972,
+            "uuploaders": 4232
+        },
+        {
+            "id": 93,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.HEVC.x265-MeGusta.mkv",
+            "btih": "ef36ab4b2a0e6f21d1599d0c067fceb8d2d3936f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.312390426,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11461,
+            "uuploaders": 1897
+        },
+        {
+            "id": 100,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "b505678d0d84ba5693525cf229ea20ea3de3da6c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.512362948,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11321,
+            "uuploaders": 954
+        },
+        {
+            "id": 135,
+            "name": "multi-btih-0-2-x-Raised By Wolves (2020) S02E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "btih": "81c0c400f15d2edacecffd1ba02a42f62f568896",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.288299268,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11155,
+            "uuploaders": 691
+        },
+        {
+            "id": 120,
+            "name": "Raised.by.Wolves.S02E02.720p.rus.LostFilm.TV.mp4",
+            "btih": "67071fe0a30746d0655c6d7a23de96547f3c7017",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.472704929,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10828,
+            "uuploaders": 1471
+        },
+        {
+            "id": 129,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1-2 из 8 (Люк Скотт, Алекс Габасси, Серджо Мимика-Геззан) [2022, США, ф [rutracker-6174224]",
+            "btih": "5c081c51ee556eaf1fdb7379eb953742f82cc34a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.216438272,
+            "creation": "2022-02-05T10:59:52.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=6174224",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10076,
+            "uuploaders": 1975
+        },
+        {
+            "id": 59,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES[TGx]",
+            "btih": "4c9ad5aab80f9d16e5279d637a849503fc913481",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205126863,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9942,
+            "uuploaders": 550
+        },
+        {
+            "id": 90,
+            "name": "Raised.by.Wolves.2020.S02E02.480p.x264-mSD [IPT]",
+            "btih": "5a2cbae048b6244f352b345ed6b8c8e590c71f3c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.239153252,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 9505,
+            "uuploaders": 1932
+        },
+        {
+            "id": 128,
+            "name": "Воспитанные волками Raised By Wolves Сезон 2 Серии 1-2 из 10 (Люк Скотт) [2022, США, фантастика, триллер, драма, WEB-DL 10 [rutracker-6174839]",
+            "btih": "6bdf38db1e17c62ef5f9e80e1447f8f526a168ec",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.517840772,
+            "creation": "2022-02-05T19:14:45.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6174839",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8612,
+            "uuploaders": 610
+        },
+        {
+            "id": 82,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG[TGx]",
+            "btih": "af9f55244f885be2230da5624e99b6d4d25ca69b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.475287954,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8317,
+            "uuploaders": 724
+        },
+        {
+            "id": 34,
+            "name": "Raised By Wolves 2X1X2X3 HDTV XviD Castellano",
+            "btih": "741e839befd4f0827d0d5f990a347cc8b3174e67",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.751912321,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8126,
+            "uuploaders": 1637
+        },
+        {
+            "id": 30,
+            "name": "Raised By Wolves - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.ART]",
+            "btih": "0d5d59623b37366ae4dfa1a1451f29427b2f8b4d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.203405901,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7995,
+            "uuploaders": 1029
+        },
+        {
+            "id": 55,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "84a450a153e610f13d2a7bc796c2f45a809b1a9c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205128165,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 7535,
+            "uuploaders": 768
+        },
+        {
+            "id": 110,
+            "name": "Raised.by.Wolves.S02.WEBDL.1080p.Rus.Eng",
+            "btih": "52a7f319abe4f3cdafa382cc0bce537b2ac4d8df",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.661102464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7522,
+            "uuploaders": 1221
+        },
+        {
+            "id": 127,
+            "name": "Воспитанные волками Raised by Wolves Сезон 2 Серии 1 из 8 (Ридли Скотт) [2022, США, фантастика, триллер, драма, WEBRip] MV [rutracker-6174224]",
+            "btih": "8783c28048610b72bb74b65af0e3b653b9779a54",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.639649792,
+            "creation": "2022-02-04T17:07:03.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=6174224",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7460,
+            "uuploaders": 447
+        },
+        {
+            "id": 121,
+            "name": "Raised.by.Wolves.S02E02.rus.LostFilm.TV.avi",
+            "btih": "3e1090573de0824bd8e441840f138e17c034ffb5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.696229888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7410,
+            "uuploaders": 1377
+        },
+        {
+            "id": 118,
+            "name": "Raised.By.Wolves.S02E02.480p.x264-ZMNT",
+            "btih": "426d8e55ac7436d8a2be9ba4174af6ff72259e2c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.194718094,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7329,
+            "uuploaders": 741
+        },
+        {
+            "id": 125,
+            "name": "WWW.TORRENTING.COM   -    Raised by Wolves 2020 S02E01 XviD-AFG",
+            "btih": "2e45e08d51d38817e2414de7a4206d0aad2c95ef",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.475751083,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7028,
+            "uuploaders": 551
+        },
+        {
+            "id": 65,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES",
+            "btih": "188433e6b2dea1322b811f0828d2d0e67dfd793b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.40863754,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6820,
+            "uuploaders": 749
+        },
+        {
+            "id": 71,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.1080p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv",
+            "btih": "a58c869b946487dcea0fab0046d305a90c0a0bcd",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205172368,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6563,
+            "uuploaders": 917
+        },
+        {
+            "id": 102,
+            "name": "Raised.by.Wolves.2020.S02E02.Seven.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "d4fdd271e8215ea574e37047f6f03c21a17b7621",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.273097663,
+            "creation": "2022-02-03T15:51:42.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6521,
+            "uuploaders": 592
+        },
+        {
+            "id": 134,
+            "name": "异星灾变.Raised.by.Wolves.S02E01.720p.WEB.H264.双语字幕-深影字幕组.mp4",
+            "btih": "856481e778015b6532ffcadb4e944447caf0c4f3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.66384443,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6368,
+            "uuploaders": 1605
+        },
+        {
+            "id": 51,
+            "name": "raised.by.wolves.2020.s02e01.1080p.60FPS.Dubbed.HEVC.8bit.AC3.ytcodecs",
+            "btih": "5592ebf5b8192b4cfe4ebdd31295091f2ae0746c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.221488856,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6092,
+            "uuploaders": 472
+        },
+        {
+            "id": 86,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "34603e9b953b83094632c45acc1ed0eab2ce5cbe",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.970312008,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6083,
+            "uuploaders": 793
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Raised.by.Wolves.2020.S02.1080p.Kerob",
+            "btih": "10d0777fe2c74afe252178b33b830854688b5dbb",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 5.032787834,
+            "creation": "2022-02-03T14:37:24.000000000Z,Tixati v2.88,http://rutor.is/torrent/860640",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5844,
+            "uuploaders": 309
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]Raised_by_Wolves_s02_AlexFilm_1080p",
+            "btih": "e4fe2fe01b9c49dabf7c58f4f185610b2d678109",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.348367983,
+            "creation": "2022-02-05T14:34:13.000000000Z,qBittorrent v4.4.0,http://rutor.is/torrent/861087",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5809,
+            "uuploaders": 319
+        },
+        {
+            "id": 76,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "c6de3a4f821f5134eba53d49a30017a5a27fb1e0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.408684174,
+            "creation": "2022-02-03T15:34:45.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5639,
+            "uuploaders": 1151
+        },
+        {
+            "id": 26,
+            "name": "Raised by Wolves - Season 2 (AlexFilm) WEB-DL 1080p",
+            "btih": "58409908178d6b19e58cb3da2847ae260ceb8ee5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.348277443,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5602,
+            "uuploaders": 815
+        },
+        {
+            "id": 95,
+            "name": "Raised.by.Wolves.2020.S02E02.720p.WEB.H264-CAKES [IPT]",
+            "btih": "29daf45c9589b2fa54371cff67ecc7789430558d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.30597756,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5544,
+            "uuploaders": 505
+        },
+        {
+            "id": 18,
+            "name": "Raised by Wolves (2020)",
+            "btih": "e3b5c4c3e8e71d5abd30319411aa5c8b9611a45a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 33.21591687,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5498,
+            "uuploaders": 738
+        },
+        {
+            "id": 107,
+            "name": "Raised.by.Wolves.2×01.lati.mp4",
+            "btih": "fcc4c6d5318c645a3c69544d3ee4679ae9056724",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.495515214,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5287,
+            "uuploaders": 116
+        },
+        {
+            "id": 3,
+            "name": "[BD影视分享bd2020.co]异星灾变.Raised.by.Wolves.S02E01.HD1080P.官方中字.霸王龙压制组.mp4",
+            "btih": "c32b189414865744a03e3b47f972e331b6dd066b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.967308504,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5266,
+            "uuploaders": 983
+        },
+        {
+            "id": 47,
+            "name": "Raised.by.Wolves.1×10.lati.mp4",
+            "btih": "9ebd69f86282af95056eebb871283225067a3942",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.504214378,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4828,
+            "uuploaders": 1697
+        },
+        {
+            "id": 75,
+            "name": "Raised.by.Wolves.2020.S02E01.The.Collective.720p.HMAX.WEB-DL.DD5.1.H.264-NTb.mkv",
+            "btih": "cfa94b30dff9d0e37375b73f14427f7bf0dd9251",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.408684045,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4810,
+            "uuploaders": 1761
+        },
+        {
+            "id": 64,
+            "name": "Raised.by.Wolves.2020.S02E01.720p.WEB.H264-CAKES [IPT]",
+            "btih": "480864a702e79eff59a1dd6837077f26d010bd85",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.439433056,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4221,
+            "uuploaders": 1084
+        },
+        {
+            "id": 85,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "c716decc12afbe04f99817a45a4ba84f4c0f4d50",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.414565807,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4160,
+            "uuploaders": 1083
+        },
+        {
+            "id": 88,
+            "name": "Raised.by.Wolves.2020.S02E02.1080p.WEB.H264-CAKES",
+            "btih": "9a4abd850c0d63b9fd6f3ba8ba8ddabe7720578c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.896746311,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3664,
+            "uuploaders": 250
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Raised by Wolves_(s01)_LF_1080p",
+            "btih": "c8f3003c9c664a684094b095cadf71ffa654e33b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 33.214711186,
+            "creation": "2020-10-03T18:47:18.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/773857",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3539,
+            "uuploaders": 735
+        },
+        {
+            "id": 119,
+            "name": "Raised.by.Wolves.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "884f727fcd388c972f0fa61cacd74af292bdec93",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.013098791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3537,
+            "uuploaders": 571
+        },
+        {
+            "id": 78,
+            "name": "Raised.by.Wolves.2020.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "caaca0aca6bbf888aea453b0dfbec832a6bd8aeb",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.35226109,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3354,
+            "uuploaders": 1226
+        },
+        {
+            "id": 152,
+            "name": "multi-btih-17-2-x-[rutor.is]Raised.by.Wolves.2020.S02.400p.Kerob",
+            "btih": "339169df7c140eb44a446339e9389152ce782d5a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.849425328,
+            "creation": "2022-02-03T14:37:34.000000000Z,Tixati v2.88,http://rutor.is/torrent/860641",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2943,
+            "uuploaders": 1240
+        },
+        {
+            "id": 54,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "8621639763a9885ebdfaadb314ad026c63026393",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.5080711,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1201,
+            "uuploaders": 530
+        },
+        {
+            "id": 81,
+            "name": "Raised.by.Wolves.2020.S02E01.XviD-AFG[eztv.re].avi",
+            "btih": "f058efd39428dd5085de7e50c1fc1320a4b08020",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.475286126,
+            "creation": "2022-02-03T09:01:06.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1188,
+            "uuploaders": 498
+        },
+        {
+            "id": 45,
+            "name": "Raised.by.Wolves.1×01.lati.mp4",
+            "btih": "ab8db672bda739034a85cfb7765fa3415eaafd7b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.529473774,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 925,
+            "uuploaders": 486
+        },
+        {
+            "id": 60,
+            "name": "Raised.by.Wolves.2020.S02E01.480p.x264-mSD [IPT]",
+            "btih": "88ec0f712f97ebfead16362298a097621ae3c631",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.279111046,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 18,
+            "uuploaders": 7
+        },
+        {
+            "id": 56,
+            "name": "Raised.by.Wolves.2020.S02E01.1080p.WEB.H264-CAKES",
+            "btih": "c77f106cafca05d4ed7bc317dca3c48159f69fde",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.205160855,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7,
+            "uuploaders": 5
+        }
+    ]
+}
