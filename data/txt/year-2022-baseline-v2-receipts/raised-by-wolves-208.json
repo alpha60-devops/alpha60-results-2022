@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9170108",
+    "imdb_id": "tt9170108",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q60747802",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raised_by_Wolves_(American_TV_series)"
+  },
+  "coverage_sha256": "a81a1b3b408331f1d1664832344275e1a75c8d424cb81e32c6ce98bbc1635af8",
+  "generated_at": "2026-09-03T02:55:50.013592+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/raised-by-wolves-208.cache/cache.20220525.tar.xz",
+      "sha256": "59014f87433ffda9f5af6a58de913adb6d9862b6891438cc1c490cd67da0903d",
+      "size": 532734040
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/raised-by-wolves-208.md",
+      "sha256": "2ff2d4d68f0868725517bd94390e79bd3bf5e408a43cadc4c5e4da4f87f18420",
+      "size": 646
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/raised-by-wolves-208.json",
+      "sha256": "c5b3d893dfd3665d6e7f67d6ae7c1fd0e6122215c817c4af4969b7e3aa8561b8",
+      "size": 2461
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/raised-by-wolves-208.json",
+      "sha256": "96e36f161e4639c92d18355a819d994a26d67a8603a07dff7327552aab3b9785",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "raised-by-wolves-208",
+  "published_files": {
+    "data/csv/bytes/raised-by-wolves-208-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "8e73e7606e07724680f83ff0c72659754e96095be8f06d7c147531322b2318a6",
+    "docs/itemized/figures/raised-by-wolves-208-carto-4k.webp": "5963d281fb22c2f2b4878bd148074c5a0a7939377b1d401968be184c49e63515",
+    "docs/itemized/figures/raised-by-wolves-208-carto.png": "1ba0e87253546249469c1cf7e44c5ccdfdb346f583c7e18837765d794c9e2fe4",
+    "docs/itemized/figures/raised-by-wolves-208-cumulative-detail-btiha-itemized-by-bytes.svg": "f7f0220257477b01544cc5277c541b249d8164969bef55a58fd17ccc7063099c",
+    "docs/itemized/figures/raised-by-wolves-208-data-ge-1080p-4k.webp": "693ef566f5aeedc8af244643fbfea84aaef900ddc9c19b6fc74ff98b9cff2403",
+    "docs/itemized/figures/raised-by-wolves-208-data-ge-1080p.webp": "6d2b5009a05b6ccebc53198a08c3e7dc0902d49ea33488ec5474fea341936fc7",
+    "docs/itemized/figures/raised-by-wolves-208-data-lt-1080p-4k.webp": "27082acaf902f66d2bb39d6265f02fc1cbda603b0d3c61a85dcd332bbc4e3d40",
+    "docs/itemized/figures/raised-by-wolves-208-data-lt-1080p.webp": "6ee92ffcfa91ffdaea71b205d5f1aab1a618da6da22efcb96b845d2fc79f5c99",
+    "docs/itemized/figures/raised-by-wolves-208-downloads-by-day-day.svg": "c1ab80549a5136ca0e12c6206652af4903de85381d48796fc65f6e6de6ba171d",
+    "docs/itemized/figures/raised-by-wolves-208-downloads-by-week-raised-by-wolves-208-week.svg": "7b1091ee286b8ca7e537668ab522675fde28539f11cca3dd0e1a37740742cd9b",
+    "docs/itemized/raised-by-wolves-208-sample-cache-audit.md": "4f342e36a17388ec4df1b0f573fdfe0651b04304ee142cf96199e18a47e83158",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/raised-by-wolves-208/tmp/raised-by-wolves-208-cumulative-btiha.geojson",
+        "sha256": "d6914135ae666848283c1e49f514de5aec9e1473eef1d438e18c383588966061",
+        "size": 34112906
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/raised-by-wolves-208/tmp/raised-by-wolves-208-cumulative-btiha-media-objects.json",
+        "sha256": "331d8738a378234042031f97c2b76ad575cda8e3dff296e02a1e802d31465e81",
+        "size": 419320
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "raised-by-wolves-208",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          33.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Seoul",
+          "Shanghai",
+          "Amsterdam",
+          "Sydney",
+          "New York City",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          41.0,
+          33.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "Amsterdam",
+          "Shanghai",
+          "Sydney",
+          "Toronto",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
