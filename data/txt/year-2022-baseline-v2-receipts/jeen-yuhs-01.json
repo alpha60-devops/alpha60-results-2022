@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14599438",
+    "imdb_id": "tt14599438",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q108704207",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeen-Yuhs"
+  },
+  "coverage_sha256": "646a9c1a14665f415f319702c82f1286bff162a78d3b3a0eb727d4b2bc4d6252",
+  "generated_at": "2026-09-03T01:56:46.241435+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/jeen-yuhs-01.cache/cache.20220519.tar.xz",
+      "sha256": "16bbf7ed0d7e450aca1fdbcccbf8d6894b867718faf01b3944244eaa84fe3f10",
+      "size": 109683728
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/jeen-yuhs-01.md",
+      "sha256": "9a7de426c62918d228ae6ec21c2bc126cec82a169bae3826b45b2ff8550c0a1b",
+      "size": 630
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/jeen-yuhs-01.json",
+      "sha256": "a3136ab10b3e574da21c8ab5f589c1da582e4df47556e0001adda1abbf588ef2",
+      "size": 2491
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/jeen-yuhs-01.json",
+      "sha256": "6bf331c400c661092e5cb62389283542e088824fe8d53a16f56731aa76106cdb",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "jeen-yuhs-01",
+  "published_files": {
+    "data/csv/bytes/jeen-yuhs-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "e9f7d95b275d86dcb4d5e802e59bae7f7fedf8073263b18d6d54c107ae9436d5",
+    "docs/itemized/figures/jeen-yuhs-01-carto-4k.webp": "dc11044659f72edc22e7fad648ef9a1c07f8c6180a9d952ae7c219201a018b14",
+    "docs/itemized/figures/jeen-yuhs-01-carto.png": "6f38aa7f0bd310e89134e53fb66fc61ceb6bddbe4301183f879954dfc2209326",
+    "docs/itemized/figures/jeen-yuhs-01-cumulative-detail-btiha-itemized-by-bytes.svg": "cefdd5dbf0f248020e8832ee137eacd21f919669dbc53c8e904368550fbd2d23",
+    "docs/itemized/figures/jeen-yuhs-01-data-ge-1080p-4k.webp": "ae3aa72367c4ddbdd37a9ec578263b85a91047c6c77863318817f173813119da",
+    "docs/itemized/figures/jeen-yuhs-01-data-ge-1080p.webp": "86be69d05968bc0bee40841ac5ae7188c1f318b7d14f5851a3756bed287bd229",
+    "docs/itemized/figures/jeen-yuhs-01-data-lt-1080p-4k.webp": "bde79f3962894f0a9e0662d01433cd28207d32e2e11abbb6a47a90c3a78dd25d",
+    "docs/itemized/figures/jeen-yuhs-01-data-lt-1080p.webp": "b3ba68a1e7336b7d5614e89546d903b8d760f36b9a0ca20e67159d7bb53433f2",
+    "docs/itemized/figures/jeen-yuhs-01-downloads-by-day-day.svg": "4301f5560da069478b0e80cdd4af0503707824fb092ff4f5695512ffecd49730",
+    "docs/itemized/figures/jeen-yuhs-01-downloads-by-week-jeen-yuhs-01-week.svg": "bba419762fb048c95762561b71ddc13fe72e90c13ed57177ce4afc5cc350cea0",
+    "docs/itemized/jeen-yuhs-01-sample-cache-audit.md": "5795978c12d05f3a7adcdf2d07b88515f14fb4b6da71159d8e6ff3899863d198",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/jeen-yuhs-01/tmp/jeen-yuhs-01-cumulative-btiha.geojson",
+        "sha256": "5d6cfb6e4e33a3e9ab98374379815408b96fec5efc62eca2d4fc9a895973fa33",
+        "size": 14487760
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/jeen-yuhs-01/tmp/jeen-yuhs-01-cumulative-btiha-media-objects.json",
+        "sha256": "0e727e878e36af538d8fcd11b4f0ccacf64a92f780f51420990c8941c8a5dce6",
+        "size": 328185
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "jeen-yuhs-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Saint Petersburg",
+          "Seoul",
+          "Johannesburg",
+          "Pretoria",
+          "London",
+          "Gaborone",
+          "Novosibirsk",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Johannesburg",
+          "Pretoria",
+          "Gaborone",
+          "Nairobi",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
