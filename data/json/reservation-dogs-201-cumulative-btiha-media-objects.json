@@ -1,0 +1,3466 @@
+{
+    "collection_name": "Reservation Dogs",
+    "collection_id": "201",
+    "collection_key": "reservation-dogs-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "b6453c61ae1dadacecfcde7ac6f23efbc7f001c6",
+            "duplicate_0_0": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng",
+            "duplicate_0_1": "Псы резервации Reservation Dogs Сезон 2 Серии 1 из 10 (Стерлин Харьо) [2022, США, комедия, криминал, WEB-DL 1080p] MVO (Lo [rutracker-6243326]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "b9c274f5d7062196f0d448e70ff99ab29626bba3",
+            "duplicate_1_0": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "duplicate_1_1": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "72fcb67230d7bf78b9a1b85c6f71832938257764",
+            "duplicate_2_0": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]",
+            "duplicate_2_1": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "81246034dafa341637a1ef1937b77db90d35fd02",
+            "duplicate_3_0": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]",
+            "duplicate_3_1": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "e1f3c2fe96bd86227d7dea9efcd52738afd59748",
+            "duplicate_4_0": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_4_1": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "08c4cc1f3588cbedca6d143d36fb1e76f7b9313a",
+            "duplicate_5_0": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_5_1": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "1025a411c3321575f6f511209b76cbc72d684cee",
+            "duplicate_6_0": "Reservation.Dogs.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_6_1": "Reservation.Dogs.S02E01.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "0135f1c85dfad9fc6adaf834a9d98f7948e690ee",
+            "duplicate_7_0": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_7_1": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "48975afca38d4be41a84a56b54f66b159ece3a3a",
+            "duplicate_8_0": "Reservation.Dogs.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_8_1": "Reservation.Dogs.S02E02.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "5ff41a0f1491b2ee535034ef0f0ea4e8bf2db5ce",
+            "duplicate_9_0": "[rutor.is]Reservation.Dogs.S02.400p.Kerob",
+            "duplicate_9_1": "Reservation.Dogs.S02.400p.Kerob"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "e03748e9ce8eaf454243dbe56dde5434c11081b9",
+            "duplicate_10_0": "[rutor.is]Reservation.Dogs.S02.720p.Kerob",
+            "duplicate_10_1": "Reservation.Dogs.S02.720p.Kerob"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Reservation.Dogs.S02.400p.Kerob",
+            "size_total": 1.181234324,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.565348938,
+                    "path": "Reservation.Dogs.S02.400p.Kerob/Reservation.Dogs.S02E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.615885386,
+                    "path": "Reservation.Dogs.S02.400p.Kerob/Reservation.Dogs.S02E02.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Reservation.Dogs.S02.720p.Kerob",
+            "size_total": 2.032173822,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.021618394,
+                    "path": "Reservation.Dogs.S02.720p.Kerob/Reservation.Dogs.S02E01.720p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.010555428,
+                    "path": "Reservation.Dogs.S02.720p.Kerob/Reservation.Dogs.S02E02.720p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS",
+            "size_total": 10.429286713,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.447519704,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E01 Reservation Dogs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.213746821,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E02 Clinica Sanitaria Indiana.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.240986627,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E03 A lezione di pugni da Zio Brownie.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.158065856,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E04 Che mi dici di tuo padre.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.376166289,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E05 Vieni e prendi il tuo amore.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.237396645,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E06 A caccia.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.284137099,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E07 Sognando la California.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.471267672,
+                    "path": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS/Reservation Dogs S01E08 Sabato.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Reservation.Dogs.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 0.861462029,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.861462029,
+                    "path": "Reservation.Dogs.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta",
+            "size_total": 0.177294375,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.166230909,
+                    "path": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta/Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001133,
+                    "path": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta/Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002950923,
+                    "path": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004080986,
+                    "path": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.004030424,
+                    "path": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Reservation.Dogs.S01E02.XviD-AFG",
+            "size_total": 0.273301597,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.272447166,
+                    "path": "Reservation.Dogs.S01E02.XviD-AFG/Reservation.Dogs.S01E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001113,
+                    "path": "Reservation.Dogs.S01E02.XviD-AFG/Reservation.Dogs.S01E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00024501,
+                    "path": "Reservation.Dogs.S01E02.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000313454,
+                    "path": "Reservation.Dogs.S01E02.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000294854,
+                    "path": "Reservation.Dogs.S01E02.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Reservation.Dogs.S02.1080p.Ultradox",
+            "size_total": 2.286417992,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.147216565,
+                    "path": "Reservation.Dogs.S02.1080p.Ultradox/Reservation.Dogs.S02E01.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.139201427,
+                    "path": "Reservation.Dogs.S02.1080p.Ultradox/Reservation.Dogs.S02E02.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Reservation.Dogs.S02.400p.ColdFilm",
+            "size_total": 0.744621058,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.373263652,
+                    "path": "Reservation.Dogs.S02.400p.ColdFilm/Reservation.Dogs.S02E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.371357406,
+                    "path": "Reservation.Dogs.S02.400p.ColdFilm/Reservation.Dogs.S02E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Reservation.Dogs.S02.400p.Kerob",
+            "size_total": 1.181234324,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.565348938,
+                    "path": "Reservation.Dogs.S02.400p.Kerob/Reservation.Dogs.S02E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.615885386,
+                    "path": "Reservation.Dogs.S02.400p.Kerob/Reservation.Dogs.S02E02.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Reservation.Dogs.S02.720p.ColdFilm",
+            "size_total": 1.41675545,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.723738765,
+                    "path": "Reservation.Dogs.S02.720p.ColdFilm/Reservation.Dogs.S02E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.693016685,
+                    "path": "Reservation.Dogs.S02.720p.ColdFilm/Reservation.Dogs.S02E02.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Reservation.Dogs.S02.720p.Kerob",
+            "size_total": 2.032173822,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.021618394,
+                    "path": "Reservation.Dogs.S02.720p.Kerob/Reservation.Dogs.S02E01.720p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.010555428,
+                    "path": "Reservation.Dogs.S02.720p.Kerob/Reservation.Dogs.S02E02.720p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Reservation.Dogs.S02.720p.Ultradox",
+            "size_total": 1.423824491,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.718354831,
+                    "path": "Reservation.Dogs.S02.720p.Ultradox/Reservation.Dogs.S02E01.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.70546966,
+                    "path": "Reservation.Dogs.S02.720p.Ultradox/Reservation.Dogs.S02E02.720p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Reservation.Dogs.s02.HD1080p.WEBRip.Rus.RuDub.tv",
+            "size_total": 3.529674288,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.78513288,
+                    "path": "Reservation.Dogs.s02.HD1080p.WEBRip.Rus.RuDub.tv/Reservation.Dogs.s02e01.HD1080p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.744541408,
+                    "path": "Reservation.Dogs.s02.HD1080p.WEBRip.Rus.RuDub.tv/Reservation.Dogs.s02e02.HD1080p.WEBRip.Rus.RuDub.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng",
+            "size_total": 1.418536376,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.418536376,
+                    "path": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng/Reservation.Dogs.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Reservation.Dogs.s02.WEBRip.XviD.Rus.RuDub.tv",
+            "size_total": 0.776105536,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.389278108,
+                    "path": "Reservation.Dogs.s02.WEBRip.XviD.Rus.RuDub.tv/Reservation.Dogs.s02e01.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.386827428,
+                    "path": "Reservation.Dogs.s02.WEBRip.XviD.Rus.RuDub.tv/Reservation.Dogs.s02e02.WEBRip.XviD.Rus.RuDub.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10",
+            "size_total": 0.595454233,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.300806932,
+                    "path": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10/Reservation.Dogs.S02E01.WEBRip.x264-ION10/Reservation.Dogs.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000041052,
+                    "path": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10/Reservation.Dogs.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.294541418,
+                    "path": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000028182,
+                    "path": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000036649,
+                    "path": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Reservation.Dogs.S02E01.1080p.ColdFilm.mkv",
+            "size_total": 1.152583149,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.152583149,
+                    "path": "Reservation.Dogs.S02E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.395468504,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.395468504,
+                    "path": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.395470369,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.395468504,
+                    "path": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001147,
+                    "path": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Reservation.Dogs.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 1.689349197,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.689349197,
+                    "path": "Reservation.Dogs.S02E01.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "reservation.dogs.s02e01.1080p.web.h264-glhf[eztv.re].mkv",
+            "size_total": 1.330874616,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.330874616,
+                    "path": "reservation.dogs.s02e01.1080p.web.h264-glhf[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "size_total": 1.330875168,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.330874616,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/reservation.dogs.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.23e-7,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/reservation.dogs.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "size_total": 1.330875168,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.330874616,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/reservation.dogs.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.23e-7,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]/reservation.dogs.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[TGx]",
+            "size_total": 1.330875757,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.330874616,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[TGx]/reservation.dogs.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.23e-7,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[TGx]/reservation.dogs.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Reservation.Dogs.S02E01.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.495218104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.495218104,
+                    "path": "Reservation.Dogs.S02E01.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Reservation.Dogs.S02E01.1080p.x265-ELiTE",
+            "size_total": 0.596315897,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.586260409,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Reservation.Dogs.S02E01.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001364,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Reservation.Dogs.S02E01.1080p.x265-ELiTE.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002075071,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E01.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003616377,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E01.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002237078,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E01.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.002125598,
+                    "path": "Reservation.Dogs.S02E01.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E01.1080p.x265-ELiTE.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]",
+            "size_total": 3.478203302,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.47820275,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/reservation.dogs.s02e01.2160p.web.h265-ggez.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.23e-7,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/reservation.dogs.s02e01.2160p.web.h265-ggez.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rartv]-[rarbg.to]",
+            "size_total": 3.478203302,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.47820275,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/reservation.dogs.s02e01.2160p.web.h265-ggez.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.23e-7,
+                    "path": "Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]/reservation.dogs.s02e01.2160p.web.h265-ggez.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Reservation.Dogs.S02E01.400p.ColdFilm.avi",
+            "size_total": 0.373263652,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.373263652,
+                    "path": "Reservation.Dogs.S02E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Reservation.Dogs.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.162088309,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.162088309,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Reservation.Dogs.S02E01.480p.x264-RUBiK",
+            "size_total": 0.267798425,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.265413948,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Reservation.Dogs.S02E01.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001357,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Reservation.Dogs.S02E01.480p.x264-RUBiK.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00054754,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E01.480p.x264-RUBiK.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00078408,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E01.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000522632,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E01.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000528868,
+                    "path": "Reservation.Dogs.S02E01.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E01.480p.x264-RUBiK.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Reservation.Dogs.S02E01.720p.ColdFilm.mkv",
+            "size_total": 0.70910173,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.70910173,
+                    "path": "Reservation.Dogs.S02E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Reservation.Dogs.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.275037756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.275037756,
+                    "path": "Reservation.Dogs.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Reservation.Dogs.S02E01.720p.rus.LostFilm.TV.mp4",
+            "size_total": 0.951536969,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.951536969,
+                    "path": "Reservation.Dogs.S02E01.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "reservation.dogs.s02e01.720p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 0.693994893,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.693994893,
+                    "path": "reservation.dogs.s02e01.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]",
+            "size_total": 0.693995655,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.693994893,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/reservation.dogs.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.33e-7,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/reservation.dogs.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 0.693995655,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.693994893,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/reservation.dogs.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.33e-7,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]/reservation.dogs.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 0.693996244,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.693994893,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[TGx]/reservation.dogs.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.33e-7,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[TGx]/reservation.dogs.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.233463705,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.233462943,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.x265-MiNX[TGx]/Reservation.Dogs.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.4e-8,
+                    "path": "Reservation.Dogs.S02E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Reservation.Dogs.S02E01.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.215414883,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.215414883,
+                    "path": "Reservation.Dogs.S02E01.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Reservation.Dogs.S02E01.720p.x264-FENiX",
+            "size_total": 0.388755186,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.384065431,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Reservation.Dogs.S02E01.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001358,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Reservation.Dogs.S02E01.720p.x264-FENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001004082,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Screens/Reservation.Dogs.S02E01.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001653289,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Screens/Reservation.Dogs.S02E01.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001008816,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Screens/Reservation.Dogs.S02E01.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00102221,
+                    "path": "Reservation.Dogs.S02E01.720p.x264-FENiX/Screens/Reservation.Dogs.S02E01.720p.x264-FENiX.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Reservation.Dogs.S02E01.720p.x265-T0PAZ",
+            "size_total": 0.390845711,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.385988916,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Reservation.Dogs.S02E01.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000136,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Reservation.Dogs.S02E01.720p.x265-T0PAZ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001051068,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E01.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001696246,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E01.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001083943,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E01.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001024178,
+                    "path": "Reservation.Dogs.S02E01.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E01.720p.x265-T0PAZ.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Reservation.Dogs.S02E01.rus.LostFilm.TV.avi",
+            "size_total": 0.458848256,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.458848256,
+                    "path": "Reservation.Dogs.S02E01.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.333109537,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.333109408,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.333109537,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.333109408,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 1.333110126,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.333109408,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 0.695386388,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.695386259,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.695386388,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.695386259,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 0.695386977,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.695386259,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.26994583,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.269945068,
+                    "path": "Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY[TGx]/Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.4e-8,
+                    "path": "Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Reservation.Dogs.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.300848113,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.300806932,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/Reservation.Dogs.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041052,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Reservation.Dogs.S02E01.WEBRip.x264-ION10",
+            "size_total": 0.300848113,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.300806932,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/Reservation.Dogs.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041052,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N",
+            "size_total": 0.212107026,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.210341385,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001366,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000415231,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000569822,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000386347,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000392875,
+                    "path": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E01.WEBRip.x264-XEN0N.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Reservation.Dogs.S02E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.438951704,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.438951704,
+                    "path": "Reservation.Dogs.S02E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Reservation.Dogs.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.438953522,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.438951704,
+                    "path": "Reservation.Dogs.S02E01.XviD-AFG[TGx]/Reservation.Dogs.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0000011,
+                    "path": "Reservation.Dogs.S02E01.XviD-AFG[TGx]/Reservation.Dogs.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Reservation.Dogs.S02E02.1080p.ColdFilm.mkv",
+            "size_total": 1.148621092,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.148621092,
+                    "path": "Reservation.Dogs.S02E02.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.438551703,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.438551703,
+                    "path": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.438553566,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.438551703,
+                    "path": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001145,
+                    "path": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Reservation.Dogs.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 1.671558494,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.671558494,
+                    "path": "Reservation.Dogs.S02E02.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[eztv.re].mkv",
+            "size_total": 1.285369679,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.285369679,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[rartv]",
+            "size_total": 1.285369969,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.285369679,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[rartv]/Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.59e-7,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[rartv]/reservation.dogs.s02e02.1080p.web.h264-dimepiece.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[TGx]",
+            "size_total": 1.285370656,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.285369679,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[TGx]/Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 2.59e-7,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[TGx]/reservation.dogs.s02e02.1080p.web.h264-dimepiece.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Reservation.Dogs.S02E02.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.548722179,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.548722179,
+                    "path": "Reservation.Dogs.S02E02.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Reservation.Dogs.S02E02.1080p.x265-ELiTE",
+            "size_total": 0.648380124,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.637708492,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Reservation.Dogs.S02E02.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001364,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Reservation.Dogs.S02E02.1080p.x265-ELiTE.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002358302,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E02.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004562688,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E02.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002636468,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E02.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00111281,
+                    "path": "Reservation.Dogs.S02E02.1080p.x265-ELiTE/Screens/Reservation.Dogs.S02E02.1080p.x265-ELiTE.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE[rartv]",
+            "size_total": 3.449029277,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.449028987,
+                    "path": "Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE[rartv]/Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.59e-7,
+                    "path": "Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE[rartv]/reservation.dogs.s02e02.2160p.web.h265-dimepiece.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Reservation.Dogs.S02E02.400p.ColdFilm.avi",
+            "size_total": 0.371357406,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.371357406,
+                    "path": "Reservation.Dogs.S02E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Reservation.Dogs.S02E02.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.167041006,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167041006,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Reservation.Dogs.S02E02.480p.x264-RUBiK",
+            "size_total": 0.28044488,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.277973429,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Reservation.Dogs.S02E02.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001356,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Reservation.Dogs.S02E02.480p.x264-RUBiK.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000604527,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E02.480p.x264-RUBiK.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000975599,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E02.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000664045,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E02.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000225924,
+                    "path": "Reservation.Dogs.S02E02.480p.x264-RUBiK/Screens/Reservation.Dogs.S02E02.480p.x264-RUBiK.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Reservation.Dogs.S02E02.720p.ColdFilm.mkv",
+            "size_total": 0.706667933,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706667933,
+                    "path": "Reservation.Dogs.S02E02.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Reservation.Dogs.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.294785744,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294785744,
+                    "path": "Reservation.Dogs.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Reservation.Dogs.S02E02.720p.rus.LostFilm.TV.mp4",
+            "size_total": 0.941268373,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.941268373,
+                    "path": "Reservation.Dogs.S02E02.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[eztv.re].mkv",
+            "size_total": 0.663599074,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663599074,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[rartv]",
+            "size_total": 0.663599362,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.663599074,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[rartv]/Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.57e-7,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[rartv]/reservation.dogs.s02e02.720p.web.h264-dimepiece.nfo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[TGx]",
+            "size_total": 0.663600049,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.663599074,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[TGx]/Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 2.57e-7,
+                    "path": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[TGx]/reservation.dogs.s02e02.720p.web.h264-dimepiece.nfo"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Reservation.Dogs.S02E02.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.240162817,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.240162817,
+                    "path": "Reservation.Dogs.S02E02.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Reservation.Dogs.S02E02.720p.WEBRip.x265-MiNX[TGx]",
+            "size_total": 0.263000681,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.262999963,
+                    "path": "Reservation.Dogs.S02E02.720p.WEBRip.x265-MiNX[TGx]/Reservation.Dogs.S02E02.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Reservation.Dogs.S02E02.720p.x264-FENiX",
+            "size_total": 0.414702127,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.409715156,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Reservation.Dogs.S02E02.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001358,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Reservation.Dogs.S02E02.720p.x264-FENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001126479,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Screens/Reservation.Dogs.S02E02.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002095462,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Screens/Reservation.Dogs.S02E02.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00129734,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Screens/Reservation.Dogs.S02E02.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000466332,
+                    "path": "Reservation.Dogs.S02E02.720p.x264-FENiX/Screens/Reservation.Dogs.S02E02.720p.x264-FENiX.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Reservation.Dogs.S02E02.720p.x265-T0PAZ",
+            "size_total": 0.420677377,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.415645801,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Reservation.Dogs.S02E02.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000136,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Reservation.Dogs.S02E02.720p.x265-T0PAZ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001172655,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E02.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00209423,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E02.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001247809,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E02.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000515522,
+                    "path": "Reservation.Dogs.S02E02.720p.x265-T0PAZ/Screens/Reservation.Dogs.S02E02.720p.x265-T0PAZ.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.287639905,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.287639776,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E02.Run.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.287639905,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.287639776,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E02.Run.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 1.287640494,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.287639776,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/Reservation.Dogs.S02E02.Run.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.6649636,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.664963471,
+                    "path": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]/Reservation.Dogs.S02E02.Run.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 0.664964189,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.664963471,
+                    "path": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/Reservation.Dogs.S02E02.Run.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Reservation.Dogs.S02E02.rus.LostFilm.TV.avi",
+            "size_total": 0.45315072,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.45315072,
+                    "path": "Reservation.Dogs.S02E02.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.294606378,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.294541418,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000028182,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000036649,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-ION10",
+            "size_total": 0.294606378,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.294541418,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Reservation.Dogs.S02E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000028182,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000036649,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.292414519,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.292413739,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY[TGx]/Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.2e-8,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N",
+            "size_total": 0.218654748,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.216835836,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001367,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000459826,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000703526,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00049325,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000160943,
+                    "path": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N/Screens/Reservation.Dogs.S02E02.WEBRip.x264-XEN0N.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Reservation.Dogs.S02E02.XviD-AFG[eztv.re].avi",
+            "size_total": 0.47010158,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.47010158,
+                    "path": "Reservation.Dogs.S02E02.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Reservation.Dogs.S02E02.XviD-AFG[TGx]",
+            "size_total": 0.470103397,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.47010158,
+                    "path": "Reservation.Dogs.S02E02.XviD-AFG[TGx]/Reservation.Dogs.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001099,
+                    "path": "Reservation.Dogs.S02E02.XviD-AFG[TGx]/Reservation.Dogs.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Reservation.Dogs.S02E02.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD",
+            "size_total": 0.1630937,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.162088309,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Reservation.Dogs.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.75e-7,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Reservation.Dogs.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000392117,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00029499,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000317224,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile",
+            "size_total": 0.14645205,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.145309457,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Reservation.Dogs.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001233,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Reservation.Dogs.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000442103,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000336059,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000363113,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG",
+            "size_total": 0.440123387,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.438951704,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Reservation.Dogs.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0000011,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Reservation.Dogs.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000454022,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000342911,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000373565,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD",
+            "size_total": 0.168102111,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167041006,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Reservation.Dogs.S02E02.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.76e-7,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Reservation.Dogs.S02E02.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000330111,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000298058,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000431875,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile",
+            "size_total": 0.153301478,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.152091596,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Reservation.Dogs.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001234,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Reservation.Dogs.S02E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000375813,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000339194,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000493556,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile/Torrent Downloaded From www.scenetime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Псы резервации Reservation Dogs Сезон 2 Серии 1 из 10 (Стерлин Харьо) [2022, США, комедия, криминал, WEB-DL 1080p] MVO (Lo [rutracker-6243326]",
+            "size_total": 1.418536376,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.418536376,
+                    "path": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng/Reservation.Dogs.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Псы резервации Reservation Dogs Сезон 2 Серии 1-2 из 10 (Стерлин Харьо) [2022, США, комедия, криминал, WEB-DL 1080p] MVO ( [rutracker-6243326]",
+            "size_total": 2.790647347,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.418536376,
+                    "path": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng/Reservation.Dogs.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.372110971,
+                    "path": "Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng/Reservation.Dogs.S02E02.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 102,
+            "name": "multi-btih-4-2-x-Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "e1f3c2fe96bd86227d7dea9efcd52738afd59748",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.333109537,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28288,
+            "uuploaders": 4470
+        },
+        {
+            "id": 89,
+            "name": "Reservation.Dogs.S02E02.XviD-AFG[eztv.re].avi",
+            "btih": "e6973b627ee5b5e9a11a27f8c786109bf5ab7de9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.47010158,
+            "creation": "2022-08-03T14:50:28.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28095,
+            "uuploaders": 6987
+        },
+        {
+            "id": 84,
+            "name": "Reservation.Dogs.S02E02.rus.LostFilm.TV.avi",
+            "btih": "69e9b98344d4417095a341c20139c040b0e598c2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.45315072,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25982,
+            "uuploaders": 923
+        },
+        {
+            "id": 104,
+            "name": "multi-btih-6-2-x-Reservation.Dogs.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "1025a411c3321575f6f511209b76cbc72d684cee",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.300848113,
+            "creation": "2022-08-03T04:16:02.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25060,
+            "uuploaders": 4296
+        },
+        {
+            "id": 105,
+            "name": "multi-btih-7-2-x-Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "0135f1c85dfad9fc6adaf834a9d98f7948e690ee",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.287639905,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22771,
+            "uuploaders": 4859
+        },
+        {
+            "id": 69,
+            "name": "Reservation.Dogs.S02E02.720p.ColdFilm.mkv",
+            "btih": "0e4377689ff6115b7773231b37c0d55a3602a786",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.706667933,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22416,
+            "uuploaders": 5279
+        },
+        {
+            "id": 100,
+            "name": "multi-btih-2-2-x-Reservation.Dogs.S02E01.2160p.WEB.H265-GGEZ[rarbg]",
+            "btih": "72fcb67230d7bf78b9a1b85c6f71832938257764",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 3.478203302,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20301,
+            "uuploaders": 3102
+        },
+        {
+            "id": 32,
+            "name": "Reservation.Dogs.S02E01.720p.ColdFilm.mkv",
+            "btih": "13c27887fd29f70b63ff658d49de22ddca517006",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.70910173,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20296,
+            "uuploaders": 4391
+        },
+        {
+            "id": 75,
+            "name": "Reservation.Dogs.S02E02.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "042895779e569bcc027f6d9c43c0a8a72be6395b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.240162817,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20238,
+            "uuploaders": 7123
+        },
+        {
+            "id": 99,
+            "name": "multi-btih-1-2-x-Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "btih": "b9c274f5d7062196f0d448e70ff99ab29626bba3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.330875168,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20113,
+            "uuploaders": 1983
+        },
+        {
+            "id": 107,
+            "name": "multi-btih-9-2-x-[rutor.is]Reservation.Dogs.S02.400p.Kerob",
+            "btih": "5ff41a0f1491b2ee535034ef0f0ea4e8bf2db5ce",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.181234324,
+            "creation": "2022-08-03T15:02:53.000000000Z,Tixati v2.89,http://rutor.is/torrent/883121",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19561,
+            "uuploaders": 1140
+        },
+        {
+            "id": 101,
+            "name": "multi-btih-3-2-x-Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[rarbg]",
+            "btih": "81246034dafa341637a1ef1937b77db90d35fd02",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.693995655,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18611,
+            "uuploaders": 2691
+        },
+        {
+            "id": 108,
+            "name": "multi-btih-10-2-x-[rutor.is]Reservation.Dogs.S02.720p.Kerob",
+            "btih": "e03748e9ce8eaf454243dbe56dde5434c11081b9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.032173822,
+            "creation": "2022-08-03T15:02:43.000000000Z,Tixati v2.89,http://rutor.is/torrent/883120",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18261,
+            "uuploaders": 1026
+        },
+        {
+            "id": 98,
+            "name": "multi-btih-0-2-x-Reservation.Dogs.S02.WEBDL.1080p.Rus.Eng",
+            "btih": "b6453c61ae1dadacecfcde7ac6f23efbc7f001c6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.418536376,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18187,
+            "uuploaders": 2212
+        },
+        {
+            "id": 78,
+            "name": "Reservation.Dogs.S02E02.720p.x265-T0PAZ",
+            "btih": "4c7b77279ca64682891f3c462d75b6607bf502c3",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.420677377,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17091,
+            "uuploaders": 4344
+        },
+        {
+            "id": 74,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[TGx]",
+            "btih": "27c05cdacc3e9f3f5903456dba7ef9821f33cabe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.663600049,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15995,
+            "uuploaders": 2976
+        },
+        {
+            "id": 71,
+            "name": "Reservation.Dogs.S02E02.720p.rus.LostFilm.TV.mp4",
+            "btih": "5821a31cfa7c131e3615eca0d484b578078db8d0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.941268373,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15601,
+            "uuploaders": 432
+        },
+        {
+            "id": 106,
+            "name": "multi-btih-8-2-x-Reservation.Dogs.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "48975afca38d4be41a84a56b54f66b159ece3a3a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.294606378,
+            "creation": "2022-08-03T05:01:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15385,
+            "uuploaders": 800
+        },
+        {
+            "id": 103,
+            "name": "multi-btih-5-2-x-Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "08c4cc1f3588cbedca6d143d36fb1e76f7b9313a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695386388,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15251,
+            "uuploaders": 1950
+        },
+        {
+            "id": 43,
+            "name": "Reservation.Dogs.S02E01.rus.LostFilm.TV.avi",
+            "btih": "a5ce1b1db4727af165e40ecc0cd45b9738b4f796",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.458848256,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15217,
+            "uuploaders": 3188
+        },
+        {
+            "id": 26,
+            "name": "Reservation.Dogs.S02E01.1080p.x265-ELiTE",
+            "btih": "3c78f2ed7afe1c2ef4c691649a49b6395cb3cbc3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.596315897,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15105,
+            "uuploaders": 2850
+        },
+        {
+            "id": 95,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E02 AAC MP4-Mobile",
+            "btih": "445da662f40fba44a69a883cfaf6ab519070a620",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.153301478,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14881,
+            "uuploaders": 566
+        },
+        {
+            "id": 20,
+            "name": "Reservation.Dogs.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "btih": "5bde06a99f27ed581894d0db74a7d2f4a290adc0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.689349197,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14615,
+            "uuploaders": 835
+        },
+        {
+            "id": 18,
+            "name": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "b5aba320e1355b9cd22a3edb9cb6af0939dcd014",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.395468504,
+            "creation": "2022-08-03T05:24:18.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14497,
+            "uuploaders": 3663
+        },
+        {
+            "id": 73,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[rartv]",
+            "btih": "64525984be49d848126ab5da856582fcdc4536be",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.663599362,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14431,
+            "uuploaders": 3793
+        },
+        {
+            "id": 7,
+            "name": "Reservation.Dogs.S02.1080p.Ultradox",
+            "btih": "6d9177ae21cd3e6da56b98beb085b42c6dfa23fa",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.286417992,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14086,
+            "uuploaders": 580
+        },
+        {
+            "id": 16,
+            "name": "Reservation.Dogs.S02E01-02.WEBRip.x264-ION10",
+            "btih": "8db0c8edcd552d646534cec4299aa7f55eebc89b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.595454233,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13927,
+            "uuploaders": 2227
+        },
+        {
+            "id": 62,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[TGx]",
+            "btih": "ac4e971770f36ba7e5563e4c54b1c6d4f3b83dd2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.285370656,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13196,
+            "uuploaders": 2084
+        },
+        {
+            "id": 64,
+            "name": "Reservation.Dogs.S02E02.1080p.x265-ELiTE",
+            "btih": "6aacbc0566317a7128904410d1ef2f9cbbb669e2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.648380124,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12723,
+            "uuploaders": 2039
+        },
+        {
+            "id": 56,
+            "name": "Reservation.Dogs.S02E02.1080p.ColdFilm.mkv",
+            "btih": "654d29570def920055b640e59a91b58331d5f363",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.148621092,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12609,
+            "uuploaders": 590
+        },
+        {
+            "id": 39,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "bbbe103ad1eae54bcf57c33456509075289d3927",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.233463705,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12427,
+            "uuploaders": 3122
+        },
+        {
+            "id": 17,
+            "name": "Reservation.Dogs.S02E01.1080p.ColdFilm.mkv",
+            "btih": "93f516c5c0d699ec5f8b08a917f70f56eaf0272b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.152583149,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11939,
+            "uuploaders": 1838
+        },
+        {
+            "id": 15,
+            "name": "Reservation.Dogs.s02.WEBRip.XviD.Rus.RuDub.tv",
+            "btih": "8d74068e7101b11108945684ff2cda99486ae7c0",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.776105536,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11672,
+            "uuploaders": 3029
+        },
+        {
+            "id": 40,
+            "name": "Reservation.Dogs.S02E01.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "1438ecb0306d27a1675a723963458e10d47212c1",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.215414883,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11156,
+            "uuploaders": 1438
+        },
+        {
+            "id": 66,
+            "name": "Reservation.Dogs.S02E02.400p.ColdFilm.avi",
+            "btih": "6740dfed1c01d89de51feea4629bb31686b0cef5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.371357406,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11016,
+            "uuploaders": 1272
+        },
+        {
+            "id": 55,
+            "name": "Reservation.Dogs.S02E01.XviD-AFG[TGx]",
+            "btih": "a03a5e2f4aef718e8405f1005c00343a1bace6e4",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.438953522,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10580,
+            "uuploaders": 778
+        },
+        {
+            "id": 38,
+            "name": "Reservation.Dogs.S02E01.720p.WEB.H264-CAKES[TGx]",
+            "btih": "4903b3995b533307df8a378c830cdac4ffdefe82",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.693996244,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10523,
+            "uuploaders": 1898
+        },
+        {
+            "id": 54,
+            "name": "Reservation.Dogs.S02E01.XviD-AFG[eztv.re].avi",
+            "btih": "bc1aa21e3bd156142a73080002f861b1b06950a6",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.438951704,
+            "creation": "2022-08-03T04:17:52.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10431,
+            "uuploaders": 2038
+        },
+        {
+            "id": 72,
+            "name": "Reservation.Dogs.S02E02.720p.WEB.H264-DiMEPiECE[eztv.re].mkv",
+            "btih": "9a4654097bd6d82cb944fe2eb68e0db83376e1a7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.663599074,
+            "creation": "2022-08-03T14:41:35.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10274,
+            "uuploaders": 641
+        },
+        {
+            "id": 31,
+            "name": "Reservation.Dogs.S02E01.480p.x264-RUBiK",
+            "btih": "f847156d4468be1cf64346c86d41894f046196eb",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.267798425,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10053,
+            "uuploaders": 2340
+        },
+        {
+            "id": 91,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 480p x264-mSD",
+            "btih": "145a5f8ff79f1017915ecc807802aeed637cba86",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.1630937,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10051,
+            "uuploaders": 534
+        },
+        {
+            "id": 81,
+            "name": "Reservation.Dogs.S02E02.Run.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "27e27152b8e5abe69837b527dde38051d3d74b51",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.287640494,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10024,
+            "uuploaders": 610
+        },
+        {
+            "id": 65,
+            "name": "Reservation.Dogs.S02E02.2160p.WEB.H265-DiMEPiECE[rartv]",
+            "btih": "8428e01fee972bcfae6964cbbaf1818eb0f8b8ff",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 3.449029277,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9782,
+            "uuploaders": 588
+        },
+        {
+            "id": 46,
+            "name": "Reservation.Dogs.S02E01.The.Curse.1080p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "3a5277509c3b29f79c8ac593e9a12974347c9aca",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.333110126,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9592,
+            "uuploaders": 539
+        },
+        {
+            "id": 29,
+            "name": "Reservation.Dogs.S02E01.400p.ColdFilm.avi",
+            "btih": "7b9df605bfbb81310eb9d69ac48e9fbe59e63daa",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.373263652,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9361,
+            "uuploaders": 1871
+        },
+        {
+            "id": 35,
+            "name": "reservation.dogs.s02e01.720p.web.h264-cakes[eztv.re].mkv",
+            "btih": "a17d10c566b8b9020459cd151305f2eb068fc60c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.693994893,
+            "creation": "2022-08-03T04:03:18.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9298,
+            "uuploaders": 506
+        },
+        {
+            "id": 30,
+            "name": "Reservation.Dogs.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "000384a9d3cd07d9658f3d2b58ccac0bf845ac43",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.162088309,
+            "creation": "2022-08-03T04:10:05.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9177,
+            "uuploaders": 1424
+        },
+        {
+            "id": 42,
+            "name": "Reservation.Dogs.S02E01.720p.x265-T0PAZ",
+            "btih": "e726c1eaa587e1f4f4e958ef5531252bb4bc5f48",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.390845711,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9082,
+            "uuploaders": 1503
+        },
+        {
+            "id": 77,
+            "name": "Reservation.Dogs.S02E02.720p.x264-FENiX",
+            "btih": "e7c08d875bd173f4a5f95abcad269570ab106c52",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.414702127,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8912,
+            "uuploaders": 2509
+        },
+        {
+            "id": 76,
+            "name": "Reservation.Dogs.S02E02.720p.WEBRip.x265-MiNX[TGx]",
+            "btih": "dee11be4f634445e1bad376685372aeda914ef7f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.263000681,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8849,
+            "uuploaders": 1480
+        },
+        {
+            "id": 60,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[eztv.re].mkv",
+            "btih": "4b394c6a293b9ee115f7f96673c5ca7f68e024b5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.285369679,
+            "creation": "2022-08-03T14:44:35.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8814,
+            "uuploaders": 379
+        },
+        {
+            "id": 58,
+            "name": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "4620fec67a44831e67dcc020e313418d49f90117",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.438553566,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8648,
+            "uuploaders": 1740
+        },
+        {
+            "id": 59,
+            "name": "Reservation.Dogs.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "btih": "d72ded39427d2582936a991526523326b0ad66d2",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.671558494,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8576,
+            "uuploaders": 1157
+        },
+        {
+            "id": 24,
+            "name": "Reservation.Dogs.S02E01.1080p.WEB.H264-GLHF[TGx]",
+            "btih": "c4feb138a95b5daffa515013f059caf22dcde593",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.330875757,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8539,
+            "uuploaders": 381
+        },
+        {
+            "id": 94,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E02 480p x264-mSD",
+            "btih": "4b91ec2de152e8ee4f6812a34e45d256ebaa42d6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.168102111,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8531,
+            "uuploaders": 547
+        },
+        {
+            "id": 68,
+            "name": "Reservation.Dogs.S02E02.480p.x264-RUBiK",
+            "btih": "78b7bfd3b7f4c082c8168dacc06f6b56b7b84bf4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.28044488,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8524,
+            "uuploaders": 540
+        },
+        {
+            "id": 70,
+            "name": "Reservation.Dogs.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "6739bca304c69f19849201d00f38ac811fef27c5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.294785744,
+            "creation": "2022-08-03T14:50:05.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8471,
+            "uuploaders": 609
+        },
+        {
+            "id": 53,
+            "name": "Reservation.Dogs.S02E01.WEBRip.x264-XEN0N",
+            "btih": "e09af3f04019534ebf42e2b25fcadd6a15445a25",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.212107026,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8456,
+            "uuploaders": 843
+        },
+        {
+            "id": 41,
+            "name": "Reservation.Dogs.S02E01.720p.x264-FENiX",
+            "btih": "eb52ad28ba4c7ded5da028dfbac93442ba13fc0a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.388755186,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8282,
+            "uuploaders": 974
+        },
+        {
+            "id": 83,
+            "name": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "b8efb8d427c8812b2f536200abaffc3e9227e038",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.664964189,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8050,
+            "uuploaders": 1066
+        },
+        {
+            "id": 67,
+            "name": "Reservation.Dogs.S02E02.480p.x264-mSD[eztv.re].mkv",
+            "btih": "5169b2dfef067adc6b782b8157b87963a59ecf08",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.167041006,
+            "creation": "2022-08-03T14:48:49.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8005,
+            "uuploaders": 452
+        },
+        {
+            "id": 12,
+            "name": "Reservation.Dogs.S02.720p.Ultradox",
+            "btih": "929ff944feaef66e3c6ce1b8ebc1c62c5136970b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.423824491,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7936,
+            "uuploaders": 584
+        },
+        {
+            "id": 50,
+            "name": "Reservation.Dogs.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "ea828e1d72bb5a160593ccdfdf336fcbfb31a4ee",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.26994583,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7838,
+            "uuploaders": 346
+        },
+        {
+            "id": 90,
+            "name": "Reservation.Dogs.S02E02.XviD-AFG[TGx]",
+            "btih": "bb6452b4f9f1bf45d76cbef8d5bd12988fc3d3e3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.470103397,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7820,
+            "uuploaders": 2578
+        },
+        {
+            "id": 87,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-TORRENTGALAXY[TGx]",
+            "btih": "5829803bfa5b6c2d51d0d52fcc1f25c60e47155f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.292414519,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7819,
+            "uuploaders": 549
+        },
+        {
+            "id": 8,
+            "name": "Reservation.Dogs.S02.400p.ColdFilm",
+            "btih": "7c0f2f13e79e4a8b89f8331242d5b2f9b8aa1d2d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.744621058,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7612,
+            "uuploaders": 422
+        },
+        {
+            "id": 5,
+            "name": "Reservation.Dogs.S01E02.720p.HEVC.x265-MeGusta",
+            "btih": "cf12e4ca23f5d2bbfe526fb7ad8fd67bb3f6a127",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.177294375,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 7406,
+            "uuploaders": 400
+        },
+        {
+            "id": 33,
+            "name": "Reservation.Dogs.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "033af456ba784d4c04d33ddcaf0bc111fdcd4126",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.275037756,
+            "creation": "2022-08-03T04:18:52.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7304,
+            "uuploaders": 525
+        },
+        {
+            "id": 49,
+            "name": "Reservation.Dogs.S02E01.The.Curse.720p.HULU.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "3a5d65bf42867047d778b115969fd9449f1ee34c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695386977,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7299,
+            "uuploaders": 725
+        },
+        {
+            "id": 92,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 AAC MP4-Mobile",
+            "btih": "5dc949bbfeec11a18de2b0a897c5cbfca5bb2967",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.14645205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7060,
+            "uuploaders": 464
+        },
+        {
+            "id": 34,
+            "name": "Reservation.Dogs.S02E01.720p.rus.LostFilm.TV.mp4",
+            "btih": "9496f6cf600b9d2a90380167cd37f51679874bbb",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.951536969,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6984,
+            "uuploaders": 564
+        },
+        {
+            "id": 82,
+            "name": "Reservation.Dogs.S02E02.Run.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "674c67b64194876192bcce0654fac02b11938759",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.6649636,
+            "creation": "2022-08-03T06:55:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6972,
+            "uuploaders": 510
+        },
+        {
+            "id": 57,
+            "name": "Reservation.Dogs.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "850e60d05762b24504a15061138aa908d662bc56",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.438551703,
+            "creation": "2022-08-03T15:01:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6914,
+            "uuploaders": 957
+        },
+        {
+            "id": 88,
+            "name": "Reservation.Dogs.S02E02.WEBRip.x264-XEN0N",
+            "btih": "31fe608f7fb513585ba76f3df6366d4b74f57a00",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.218654748,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6882,
+            "uuploaders": 503
+        },
+        {
+            "id": 63,
+            "name": "Reservation.Dogs.S02E02.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "459a402e3344d0b06d8a051683b9c897a64caf27",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.548722179,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6598,
+            "uuploaders": 387
+        },
+        {
+            "id": 97,
+            "name": "Псы резервации Reservation Dogs Сезон 2 Серии 1-2 из 10 (Стерлин Харьо) [2022, США, комедия, криминал, WEB-DL 1080p] MVO ( [rutracker-6243326]",
+            "btih": "64901b7f36768bde32fdeb0079fe96c83c7648c3",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.790647347,
+            "creation": "2022-08-07T19:44:38.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6243326",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6501,
+            "uuploaders": 618
+        },
+        {
+            "id": 19,
+            "name": "Reservation.Dogs.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "bc37796743567f04861b0697b31f061cac5ed716",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.395470369,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6472,
+            "uuploaders": 489
+        },
+        {
+            "id": 25,
+            "name": "Reservation.Dogs.S02E01.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "9608c7007833c46cef22d99ed6147b52c94fd383",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.495218104,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6446,
+            "uuploaders": 372
+        },
+        {
+            "id": 93,
+            "name": "www.scenetime.com   -    Reservation Dogs S02E01 XviD-AFG",
+            "btih": "10ed14487c343c2145598ce2e444d3b90012e3b0",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.440123387,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6185,
+            "uuploaders": 318
+        },
+        {
+            "id": 13,
+            "name": "Reservation.Dogs.s02.HD1080p.WEBRip.Rus.RuDub.tv",
+            "btih": "4f53458d6728b6a85002003fc208def7d26196cc",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.529674288,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5899,
+            "uuploaders": 387
+        },
+        {
+            "id": 21,
+            "name": "reservation.dogs.s02e01.1080p.web.h264-glhf[eztv.re].mkv",
+            "btih": "c702032fb3cdb539a5462452d3788ed3c7c17584",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.330874616,
+            "creation": "2022-08-03T04:04:07.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5851,
+            "uuploaders": 981
+        },
+        {
+            "id": 6,
+            "name": "Reservation.Dogs.S01E02.XviD-AFG",
+            "btih": "89be18a4666e60a664d6df8a817bf1d73342df9d",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.273301597,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4824,
+            "uuploaders": 439
+        },
+        {
+            "id": 61,
+            "name": "Reservation.Dogs.S02E02.1080p.WEB.H264-DiMEPiECE[rartv]",
+            "btih": "09849a52eabfcf831adb6c853c2c2f47caf212e2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.285369969,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4766,
+            "uuploaders": 395
+        },
+        {
+            "id": 10,
+            "name": "Reservation.Dogs.S02.720p.ColdFilm",
+            "btih": "1a412fb021b5d463bdd4515a0c7eabee20da5aa5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.41675545,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4762,
+            "uuploaders": 383
+        },
+        {
+            "id": 4,
+            "name": "Reservation.Dogs.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "9d934dc8c7ed8851d74024b31defa19c7c0ef8bf",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.861462029,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 473,
+            "uuploaders": 464
+        },
+        {
+            "id": 3,
+            "name": "Reservation.Dogs-S01E01-08.2021.DLMux.1080p.E-AC3-AC3.ITA.ENG.SUBS",
+            "btih": "771ccefbc4e9e3b64c6bc6dbca4ebb97bcfff5ed",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 10.429286713,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 413,
+            "uuploaders": 398
+        }
+    ]
+}
