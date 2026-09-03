@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14158554",
+    "imdb_id": "tt14158554",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q110639751",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fistful_of_Vengeance"
+  },
+  "coverage_sha256": "8259cf2d4032654d1391b7ef65803b9ced382eabd09ce59f8a2f868f027e8130",
+  "generated_at": "2026-09-03T01:26:22.873509+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/fistful-of-vengeance.cache/cache.20220427.tar.xz",
+      "sha256": "1f4e1fa9eafef03584a5e8a6f2bf40cd608ecc788b02c02332d756330611d59a",
+      "size": 790400300
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/fistful-of-vengeance.md",
+      "sha256": "05eb9919eaccc819dd072b2af476be6c850829c6c8de0855fc0ba9c8b7aac080",
+      "size": 646
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/fistful-of-vengeance.json",
+      "sha256": "e213f0cf5adb16007c1d8177585f7a702ee0153a58e76ddfe3472a98884106bf",
+      "size": 2462
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/fistful-of-vengeance.json",
+      "sha256": "ebb2315aca2fecdac7deb89374101198c4b04cd3ad408f01f07d1cf26d0a630a",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "fistful-of-vengeance",
+  "published_files": {
+    "data/csv/bytes/fistful-of-vengeance-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "587959609abed7f63efd5e560a8b0adbc5e2d943306487cb97497be3933e054a",
+    "docs/itemized/figures/fistful-of-vengeance-carto-4k.webp": "444fbeb6c3ab9ce332b6909bbbb5f55d1dde694af086992589b5f3130415a780",
+    "docs/itemized/figures/fistful-of-vengeance-carto.png": "cda0200046efb18375a38200c9985695fd9ec384229625a5c6132d2f8fe0db51",
+    "docs/itemized/figures/fistful-of-vengeance-cumulative-detail-btiha-itemized-by-bytes.svg": "fad68e85b21af24fa42fa5007c8b1a6e388efad28d8a0a65262ed02cd358d3bf",
+    "docs/itemized/figures/fistful-of-vengeance-data-ge-1080p-4k.webp": "85ab103d2280ce7b58cde4021e85af233fb1e2ba206a06763ff614982b70578d",
+    "docs/itemized/figures/fistful-of-vengeance-data-ge-1080p.webp": "f7941450ac4b9dcc51b407e05e61a79376ae35368a358b5b7ea8d6ba3dbe144c",
+    "docs/itemized/figures/fistful-of-vengeance-data-lt-1080p-4k.webp": "0e4a368d77d0099c496464455a13703b25171101d0805e5e07b9fdf883a4dbdc",
+    "docs/itemized/figures/fistful-of-vengeance-data-lt-1080p.webp": "69583d33a4706fb259e308a45d70e04a4d671c6250ce6d837f9f6b0a6a999e13",
+    "docs/itemized/figures/fistful-of-vengeance-downloads-by-day-day.svg": "e7c5afbbe9daaf8b203fd2a28944b0551fdaaa439a92c8cc21992168658e689b",
+    "docs/itemized/figures/fistful-of-vengeance-downloads-by-week-fistful-of-vengeance-week.svg": "9dfc23b08245b666ce7e2b42003b422a3fa56313a65fdc3fed1f62b307644b4f",
+    "docs/itemized/fistful-of-vengeance-sample-cache-audit.md": "c5ef8c80ff4f7b8d6561e944033b672e3625e8eb1fdde2d7b797ff298a8544e0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/fistful-of-vengeance/tmp/fistful-of-vengeance-cumulative-btiha.geojson",
+        "sha256": "d095f9dd79ce9212dcac6aa13c9a04614a4a61a4384ba4335ce7ab5c5d09f277",
+        "size": 40081813
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/fistful-of-vengeance/tmp/fistful-of-vengeance-cumulative-btiha-media-objects.json",
+        "sha256": "b40e8d5d93e80f1296a4f222e463b4f024a15f451828a6c1d4a921cc345ceffa",
+        "size": 313532
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "fistful-of-vengeance",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          45.0,
+          34.0,
+          28.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Johannesburg",
+          "Saint Petersburg",
+          "Pretoria",
+          "Nairobi",
+          "London",
+          "Mumbai",
+          "Accra",
+          "Seoul",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          34.0,
+          34.0,
+          32.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Johannesburg",
+          "Nairobi",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Pretoria",
+          "Seoul",
+          "Accra",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 39,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
