@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12785720",
+    "imdb_id": "tt12785720",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q104411188",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Witcher:_Blood_Origin"
+  },
+  "coverage_sha256": "37de084815311dd42d4bcf5a3082429eeaae36c13be901111980590fdc51b511",
+  "generated_at": "2026-09-03T04:14:04.500118+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/witcher-blood-origin-01.cache/cache.20230305.tar.xz",
+      "sha256": "f38535a366c80ad14d84ceaf09f46c8a01c9d4440b06040470177e9f7e340a6e",
+      "size": 770322532
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/witcher-blood-origin-01.md",
+      "sha256": "abf38177441b36ca5fe900146ed36908fefa9666670a805ec69ea258dbacbc72",
+      "size": 579
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/witcher-blood-origin-01.json",
+      "sha256": "bea8c319941e08694474652979ba80ce0d776c09781799b7c69695423c79f20b",
+      "size": 2473
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/witcher-blood-origin-01.json",
+      "sha256": "a2da606c52f4911adca16273b65de83a4c9f20466dacf8e367788f2b11dd7075",
+      "size": 375
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "witcher-blood-origin-01",
+  "published_files": {
+    "data/csv/bytes/witcher-blood-origin-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "3c5c85f21e698652e4fafd66932c895b119dd86197c91920e8c617b8454b03a9",
+    "docs/itemized/figures/witcher-blood-origin-01-carto-4k.webp": "4e01824f9d6aa0b5f798c67b1a4b3fbf184805113b7109386104b7c9accd96f5",
+    "docs/itemized/figures/witcher-blood-origin-01-carto.png": "c96d0ec1e69be84c831d6248bcfcdb492be596d4eea7b86826921fa33deb26cb",
+    "docs/itemized/figures/witcher-blood-origin-01-cumulative-detail-btiha-itemized-by-bytes.svg": "a9ea9108d5b827f573e6bb50d008942ee96609ce297c8242374457e823d142f3",
+    "docs/itemized/figures/witcher-blood-origin-01-data-ge-1080p-4k.webp": "7cf48f0bbd579a4a8a0b1ce343d0b5c4f6d9f2c210f3249db97a23d04ff09914",
+    "docs/itemized/figures/witcher-blood-origin-01-data-ge-1080p.webp": "712b15fd048aaa53787c39fa4a98a64c91c4b090175e85448f65fd13ad824270",
+    "docs/itemized/figures/witcher-blood-origin-01-data-lt-1080p-4k.webp": "4867c1c3f742bf4d2465976f9f2bd7dfc7e4cc2acc0237995079c9656c1c5c16",
+    "docs/itemized/figures/witcher-blood-origin-01-data-lt-1080p.webp": "c97ebd96f45fc3fe54adc6cd01ec3223e5e36f4a9a9a7acfb6df5c55610d5448",
+    "docs/itemized/figures/witcher-blood-origin-01-downloads-by-day-day.svg": "2e3555085caa658dd199377457e4eb9c0a70a6f2154836dec1df05d0daf21edc",
+    "docs/itemized/figures/witcher-blood-origin-01-downloads-by-week-witcher-blood-origin-01-week.svg": "071e8aff514c11f5907b80115011939da1240695f3d11175018feee0c1e47e30",
+    "docs/itemized/witcher-blood-origin-01-sample-cache-audit.md": "99779d545bcf35cd11e668ee8e7af69f45b8ad8e6ede99b8a57c5d29ae005374",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/witcher-blood-origin-01/tmp/witcher-blood-origin-01-cumulative-btiha.geojson",
+        "sha256": "b4b520359c3451c87ee741f60d804ade8f83e06046d37d096a8c71487385f000",
+        "size": 76003363
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/witcher-blood-origin-01/tmp/witcher-blood-origin-01-cumulative-btiha-media-objects.json",
+        "sha256": "c04c2210cdf0ac97337f160456537d04a0535046e877d68284424100a63d6f60",
+        "size": 1721724
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "witcher-blood-origin-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          37.0,
+          35.0,
+          32.0,
+          32.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Seoul",
+          "Madrid",
+          "Shanghai",
+          "Istanbul",
+          "Kyiv",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          36.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Seoul",
+          "Sofia",
+          "Johannesburg",
+          "Ashburn",
+          "Istanbul",
+          "Kyiv"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
