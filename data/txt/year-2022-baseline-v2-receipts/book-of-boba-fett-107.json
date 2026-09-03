@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13668894",
+    "imdb_id": "tt13668894",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q104396610",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett"
+  },
+  "coverage_sha256": "881ce000eef1ac27a84b1f0f8991e1a9d021cddad7332ed553c9f034bac2ef3c",
+  "generated_at": "2026-09-03T00:51:10.767834+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/book-of-boba-fett-107.cache/cache.20220426.tar.xz",
+      "sha256": "74f3c31b551cdf95f87340410ad3b84d2d11a9dc6edc95c01dc6e6a5aec82e13",
+      "size": 1987127876
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/book-of-boba-fett-107.md",
+      "sha256": "201c82682750749de318f6ccabf72124a8baff8ee1ab372059a1c142cd5bfc44",
+      "size": 648
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/book-of-boba-fett-107.json",
+      "sha256": "879af4b74b6928f885194b738080c21308bcf60c9107e371f2998d07286d5ba8",
+      "size": 2523
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/book-of-boba-fett-107.json",
+      "sha256": "caaa8e14e2cc6043e984e5f56d775765a3a24b2ed63a8a3fe17dc5ed62963b95",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "book-of-boba-fett-107",
+  "published_files": {
+    "data/csv/bytes/book-of-boba-fett-107-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "d6797da08312a09ac5d11fa861bca56f8f9cf611a9458cf08dc9b49b64803e1f",
+    "docs/itemized/book-of-boba-fett-107-sample-cache-audit.md": "f67ec7a91eb69f4ef78170354855939fd323eacafec6a40856e8a915cfa24375",
+    "docs/itemized/figures/book-of-boba-fett-107-carto-4k.webp": "537d0346c4d86d30b9b010aec6a30e6d7edb8632219736f7f472113af7c35424",
+    "docs/itemized/figures/book-of-boba-fett-107-carto.png": "a214827dddfdc5366675802a06452a06a1f7f58699f75c2102e3e8b8b7e31052",
+    "docs/itemized/figures/book-of-boba-fett-107-cumulative-detail-btiha-itemized-by-bytes.svg": "d7475e4a771200aae0141dbc62df66d4aa1d0ad4bdeccd8e750845b6a7fe1c57",
+    "docs/itemized/figures/book-of-boba-fett-107-data-ge-1080p-4k.webp": "fc1443f15423fc8e4c352ae4578b059876a7b7a6e96be58266500de90301d27b",
+    "docs/itemized/figures/book-of-boba-fett-107-data-ge-1080p.webp": "56d947580785adeeb3847fd80a4f64f3280aea90499012c33990288bd42359fb",
+    "docs/itemized/figures/book-of-boba-fett-107-data-lt-1080p-4k.webp": "04e6998cde0e7b31c61b4fa7195058945f41d2c64a58b7003706fa36449c28fe",
+    "docs/itemized/figures/book-of-boba-fett-107-data-lt-1080p.webp": "01f6f714e9e31766e7d4a98c25759a2312f76dedb3c82b2f8e2f92df508681c7",
+    "docs/itemized/figures/book-of-boba-fett-107-downloads-by-day-day.svg": "130f477e2e32ad370dcbda4e5f2bffd1150338b291b84aacb6bdddd3f5cf1c0d",
+    "docs/itemized/figures/book-of-boba-fett-107-downloads-by-week-book-of-boba-fett-107-week.svg": "a5ab0a84f344402b73571afc90e5e387ca1531568a254b2869630151d25589b9",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/book-of-boba-fett-107/tmp/book-of-boba-fett-107-cumulative-btiha.geojson",
+        "sha256": "158a62bda1e8d2c9c807e876052a579f00f6df245316316a730b977dbc2f608b",
+        "size": 95877782
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/book-of-boba-fett-107/tmp/book-of-boba-fett-107-cumulative-btiha-media-objects.json",
+        "sha256": "14073b2f7954f39a4a5c57755f0a566635902c5a603afde9ce36d20812dda174",
+        "size": 1016355
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "book-of-boba-fett-107",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          34.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Seoul",
+          "Amsterdam",
+          "Frankfurt am Main",
+          "Paris",
+          "Shanghai",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Ashburn",
+          "Seoul",
+          "Amsterdam",
+          "Frankfurt am Main",
+          "Madrid",
+          "Sofia",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 41,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
