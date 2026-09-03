@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11041332",
+    "imdb_id": "tt11041332",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q106830311",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellowjackets_(TV_series)"
+  },
+  "coverage_sha256": "b3f179082106dbd4b7f95ff85b100cb4af1585fa5ff19d44f84e13a76b4fc090",
+  "generated_at": "2026-09-03T03:58:46.662306+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/yellowjackets-110.cache/cache.20220212.tar.xz",
+      "sha256": "1c438e773188fe898051acb014d7bb3eb34ea5c69dbf00b55b873eefe1c943de",
+      "size": 196588936
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/yellowjackets-110.md",
+      "sha256": "4ce2d605c3b645bbe5019ee86605a25dd6aff33cde45b9019e5391b7ffdf49ed",
+      "size": 566
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/yellowjackets-110.json",
+      "sha256": "f14de0ae448848a9abca44308aedcac11f49722de4dff2487ef95f1c28cc4cf2",
+      "size": 2115
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/yellowjackets-110.json",
+      "sha256": "c1dde40688be5bc5f6f01e7467eabe7f6480aab0f69fd034682efc0a082595a6",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "yellowjackets-110",
+  "published_files": {
+    "data/csv/bytes/yellowjackets-110-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "370ce61b6c3f457b50bfe99111f42338d2ba56068f9a5775e55003159a43fd17",
+    "docs/itemized/figures/yellowjackets-110-carto-4k.webp": "4b4cd75ca57b027c08b1f824eeda7c3511892afab32b5d7ed4647c2660b09d4d",
+    "docs/itemized/figures/yellowjackets-110-carto.png": "dd753d37e6645a9596fa994d316ee3df557f4ea65761edc0120ff1680b16dd69",
+    "docs/itemized/figures/yellowjackets-110-cumulative-detail-btiha-itemized-by-bytes.svg": "f5ad9d5b2692c74dbfd3c10014f90e95c302b87d0d1130ebc28b07250df4072b",
+    "docs/itemized/figures/yellowjackets-110-data-ge-1080p-4k.webp": "62844cee223616e12aca1b53a65982ed13e363719d8004d633916d42820512a9",
+    "docs/itemized/figures/yellowjackets-110-data-ge-1080p.webp": "88e9648f6b65f943a07e4ba2922140de2c22aafcb10dc3af7663a4a32da73f4d",
+    "docs/itemized/figures/yellowjackets-110-data-lt-1080p-4k.webp": "88fff3d81f823c74c041141a03e31fecb55325c7ecdcb57b8b83f187f0d7c8c9",
+    "docs/itemized/figures/yellowjackets-110-data-lt-1080p.webp": "75dcdfab41a86cadc3b8328e3d956a710c1f7491d8b8925d6e6c059301f4ffd9",
+    "docs/itemized/figures/yellowjackets-110-downloads-by-day-day.svg": "45da9d742e35fee572d6b50dd094ce441524cb2f9c8d075246ce425f94a89a7a",
+    "docs/itemized/figures/yellowjackets-110-downloads-by-week-yellowjackets-110-week.svg": "fe0371432e51ed3c511fc920ad6d21e5940101415f3250a33dc7fe94f5b59cd5",
+    "docs/itemized/yellowjackets-110-sample-cache-audit.md": "85ac683538d26229c3525e55bec0b4de82147895f74fa946db9917dca28b5c81",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/yellowjackets-110/tmp/yellowjackets-110-cumulative-btiha.geojson",
+        "sha256": "5c40fdfbfa923b311508684c461ae84c10f83c8079e283a1059b9cfa8be5aa3e",
+        "size": 19917192
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/yellowjackets-110/tmp/yellowjackets-110-cumulative-btiha-media-objects.json",
+        "sha256": "f15bcaa8465aae041d5a2a256ac8f7eb49d47f2841bde696b8d70dadf5af0170",
+        "size": 334612
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "yellowjackets-110",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          35.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Amsterdam",
+          "Seoul",
+          "New York City",
+          "Toronto",
+          "Paris",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          39.0,
+          34.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Saint Petersburg",
+          "New York City",
+          "Seoul",
+          "Amsterdam",
+          "Toronto",
+          "Sydney",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 29,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
