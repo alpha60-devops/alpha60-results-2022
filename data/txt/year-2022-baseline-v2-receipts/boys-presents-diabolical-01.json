@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt16350094",
+    "imdb_id": "tt16350094",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q110663442",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boys_Presents:_Diabolical"
+  },
+  "coverage_sha256": "576b92326a320287e784d907cb719418d02fab77fe11975503ac1034d34de86b",
+  "generated_at": "2026-09-03T01:02:47.856528+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/boys-presents-diabolical-01.cache/cache.20220519.tar.xz",
+      "sha256": "b5126a209c9db31d8634c33b65d2257d2d682ea2acc57d5e1191fce898f6fa53",
+      "size": 337003072
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/boys-presents-diabolical-01.md",
+      "sha256": "d9a10dc3a51961e0b834d2af8fd3dbb03fc7fd94408315acc75f25a6fcbd0c6a",
+      "size": 750
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/boys-presents-diabolical-01.json",
+      "sha256": "e55d7396a0be111526563c65076e4d751418710c087b56efd445353a983b3440",
+      "size": 2541
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/boys-presents-diabolical-01.json",
+      "sha256": "1ac4c871dd20cbcfb2d16e6d588a2c07fd31f9a2aa0d1717ee753c4c102bd5d4",
+      "size": 379
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "boys-presents-diabolical-01",
+  "published_files": {
+    "data/csv/bytes/boys-presents-diabolical-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "8749bfe7c0bfb0ad651d60c001d1baac7eb255c4afb8e9c0ea4f0662bdb2ee37",
+    "docs/itemized/boys-presents-diabolical-01-sample-cache-audit.md": "260de8654dae926f5c888335a8699e55cd6595e8cc27a6f6d1e3f85eb1441fe6",
+    "docs/itemized/figures/boys-presents-diabolical-01-carto-4k.webp": "b34c9f3bf19a4759b81f8dc9d9924d92f524a01e21a6ac1636ed31c615fafd32",
+    "docs/itemized/figures/boys-presents-diabolical-01-carto.png": "384d0a7abcf428c72f6815efc63ab5a3cfb7e26616357658ddb9291bdfd3d54a",
+    "docs/itemized/figures/boys-presents-diabolical-01-cumulative-detail-btiha-itemized-by-bytes.svg": "c0d4d6408730ed6a50ac2823b16eb0d1fef139f6cd98b802ded85be0c33a0de8",
+    "docs/itemized/figures/boys-presents-diabolical-01-data-ge-1080p-4k.webp": "95ac78786d006263c0b346d973029270b1c9ac94a6bfcd8fe60dfeef747401d4",
+    "docs/itemized/figures/boys-presents-diabolical-01-data-ge-1080p.webp": "7bd0c6d5c03ea082c32d6ef2bf5acf9415cbcf53cb7372b98b9c5b0033ec8e77",
+    "docs/itemized/figures/boys-presents-diabolical-01-data-lt-1080p-4k.webp": "14c757b50687cc3e37449d95ecb6d127cf1b03521064bbf84ec3877943a7f472",
+    "docs/itemized/figures/boys-presents-diabolical-01-data-lt-1080p.webp": "08d771a2d5bea60a403cb94dd67e6d4d1dd9e7804f2a6b7717015d025e8efa65",
+    "docs/itemized/figures/boys-presents-diabolical-01-downloads-by-day-day.svg": "5c96759b1625d3524210ab42ecfd4f175135feb965f4b21615c02b0794987efc",
+    "docs/itemized/figures/boys-presents-diabolical-01-downloads-by-week-boys-presents-diabolical-01-week.svg": "144e95ede34ca536d547d33de8f9704b92ec0fec358ba846d2fe9a21ce83b2bc",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/boys-presents-diabolical-01/tmp/boys-presents-diabolical-01-cumulative-btiha.geojson",
+        "sha256": "6cb03a8528c2b51bebf51919b4ffdd483c8d7f4ab1a94a1779afa406cf75c7bd",
+        "size": 36539097
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/boys-presents-diabolical-01/tmp/boys-presents-diabolical-01-cumulative-btiha-media-objects.json",
+        "sha256": "aa55b0a15b9a024b4f30599befad21be8933e5ccde5015203a712d7ed94b3e11",
+        "size": 1194937
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "boys-presents-diabolical-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          36.0,
+          34.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Shanghai",
+          "Seoul",
+          "London",
+          "Shenzhen",
+          "Yekaterinburg",
+          "Amsterdam",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          36.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Novosibirsk",
+          "Yekaterinburg",
+          "Lelystad",
+          "Amsterdam",
+          "Madrid"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
