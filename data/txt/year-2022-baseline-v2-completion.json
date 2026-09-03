@@ -1,0 +1,52 @@
+{
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "year": "2022",
+  "status": "passed",
+  "generated_at": "2026-09-03T01:34:08-07:00",
+  "counts": {
+    "passed": 63,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 63,
+    "unique": 63
+  },
+  "campaign_counts": {
+    "archive_records": 63,
+    "worker_passed": 63,
+    "worker_failed": 0,
+    "worker_repairs": 1,
+    "day_complete": 63,
+    "day_product_pairs": 6089,
+    "index_links": 63,
+    "excluded_records": 0
+  },
+  "source_revisions": {
+    "alpha60_publication": [
+      "6965413ecbbc770c5afddad60d6badce018305ce",
+      "cc43c11988454ec298675491af25a3069706d31b"
+    ],
+    "alpha60_repair_bundle": "cc43c11988454ec298675491af25a3069706d31b",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "results_before_completion": "3272d5a42bf3dd42754d390ba63b25990fc98e51"
+  },
+  "campaign_inputs_sha256": "e5dae98684076ff370f505ec0ec4ec170bfba1605298ced9ce449611c283f15f",
+  "campaign_inputs_scope": [
+    "data/txt/year-2022-0-media-objects.txt",
+    "data/txt/year-2022-cache-archive-map.json",
+    "data/txt/year-2022-scope-exclusions.json",
+    "data/txt/year-2022-discovery-receipt.json"
+  ],
+  "evidence_sha256": {
+    "baseline_v2_site_audit": "0ac4549dd0e8cadd3c81c9d0cdde754b311ec0cdb2a9a1f151342e6206a79408",
+    "canonical_metadata_audit": "5c95b19a2ff2441bbc702f73b2fc487154db33e1b8d8e7d3e015d84c335075ee",
+    "campaign_audit": "1f39face4e35290510fc13badf73fbd1c16ad289bcd354c25b1cd9ca11e7768a",
+    "eureka_original_worker": "f39402a1b6f17a272a8e1d27180984d5fe754eaf4e2ea623599c77687d59c499",
+    "ord_original_worker": "16870f0ddfbb5ff7574f6c31ebc96d49eed474b5c49f01c30aa97553dc9787cc",
+    "eureka_repair_worker": "73b45244360eba348adec6916a1cf34c676c0afe1b1540b5967135613631b28e",
+    "repair_supervision": "7061c252daf82a877e738d3440237a7fdeb73bb357f244d495a9e8003068a846"
+  }
+}
