@@ -1,0 +1,4730 @@
+{
+    "collection_name": "Flight Attendant",
+    "collection_id": "201",
+    "collection_key": "flight-attendant-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "18faaa5e43594442851d462e72728281fac33e17",
+            "duplicate_0_0": "The-Flight-Attendant-S02E01-1080p-HEVC-x265-MeGusta[TGx]",
+            "duplicate_0_1": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "64b51609c7653a3b0ea3873f6fb4dc8c8cafbd67",
+            "duplicate_1_0": "The-Flight-Attendant-S02E01-720p-WEB-H264-CAKES[TGx]",
+            "duplicate_1_1": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "775f1f307075e46ad7bdc800208174adbd896fec",
+            "duplicate_2_0": "The-Flight-Attendant-S02E01-Seeing-Double-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "duplicate_2_1": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "d60219ddbf674171742d41b8dfd2253a07a55ec1",
+            "duplicate_3_0": "The-Flight-Attendant-S02E01-Seeing-Double-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "duplicate_3_1": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "d65d7b90f421c89efcd64f6785e4e0c23d11bb44",
+            "duplicate_4_0": "The-Flight-Attendant-S02E01-WEB-x264-TORRENTGALAXY[TGx]",
+            "duplicate_4_1": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "9c9cc151fdff6e8d90daa6264a1fd551941b354c",
+            "duplicate_5_0": "The-Flight-Attendant-S02E01-WEBRip-x264-XEN0N",
+            "duplicate_5_1": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "ec6aca667eccb685d933ff44edb9d558092ef005",
+            "duplicate_6_0": "The-Flight-Attendant-S02E02-1080p-HEVC-x265-MeGusta[TGx]",
+            "duplicate_6_1": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "4fb351c3dffc98bfb5f8b47b77ff44a174263278",
+            "duplicate_7_0": "The-Flight-Attendant-S02E02-720p-WEB-H264-CAKES[TGx]",
+            "duplicate_7_1": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "1a7b00ac4b31cf9939ac5476b9e2137a1dd65caf",
+            "duplicate_8_0": "The-Flight-Attendant-S02E02-720p-WEBRip-x265-MiNX[TGx]",
+            "duplicate_8_1": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "80709cf683e50d8d38f9fea7aecb061025afa79a",
+            "duplicate_9_0": "The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "duplicate_9_1": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "bf61c5c1ca5045a21fecf516bb199ef36a6cbebc",
+            "duplicate_10_0": "The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "duplicate_10_1": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "4775c79e6bd86ef20817b7fce29b2b166dbd73c4",
+            "duplicate_11_0": "The-Flight-Attendant-S02E02-WEB-x264-TORRENTGALAXY[TGx]",
+            "duplicate_11_1": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "3aaf059cc9366bef3e0ea9bedee35f23b1f63d89",
+            "duplicate_12_0": "The-Flight-Attendant-S02E02-WEBRip-x264-XEN0N",
+            "duplicate_12_1": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "1955dd4be4edeede0fb85237b0960bc2ef38131e",
+            "duplicate_13_0": "The.Flight.Attendant.S02.WEBDL.1080p.Rus.Eng",
+            "duplicate_13_1": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-1 из 8 (Сильвер Три) [2022, США, детектив, комедия, WEB-DL 1080p] MVO [rutracker-6206155]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "8dff0a3ec2718eeee0d5cc84dd90ec90887ef197",
+            "duplicate_14_0": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]",
+            "duplicate_14_1": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "e2d127548d085d631a60254ea917710a4b12c615",
+            "duplicate_15_0": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "duplicate_15_1": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "d5a28bce90fe6b24308d33185bdaf37b72df3933",
+            "duplicate_16_0": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "duplicate_16_1": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 17,
+            "duplicate_btih": "7e8e538d4b73d58537d8ff5a3ee5f6933b284d9e",
+            "duplicate_17_0": "[rutor.is]The.Flight.Attendant.s02.720p.rudub",
+            "duplicate_17_1": "The.Flight.Attendant.s02.720p.Rus.Eng"
+        },
+        {
+            "duplicate_id": 18,
+            "duplicate_btih": "1c3d687f8c601a410944b1047c955807d42753ad",
+            "duplicate_18_0": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сильвер Три, Дженнифер Фанг, Пит Чатмон) [2022, США, Детектив, [rutracker-6207181](1)",
+            "duplicate_18_1": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сильвер Три, Дженнифер Фанг, Пит Чатмон) [2022, США, Детектив, [rutracker-6207181]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.com ] The.Flight.Attendant.S02E01.SUBFRENCH.WEB.XviD-EXTREME.avi",
+            "size_total": 0.412363062,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.412363062,
+                    "path": "[ Torrent911.com ] The.Flight.Attendant.S02E01.SUBFRENCH.WEB.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.com ] The.Flight.Attendant.S02E02.SUBFRENCH.WEB.XviD-EXTREME.avi",
+            "size_total": 0.408342628,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.408342628,
+                    "path": "[ Torrent911.com ] The.Flight.Attendant.S02E02.SUBFRENCH.WEB.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Bortprovodnica._2_sezon._2022._EniaHD_WEB-DLRip",
+            "size_total": 6.678250722,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.52653728,
+                    "path": "Бортпроводница. 2 сезон. 2022. EniaHD (WEB-DLRip 1080p)/The.Flight.Attendant.s02e01. Двоится в глазах.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.151713442,
+                    "path": "Бортпроводница. 2 сезон. 2022. EniaHD (WEB-DLRip 1080p)/The.Flight.Attendant.s02e02. Грибы. Электрошокеры и медведи, о боже!.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]The.Flight.Attendant.s02.720p.rudub",
+            "size_total": 2.791793647,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.611390884,
+                    "path": "The.Flight.Attendant.s02.720p.Rus.Eng/The.Flight.Attendant.s02e01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.180402763,
+                    "path": "The.Flight.Attendant.s02.720p.Rus.Eng/The.Flight.Attendant.s02e02.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The_Flight_Attendant_s02_AlexFilm_1080p",
+            "size_total": 3.338661187,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.338661187,
+                    "path": "The_Flight_Attendant_(s02)_AlexFilm_1080p/The.Flight.Attendant.2022.S02E01.Seeing.Double.1080p.HMAX.WEB-DL.DD5.1.x264-NTb_EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB]",
+            "size_total": 2.157568136,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 2.1575679,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB]",
+            "size_total": 1.906129492,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.906129256,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB]/The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB]",
+            "size_total": 0.6013754,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.601375164,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB]/The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB].avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB]",
+            "size_total": 0.534248834,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.534248598,
+                    "path": "The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB]/The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB].avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "size_total": 3.199330298,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CLUB.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part3.rar"
+                },
+                {
+                    "number": 6,
+                    "size": 0.085059342,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part4.rar"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "size_total": 2.84946493,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CLUB.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 0.773284214,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part3.rar"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "size_total": 2.591680761,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.22e-7,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/ATOMIXHQ CLUB.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 0.515500045,
+                    "path": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]/The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB].part3.rar"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The Flight Attendant.WEB-DL.720p.LostFilm",
+            "size_total": 16.101491613,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.545916937,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S02E01.WEB-DL.720p.HMAX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.365472548,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E02.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.247361192,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E03.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.227586271,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E04.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.269490913,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E05.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.368795458,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E06.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.327712354,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E07.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.376540379,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E08.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.301420482,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S01E01.WEB-DL.720p.AMZN.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.371773274,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S02E02.WEB-DL.720p.HMAX.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.451701887,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S02E03.WEB-DL.720p.HMAX.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.247719918,
+                    "path": "The Flight Attendant.WEB-DL.720p.LostFilm/The Flight Attendant.S02E04.WEB-DL.720p.HMAX.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The-Flight-Attendant-S02E01-1080p-HEVC-x265-MeGusta[TGx]",
+            "size_total": 0.624069367,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.624067495,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The-Flight-Attendant-S02E01-1080p-WEB-H264-CAKES[TGx]",
+            "size_total": 3.196216454,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.196215062,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.74e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The-Flight-Attendant-S02E01-720p-WEB-H264-CAKES[TGx]",
+            "size_total": 1.403466764,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.403465373,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.73e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The-Flight-Attendant-S02E01-720p-WEB-x265-MiNX[TGx]",
+            "size_total": 0.321133473,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.321132707,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.x265-MiNX[TGx]/The.Flight.Attendant.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.8e-8,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The-Flight-Attendant-S02E01-Seeing-Double-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "size_total": 3.196111474,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.196110756,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The-Flight-Attendant-S02E01-Seeing-Double-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "size_total": 1.4033617329999999,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.403361015,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The-Flight-Attendant-S02E01-WEB-x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.355148203,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.355147437,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.8e-8,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The-Flight-Attendant-S02E01-WEBRip-x264-XEN0N",
+            "size_total": 0.326016863,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000303572,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000333066,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000358159,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000028963,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.324991721,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001382,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The-Flight-Attendant-S02E02-1080p-HEVC-x265-MeGusta[TGx]",
+            "size_total": 0.651751891,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.651750019,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The-Flight-Attendant-S02E02-1080p-WEB-H264-CAKES[TGx]",
+            "size_total": 2.846489034,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.84648762,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.96e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The-Flight-Attendant-S02E02-720p-WEB-H264-CAKES[TGx]",
+            "size_total": 1.244985287,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.244983875,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.94e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The-Flight-Attendant-S02E02-720p-WEBRip-x265-MiNX[TGx]",
+            "size_total": 0.335155095,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.335154377,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]/The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "size_total": 2.846352346,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.846351628,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "size_total": 1.24484862,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.244847902,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The-Flight-Attendant-S02E02-WEB-x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.356010544,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.356009778,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.8e-8,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The-Flight-Attendant-S02E02-WEBRip-x264-XEN0N",
+            "size_total": 0.310077514,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000216815,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000276704,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000435935,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000429768,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.308716911,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001381,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Flight.Attendant.S01E02.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 0.605543506,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.605543506,
+                    "path": "The.Flight.Attendant.S01E02.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Flight.Attendant.S02.400p.ColdFilm",
+            "size_total": 1.159815612,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.613787908,
+                    "path": "The.Flight.Attendant.S02.400p.ColdFilm/The.Flight.Attendant.S02E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.546027704,
+                    "path": "The.Flight.Attendant.S02.400p.ColdFilm/The.Flight.Attendant.S02E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Flight.Attendant.S02.400p.Ultradox",
+            "size_total": 0.720293888,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.720293888,
+                    "path": "The.Flight.Attendant.S02.400p.Ultradox/The.Flight.Attendant.S02E01.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Flight.Attendant.s02.720p.RuDub",
+            "size_total": 2.506703264,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.326300501,
+                    "path": "The.Flight.Attendant.s02.720p.RuDub/The.Flight.Attendant.s02e01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.180402763,
+                    "path": "The.Flight.Attendant.s02.720p.RuDub/The.Flight.Attendant.s02e02.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Flight.Attendant.s02.720p.Rus.Eng",
+            "size_total": 2.791793647,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.611390884,
+                    "path": "The.Flight.Attendant.s02.720p.Rus.Eng/The.Flight.Attendant.s02e01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.180402763,
+                    "path": "The.Flight.Attendant.s02.720p.Rus.Eng/The.Flight.Attendant.s02e02.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Flight.Attendant.S02.720p.Ultradox",
+            "size_total": 2.287200808,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.208890056,
+                    "path": "The.Flight.Attendant.S02.720p.Ultradox/The.Flight.Attendant.S02E01.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.078310752,
+                    "path": "The.Flight.Attendant.S02.720p.Ultradox/The.Flight.Attendant.S02E02.720p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666",
+            "size_total": 5.53953007,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.972179362,
+                    "path": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666/The.Flight.Attendant.S02E03.The.Reykjavk.Ice.Sculpture.Festival.Is.Lovely.This.Time.of.Year.PL.1080p.HMAX.WEB-DL.x264-666.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.567339895,
+                    "path": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666/The.Flight.Attendant.S02E04.Blue.Sincerely.Reunion.PL.1080p.HMAX.WEB-DL.x264-666.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010813,
+                    "path": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666/Torrent downloaded from FileTracker.pl.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0,
+                    "path": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666/Downloaded from Nitro.to.txt"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Flight.Attendant.S02.WEB-DL.720p.AlexFilm",
+            "size_total": 1.545907357,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.545907357,
+                    "path": "The.Flight.Attendant.S02.WEB-DL.720p.AlexFilm/The.Flight.Attendant.S02E01.720p.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Flight.Attendant.S02.WEBDL.1080p.Rus.Eng",
+            "size_total": 3.338658075,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.338658075,
+                    "path": "The.Flight.Attendant.S02.WEBDL.1080p.Rus.Eng/The.Flight.Attendant.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Flight.Attendant.s02.WEBRip.XviD.Rus.RuDub.tv",
+            "size_total": 1.205738754,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.633999254,
+                    "path": "The.Flight.Attendant.s02.WEBRip.XviD.Rus.RuDub.tv/The.Flight.Attendant.s02e01.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.5717395,
+                    "path": "The.Flight.Attendant.s02.WEBRip.XviD.Rus.RuDub.tv/The.Flight.Attendant.s02e02.WEBRip.XviD.Rus.RuDub.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Flight.Attendant.S02E01-02.720p.WEB-DL.DUAL",
+            "size_total": 2.940483516,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.022983105,
+                    "path": "The.Flight.Attendant.S02E01-02.720p.WEB-DL.DUAL/1XBET.COM_promo_SHREK_dinheiro_livre.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.545820829,
+                    "path": "The.Flight.Attendant.S02E01-02.720p.WEB-DL.DUAL/The.Flight.Attendant.S02E01.720p.WEB-DL.DUAL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.371679582,
+                    "path": "The.Flight.Attendant.S02E01-02.720p.WEB-DL.DUAL/The.Flight.Attendant.S02E02.720p.WEB-DL.DUAL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666",
+            "size_total": 5.997297277,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.172230076,
+                    "path": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666/The.Flight.Attendant.S02E01.Seeing.Double.PL.1080p.HMAX.WEB-DL.x264-666.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.825056388,
+                    "path": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.PL.1080p.HMAX.WEB-DL.x264-666.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010813,
+                    "path": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666/Torrent downloaded from FileTracker.pl.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0,
+                    "path": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666/Downloaded from Nitro.to.txt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10",
+            "size_total": 0.943234552,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000062171,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000068485,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000052931,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000050805,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.499312638,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000071381,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000076899,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000066133,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000066964,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.443406145,
+                    "path": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Flight.Attendant.S02E01-E02.1080p.WEBRip.DD-5.1.H264-JVC",
+            "size_total": 3.369186438,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.787889165,
+                    "path": "The.Flight.Attendant.S02E01-E02.1080p.WEBRip.DD-5.1.H264-JVC/The.Flight.Attendant.S02E01.1080p.WEBRip.DD-5.1.H264-JVC.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.581297273,
+                    "path": "The.Flight.Attendant.S02E01-E02.1080p.WEBRip.DD-5.1.H264-JVC/The.Flight.Attendant.S02E02.1080p.WEBRip.DD-5.1.H264-JVC.mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "the.flight.attendant.s02e01.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs",
+            "size_total": 0.956505192,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2e-9,
+                    "path": "the.flight.attendant.s02e01.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 0.95650519,
+                    "path": "the.flight.attendant.s02e01.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs/the.flight.attendant.s02e01.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.641452372,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005833978,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004661665,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00688808,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.624067495,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.624067495,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.624067495,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.624069367,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.624067495,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Flight.Attendant.S02E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "size_total": 3.196110756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.196110756,
+                    "path": "The.Flight.Attendant.S02E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb/The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 3.196217736,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.74e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.046216432,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.35,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.3e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES/the.flight.attendant.s02e01.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "the.flight.attendant.s02e01.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 3.196215062,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.196215062,
+                    "path": "the.flight.attendant.s02e01.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]",
+            "size_total": 3.269525153,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.073309288,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/Sample/the.flight.attendant.s02e01.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.196215062,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.74e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 3.269525153,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.073309288,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/Sample/the.flight.attendant.s02e01.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.196215062,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.74e-7,
+                    "path": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE",
+            "size_total": 0.806729892,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001635426,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001778703,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001973147,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000154257,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.801186979,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000138,
+                    "path": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE/The.Flight.Attendant.S02E01.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Flight.Attendant.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.300223803,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000167138,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000086189,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000210449,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.299759044,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD/The.Flight.Attendant.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.83e-7,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD/The.Flight.Attendant.S02E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Flight.Attendant.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.299759044,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.299759044,
+                    "path": "The.Flight.Attendant.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Flight.Attendant.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 1.113784306,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.113784306,
+                    "path": "The.Flight.Attendant.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.455841037,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002864195,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002387766,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003266706,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.44732122,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000115,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.44732122,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.44732122,
+                    "path": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "The.Flight.Attendant.S02E01.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.633291159,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.633291159,
+                    "path": "The.Flight.Attendant.S02E01.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.403467946,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.73e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.053466653,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.2e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/the.flight.attendant.s02e01.720p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "the.flight.attendant.s02e01.720p.web.h264-cakes.srt",
+            "size_total": 0.000054846,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000054846,
+                    "path": "the.flight.attendant.s02e01.720p.web.h264-cakes.srt"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES",
+            "size_total": 1.403465373,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.403465373,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES/The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.403466175,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.403465373,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.73e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 1.403466764,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.403465373,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.73e-7,
+                    "path": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "The.Flight.Attendant.S02E01.720p.x264-FENiX",
+            "size_total": 0.578272163,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000810259,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E01.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000829759,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E01.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000855658,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E01.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000064626,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E01.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.575710488,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/The.Flight.Attendant.S02E01.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001373,
+                    "path": "The.Flight.Attendant.S02E01.720p.x264-FENiX/The.Flight.Attendant.S02E01.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ",
+            "size_total": 0.547961454,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00078866,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000885172,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000982204,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000076938,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.545227105,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001375,
+                    "path": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ/The.Flight.Attendant.S02E01.720p.x265-T0PAZ.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.21576412,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000189335,
+                    "path": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000100357,
+                    "path": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000239718,
+                    "path": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.215233468,
+                    "path": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile/The.Flight.Attendant.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001242,
+                    "path": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile/The.Flight.Attendant.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "The.Flight.Attendant.S02E01.rus.LostFilm.TV.avi",
+            "size_total": 0.771958784,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.771958784,
+                    "path": "The.Flight.Attendant.S02E01.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.674907681,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.674907681,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.196110885,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.196110756,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 3.196111474,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.196110756,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "size_total": 1.403361144,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.403361015,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.403361144,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.403361015,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 1.4033617329999999,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.403361015,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.355148203,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.355147437,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.8e-8,
+                    "path": "The.Flight.Attendant.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.499547159,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000062171,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000068485,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000052931,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000050805,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.499312638,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10",
+            "size_total": 0.49954703,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000068485,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000062171,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000052931,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000050805,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.499312638,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10/The.Flight.Attendant.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N",
+            "size_total": 0.326016863,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000303572,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000333066,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000358159,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000028963,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.324991721,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001382,
+                    "path": "The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E01.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "The.Flight.Attendant.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.580506706,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000183335,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095651,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000257694,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.5799689180000001,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG/The.Flight.Attendant.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001108,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG/The.Flight.Attendant.S02E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "The.Flight.Attendant.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.579970744,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5799689180000001,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG[TGx]/The.Flight.Attendant.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001108,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG[TGx]/The.Flight.Attendant.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "The.Flight.Attendant.S02E01E02.1080p.ColdFilm",
+            "size_total": 3.364868319,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.778018214,
+                    "path": "The.Flight.Attendant.S02E01E02.1080p.ColdFilm/The.Flight.Attendant.S02E01.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.586850105,
+                    "path": "The.Flight.Attendant.S02E01E02.1080p.ColdFilm/The.Flight.Attendant.S02E02.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "The.Flight.Attendant.S02E01E02.400p.ColdFilm",
+            "size_total": 1.159815612,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.613787908,
+                    "path": "The.Flight.Attendant.S02E01E02.400p.ColdFilm/The.Flight.Attendant.S02E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.546027704,
+                    "path": "The.Flight.Attendant.S02E01E02.400p.ColdFilm/The.Flight.Attendant.S02E02.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "The.Flight.Attendant.S02E01E02.720p.ColdFilm",
+            "size_total": 2.290835082,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.210498846,
+                    "path": "The.Flight.Attendant.S02E01E02.720p.ColdFilm/The.Flight.Attendant.S02E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.080336236,
+                    "path": "The.Flight.Attendant.S02E01E02.720p.ColdFilm/The.Flight.Attendant.S02E02.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "the.flight.attendant.s02e02.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs",
+            "size_total": 1.03777639,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2e-9,
+                    "path": "the.flight.attendant.s02e02.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 1.037776388,
+                    "path": "the.flight.attendant.s02e02.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs/the.flight.attendant.s02e02.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.672502212,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.008134819,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007094018,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005522202,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.651750019,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.651750019,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.651750019,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.651751891,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.651750019,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "The.Flight.Attendant.S02E02.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "size_total": 2.846351628,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.846351628,
+                    "path": "The.Flight.Attendant.S02E02.1080p.HMAX.WEBRip.DD5.1.x264-NTb/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "The.Flight.Attendant.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 2.583367685,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.583367685,
+                    "path": "The.Flight.Attendant.S02E02.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 2.846490316,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.14648899,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.3,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 6.3e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES/the.flight.attendant.s02e02.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "the.flight.attendant.s02e02.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 2.84648762,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.84648762,
+                    "path": "the.flight.attendant.s02e02.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 2.910667437,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.064178992,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rarbg]/Sample/the.flight.attendant.s02e02.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.84648762,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e02.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.96e-7,
+                    "path": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e02.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE",
+            "size_total": 0.854385787,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00112735,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001557478,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002332067,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002490608,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/Screens/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.846876905,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001379,
+                    "path": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE/The.Flight.Attendant.S02E02.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "The.Flight.Attendant.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 1.008544409,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.008544409,
+                    "path": "The.Flight.Attendant.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "The.Flight.Attendant.S02E02.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.453904722,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.453904722,
+                    "path": "The.Flight.Attendant.S02E02.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES",
+            "size_total": 1.244983875,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.244983875,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES/The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES.mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.272859032,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.027874334,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rarbg]/Sample/the.flight.attendant.s02e02.720p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.244983875,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e02.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 6.94e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rarbg]/the.flight.attendant.s02e02.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 1.244985287,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.244983875,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.94e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[TGx]/the.flight.attendant.s02e02.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]",
+            "size_total": 0.335155095,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.335154377,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]/The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "The.Flight.Attendant.S02E02.720p.x264-FENiX",
+            "size_total": 0.565656037,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000497857,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E02.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000689283,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E02.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001138795,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E02.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001065574,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/Screens/The.Flight.Attendant.S02E02.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.562263157,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/The.Flight.Attendant.S02E02.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001371,
+                    "path": "The.Flight.Attendant.S02E02.720p.x264-FENiX/The.Flight.Attendant.S02E02.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ",
+            "size_total": 0.559063221,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000570552,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000782097,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001137392,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001217259,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/Screens/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.555354547,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001374,
+                    "path": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ/The.Flight.Attendant.S02E02.720p.x265-T0PAZ.nfo"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.21550499,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000254631,
+                    "path": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000255019,
+                    "path": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00014152,
+                    "path": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.214852578,
+                    "path": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile/The.Flight.Attendant.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001242,
+                    "path": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile/The.Flight.Attendant.S02E02.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.692153668,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.692153668,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.846351757,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.846351628,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 2.846352346,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.846351628,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.302433938,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.302433938,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "size_total": 1.244848031,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.244847902,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.244848031,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.244847902,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 1.24484862,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.244847902,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv",
+            "size_total": 2.962945315,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.962945315,
+                    "path": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "The.Flight.Attendant.S02E02.rus.LostFilm.TV.avi",
+            "size_total": 0.666832896,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.666832896,
+                    "path": "The.Flight.Attendant.S02E02.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.356010544,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.356009778,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.8e-8,
+                    "path": "The.Flight.Attendant.S02E02.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.443687651,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000071381,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000076899,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000066133,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000066964,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.443406145,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10",
+            "size_total": 0.443687522,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000076899,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000071381,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000066964,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/5_Portuguese.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000066133,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/Subs/4_Spanish.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.443406145,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10/The.Flight.Attendant.S02E02.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N",
+            "size_total": 0.310077514,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000216815,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000276704,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000435935,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000429768,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/Screens/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.308716911,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001381,
+                    "path": "The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N/The.Flight.Attendant.S02E02.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.150076908,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.150075033,
+                    "path": "The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001157,
+                    "path": "The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta[TGx]/The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile",
+            "size_total": 0.215764205,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000189335,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000100357,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000239718,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.215233468,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/The.Flight.Attendant.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001242,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/The.Flight.Attendant.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG",
+            "size_total": 0.580506791,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000183335,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095651,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000257694,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.5799689180000001,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/The.Flight.Attendant.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001108,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/The.Flight.Attendant.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile",
+            "size_total": 0.215505075,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000254631,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000255019,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00014152,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.214852578,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/The.Flight.Attendant.S02E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001242,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/The.Flight.Attendant.S02E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile/Torrent Downloaded From www.Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile",
+            "size_total": 0.170324585,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000210711,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000208992,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000197173,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.169706383,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/The.Flight.Attendant.S02E04.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001241,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/The.Flight.Attendant.S02E04.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile/Torrent Downloaded From WWW.SCENETIME.COM.txt"
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "name": "Бортпроводница (The Flight Attendant) Сезон 2",
+            "size_total": 0.880118184,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.880118184,
+                    "path": "Бортпроводница (The Flight Attendant) Сезон 2/Стюардесса - The Flight Attendant.S02E01.(Раздвоение - Seeing Double).WEB-DLRip-AVC.LostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-1 из 8 (Сильвер Три) [2022, США, детектив, комедия, WEB-DL 1080p] MVO [rutracker-6206155]",
+            "size_total": 3.338658075,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.338658075,
+                    "path": "The.Flight.Attendant.S02.WEBDL.1080p.Rus.Eng/The.Flight.Attendant.S02E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сильвер Три, Дженнифер Фанг, Пит Чатмон) [2022, США, Детектив, [rutracker-6207181](1)",
+            "size_total": 1.471307776,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.778319872,
+                    "path": "The Flight Attendant (Season 2) AlexFilm WEB-DLRip/The.Flight.Attendant.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.692987904,
+                    "path": "The Flight Attendant (Season 2) AlexFilm WEB-DLRip/The.Flight.Attendant.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "name": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сильвер Три, Дженнифер Фанг, Пит Чатмон) [2022, США, Детектив, [rutracker-6207181]",
+            "size_total": 1.471307776,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.778319872,
+                    "path": "The Flight Attendant (Season 2) AlexFilm WEB-DLRip/The.Flight.Attendant.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.692987904,
+                    "path": "The Flight Attendant (Season 2) AlexFilm WEB-DLRip/The.Flight.Attendant.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "name": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сюзанна Фогель, Маркос Сига, Батан Сильва) [2022, США, детекти [rutracker-6206916]",
+            "size_total": 1.67822336,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.887805952,
+                    "path": "Бортпроводница (Сезон 2) AlexFilm/The.Flight.Attendant.S02E01.WEB-DLRip.RGzsRutracker.Celta88.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.790417408,
+                    "path": "Бортпроводница (Сезон 2) AlexFilm/The.Flight.Attendant.S02E02.WEB-DLRip.RGzsRutracker.Celta88.avi"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "name": "空乘危机.The.Flight.Attendant.S02E01-02",
+            "size_total": 2.734733888,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4e-8,
+                    "path": "空乘危机.The.Flight.Attendant.S02E01-02/发布页 收藏不迷路.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.332954331,
+                    "path": "空乘危机.The.Flight.Attendant.S02E01-02/空乘危机.The.Flight.Attendant.S02E01.Seeing.Double.1080p.HD中字[66影视www.66Ys.Co].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.401779517,
+                    "path": "空乘危机.The.Flight.Attendant.S02E01-02/空乘危机.The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HD中字[66影视www.66Ys.Co].mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 131,
+            "name": "multi-btih-4-2-x-The-Flight-Attendant-S02E01-WEB-x264-TORRENTGALAXY[TGx]",
+            "btih": "d65d7b90f421c89efcd64f6785e4e0c23d11bb44",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.355148203,
+            "creation": "2022-04-21T08:20:45.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69328,
+            "uuploaders": 30316
+        },
+        {
+            "id": 15,
+            "name": "The-Flight-Attendant-S02E01-1080p-WEB-H264-CAKES[TGx]",
+            "btih": "0877f48d516cd0488cb39815f4e50f7ec1125f00",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196216454,
+            "creation": "2022-04-21T08:20:55.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56543,
+            "uuploaders": 28609
+        },
+        {
+            "id": 23,
+            "name": "The-Flight-Attendant-S02E02-1080p-WEB-H264-CAKES[TGx]",
+            "btih": "45f773d6bd6710a9e16bcd0c66d4084606e2001c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.846489034,
+            "creation": "2022-04-21T08:20:31.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55306,
+            "uuploaders": 29966
+        },
+        {
+            "id": 63,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "efc25c98323a3e4d29f6888aa27fcf2f7341706a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403466175,
+            "creation": "2022-04-21T07:09:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49188,
+            "uuploaders": 25424
+        },
+        {
+            "id": 128,
+            "name": "multi-btih-1-2-x-The-Flight-Attendant-S02E01-720p-WEB-H264-CAKES[TGx]",
+            "btih": "64b51609c7653a3b0ea3873f6fb4dc8c8cafbd67",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403466764,
+            "creation": "2022-04-21T08:20:30.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37234,
+            "uuploaders": 12303
+        },
+        {
+            "id": 134,
+            "name": "multi-btih-7-2-x-The-Flight-Attendant-S02E02-720p-WEB-H264-CAKES[TGx]",
+            "btih": "4fb351c3dffc98bfb5f8b47b77ff44a174263278",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.244985287,
+            "creation": "2022-04-21T08:20:34.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37008,
+            "uuploaders": 19054
+        },
+        {
+            "id": 135,
+            "name": "multi-btih-8-2-x-The-Flight-Attendant-S02E02-720p-WEBRip-x265-MiNX[TGx]",
+            "btih": "1a7b00ac4b31cf9939ac5476b9e2137a1dd65caf",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.335155095,
+            "creation": "2022-04-21T14:20:30.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34260,
+            "uuploaders": 12790
+        },
+        {
+            "id": 132,
+            "name": "multi-btih-5-2-x-The-Flight-Attendant-S02E01-WEBRip-x264-XEN0N",
+            "btih": "9c9cc151fdff6e8d90daa6264a1fd551941b354c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.326016863,
+            "creation": "2022-04-21T13:25:26.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33589,
+            "uuploaders": 12178
+        },
+        {
+            "id": 42,
+            "name": "The.Flight.Attendant.S02E01-02.WEBRip.x264-ION10",
+            "btih": "5c456c79eac09272e82a74a160903c2f9a524b39",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.943234552,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31363,
+            "uuploaders": 12198
+        },
+        {
+            "id": 140,
+            "name": "multi-btih-13-2-x-The.Flight.Attendant.S02.WEBDL.1080p.Rus.Eng",
+            "btih": "1955dd4be4edeede0fb85237b0960bc2ef38131e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.338658075,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27489,
+            "uuploaders": 8697
+        },
+        {
+            "id": 141,
+            "name": "multi-btih-14-2-x-The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES[rarbg]",
+            "btih": "8dff0a3ec2718eeee0d5cc84dd90ec90887ef197",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.269525153,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27470,
+            "uuploaders": 9285
+        },
+        {
+            "id": 41,
+            "name": "The.Flight.Attendant.S02E01-02.PL.1080p.HMAX.WEB-DL.x264-666",
+            "btih": "e9a84f1ef870c35fc3093f966f9cac697f746ac1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.997297277,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26758,
+            "uuploaders": 8533
+        },
+        {
+            "id": 12,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.204][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "btih": "6d034d38caeabdb9f5651aece425fac82577a7ba",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.591680761,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26640,
+            "uuploaders": 10376
+        },
+        {
+            "id": 120,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E04 AAC MP4-Mobile",
+            "btih": "87d4d880019b9ec90079cdd7b2f3312a1981eaaa",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.170324585,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23555,
+            "uuploaders": 9575
+        },
+        {
+            "id": 117,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 AAC MP4-Mobile",
+            "btih": "99553eca2f3fc3226a64c76f78cfded0e2d807a0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.215764205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23390,
+            "uuploaders": 9903
+        },
+        {
+            "id": 48,
+            "name": "The.Flight.Attendant.S02E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "btih": "5235a278bdcecea82ec6781ca3e514b600839154",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196110756,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21037,
+            "uuploaders": 5602
+        },
+        {
+            "id": 45,
+            "name": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "834b775757efa391ae66b7c89c6ed7c61a86734b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.641452372,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 19436,
+            "uuploaders": 6306
+        },
+        {
+            "id": 92,
+            "name": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "d5d4b5ffefcaa70feb064af5f9c788105a8ccaf0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.910667437,
+            "creation": "2022-04-21T07:16:07.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19340,
+            "uuploaders": 6460
+        },
+        {
+            "id": 85,
+            "name": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "59248deff70117106147d4c104257c9eca09f033",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.672502212,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 18706,
+            "uuploaders": 4145
+        },
+        {
+            "id": 84,
+            "name": "the.flight.attendant.s02e02.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs",
+            "btih": "eb6d8c3b232a1cb36425a4dc8c7c6e7e6a6f81f9",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.03777639,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18183,
+            "uuploaders": 5898
+        },
+        {
+            "id": 130,
+            "name": "multi-btih-3-2-x-The-Flight-Attendant-S02E01-Seeing-Double-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "btih": "d60219ddbf674171742d41b8dfd2253a07a55ec1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.4033617329999999,
+            "creation": "2022-04-21T14:05:50.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17940,
+            "uuploaders": 5305
+        },
+        {
+            "id": 59,
+            "name": "The.Flight.Attendant.S02E01.720p.rus.LostFilm.TV.mp4",
+            "btih": "37dc2d94154d1fc3cabb52bbf2f98fdec3f81672",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.633291159,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17293,
+            "uuploaders": 6530
+        },
+        {
+            "id": 144,
+            "name": "multi-btih-17-2-x-[rutor.is]The.Flight.Attendant.s02.720p.rudub",
+            "btih": "7e8e538d4b73d58537d8ff5a3ee5f6933b284d9e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.791793647,
+            "creation": "2022-04-25T06:44:38.000000000Z,http://rutor.is/torrent/871684",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17009,
+            "uuploaders": 4737
+        },
+        {
+            "id": 129,
+            "name": "multi-btih-2-2-x-The-Flight-Attendant-S02E01-Seeing-Double-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "btih": "775f1f307075e46ad7bdc800208174adbd896fec",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196111474,
+            "creation": "2022-04-21T14:05:52.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15284,
+            "uuploaders": 3301
+        },
+        {
+            "id": 69,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "fa23b106ca867126cc9e287b32d0ef53a48e438c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.674907681,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14220,
+            "uuploaders": 2245
+        },
+        {
+            "id": 62,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES",
+            "btih": "b0fe80f052b0a864050a110682e8cb43a166b858",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403465373,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13428,
+            "uuploaders": 3048
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Bortprovodnica._2_sezon._2022._EniaHD_WEB-DLRip",
+            "btih": "40612eda6c57a01f335805c61bed03e89a2f190a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.678250722,
+            "creation": "2022-04-24T17:40:34.000000000Z,http://rutor.is/torrent/871613",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13354,
+            "uuploaders": 4249
+        },
+        {
+            "id": 10,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.201][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "btih": "26faea752957a8edfc6b65b911303272a28ed0d9",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.199330298,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12979,
+            "uuploaders": 3119
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.com ] The.Flight.Attendant.S02E01.SUBFRENCH.WEB.XviD-EXTREME.avi",
+            "btih": "a82fc60c898d9305f2ba7fd8e33b641352002e70",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.412363062,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10824,
+            "uuploaders": 2498
+        },
+        {
+            "id": 142,
+            "name": "multi-btih-15-2-x-The.Flight.Attendant.S02E01.Seeing.Double.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "btih": "e2d127548d085d631a60254ea917710a4b12c615",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403361144,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10581,
+            "uuploaders": 2163
+        },
+        {
+            "id": 79,
+            "name": "The.Flight.Attendant.S02E01.XviD-AFG [IPT]",
+            "btih": "7134d9189ac48e1f257b5f71d9c1e86df9a5b610",
+            "resolution": "1080",
+            "encoding": "xvid",
+            "gigabytes": 0.580506706,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10316,
+            "uuploaders": 2452
+        },
+        {
+            "id": 9,
+            "name": "The Flight Attendant - Temporada 2 [HDTV][Cap.202][Castellano][www.AtomixHQ.CLUB]",
+            "btih": "736adda82433516b5f8a8f55625971a61f9805ef",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.534248834,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9977,
+            "uuploaders": 2961
+        },
+        {
+            "id": 96,
+            "name": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES",
+            "btih": "1d9306189b6b2af17ac4cadc8248edd16426fc2b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.244983875,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9879,
+            "uuploaders": 2742
+        },
+        {
+            "id": 17,
+            "name": "The-Flight-Attendant-S02E01-720p-WEB-x265-MiNX[TGx]",
+            "btih": "90bcece79454eef879b06f6ca9ab5ba090852313",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.321133473,
+            "creation": "2022-04-21T08:20:44.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9809,
+            "uuploaders": 2677
+        },
+        {
+            "id": 61,
+            "name": "the.flight.attendant.s02e01.720p.web.h264-cakes.srt",
+            "btih": "866d118f2dbc34df535189522a230e08781c3789",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.000054846,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9659,
+            "uuploaders": 1258
+        },
+        {
+            "id": 138,
+            "name": "multi-btih-11-2-x-The-Flight-Attendant-S02E02-WEB-x264-TORRENTGALAXY[TGx]",
+            "btih": "4775c79e6bd86ef20817b7fce29b2b166dbd73c4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.356010544,
+            "creation": "2022-04-21T08:20:38.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9201,
+            "uuploaders": 1458
+        },
+        {
+            "id": 133,
+            "name": "multi-btih-6-2-x-The-Flight-Attendant-S02E02-1080p-HEVC-x265-MeGusta[TGx]",
+            "btih": "ec6aca667eccb685d933ff44edb9d558092ef005",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.651751891,
+            "creation": "2022-04-21T14:20:27.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9050,
+            "uuploaders": 1376
+        },
+        {
+            "id": 102,
+            "name": "The.Flight.Attendant.S02E02.AAC.MP4-Mobile [IPT]",
+            "btih": "f1824e12e0d245411131051475f9ff689139aa0d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.21550499,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 9014,
+            "uuploaders": 2204
+        },
+        {
+            "id": 126,
+            "name": "空乘危机.The.Flight.Attendant.S02E01-02",
+            "btih": "9f02cee3a3a5a4388ea3530fe47c8adce98baf3d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.734733888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8951,
+            "uuploaders": 3224
+        },
+        {
+            "id": 136,
+            "name": "multi-btih-9-2-x-The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-1080p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "btih": "80709cf683e50d8d38f9fea7aecb061025afa79a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.846352346,
+            "creation": "2022-04-21T14:05:30.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8707,
+            "uuploaders": 1348
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.com ] The.Flight.Attendant.S02E02.SUBFRENCH.WEB.XviD-EXTREME.avi",
+            "btih": "0ddbb9ee81e91f0c6ce169ad30bf00498d38271e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.408342628,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8392,
+            "uuploaders": 2284
+        },
+        {
+            "id": 139,
+            "name": "multi-btih-12-2-x-The-Flight-Attendant-S02E02-WEBRip-x264-XEN0N",
+            "btih": "3aaf059cc9366bef3e0ea9bedee35f23b1f63d89",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.310077514,
+            "creation": "2022-04-21T13:25:29.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8353,
+            "uuploaders": 1782
+        },
+        {
+            "id": 143,
+            "name": "multi-btih-16-2-x-The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "btih": "d5a28bce90fe6b24308d33185bdaf37b72df3933",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.244848031,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8346,
+            "uuploaders": 346
+        },
+        {
+            "id": 127,
+            "name": "multi-btih-0-2-x-The-Flight-Attendant-S02E01-1080p-HEVC-x265-MeGusta[TGx]",
+            "btih": "18faaa5e43594442851d462e72728281fac33e17",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.624069367,
+            "creation": "2022-04-21T15:20:22.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8302,
+            "uuploaders": 2350
+        },
+        {
+            "id": 37,
+            "name": "The.Flight.Attendant.S02.WEB-DL.720p.AlexFilm",
+            "btih": "963f8f9b075b32880131be31d9b6c21efc33f1ee",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.545907357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8207,
+            "uuploaders": 2071
+        },
+        {
+            "id": 121,
+            "name": "Бортпроводница (The Flight Attendant) Сезон 2",
+            "btih": "cfd9be6ae47903d2c983a90d02f5fafc4751acef",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.880118184,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7911,
+            "uuploaders": 103
+        },
+        {
+            "id": 95,
+            "name": "The.Flight.Attendant.S02E02.720p.rus.LostFilm.TV.mp4",
+            "btih": "47cd888288577ccce71b21ba1dc29311665eba90",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.453904722,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7746,
+            "uuploaders": 1320
+        },
+        {
+            "id": 91,
+            "name": "the.flight.attendant.s02e02.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "7206ee94b9ec320eb354cdf35f90a9e692c79daf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.84648762,
+            "creation": "2022-04-21T07:34:31.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7645,
+            "uuploaders": 1359
+        },
+        {
+            "id": 33,
+            "name": "The.Flight.Attendant.s02.720p.RuDub",
+            "btih": "d273120f28ce59d7c15fe58918b385f171428d1c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.506703264,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7368,
+            "uuploaders": 1319
+        },
+        {
+            "id": 32,
+            "name": "The.Flight.Attendant.S02.400p.Ultradox",
+            "btih": "d64392197298fb5c1c5203294bf8ea1c2d1783db",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.720293888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7258,
+            "uuploaders": 2048
+        },
+        {
+            "id": 43,
+            "name": "The.Flight.Attendant.S02E01-E02.1080p.WEBRip.DD-5.1.H264-JVC",
+            "btih": "920544c4e071c8b2df0c57533146a72d3ca213a0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.369186438,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7033,
+            "uuploaders": 1629
+        },
+        {
+            "id": 83,
+            "name": "The.Flight.Attendant.S02E01E02.720p.ColdFilm",
+            "btih": "f8ac03f677d869e47ea0b994729051e32915d29a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.290835082,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6847,
+            "uuploaders": 1768
+        },
+        {
+            "id": 118,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E01 XviD-AFG",
+            "btih": "df190e70d7a15f2d4a2cbfb741acbcac2d8f7e32",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.580506791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6601,
+            "uuploaders": 32
+        },
+        {
+            "id": 13,
+            "name": "The Flight Attendant.WEB-DL.720p.LostFilm",
+            "btih": "af9ab0c01169d6b85c82455280c95987dd6ac34b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 16.101491613,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6519,
+            "uuploaders": 1517
+        },
+        {
+            "id": 53,
+            "name": "The.Flight.Attendant.S02E01.1080p.x265-ELiTE",
+            "btih": "a356d5c6cb6cde02b41cbb31b5fda8f038b87ee6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.806729892,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6483,
+            "uuploaders": 1107
+        },
+        {
+            "id": 11,
+            "name": "The Flight Attendant - Temporada 2 [WEB-DL 1080p][Cap.202][Dual DDP5.1 + Subs][www.atomixHQ.CLUB]",
+            "btih": "3665fd57dba37fd87327b29267803ffe01baeb7a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.84946493,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6347,
+            "uuploaders": 2175
+        },
+        {
+            "id": 55,
+            "name": "The.Flight.Attendant.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "fa7201b12ebaafed78effb37aa28738dc03361f4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.299759044,
+            "creation": "2022-04-21T07:42:26.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6246,
+            "uuploaders": 296
+        },
+        {
+            "id": 54,
+            "name": "The.Flight.Attendant.S02E01.480p.x264-mSD [IPT]",
+            "btih": "e2dafc22a6b42c84f9d57d759ca236b9e3eb8d71",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.300223803,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6174,
+            "uuploaders": 278
+        },
+        {
+            "id": 77,
+            "name": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10",
+            "btih": "8acd91569c7adf36dc5b2be44bf1659c80995e62",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.49954703,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5896,
+            "uuploaders": 1645
+        },
+        {
+            "id": 66,
+            "name": "The.Flight.Attendant.S02E01.720p.x265-T0PAZ",
+            "btih": "6796f09a93b07dc10543553635708506e5e847f2",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.547961454,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5856,
+            "uuploaders": 223
+        },
+        {
+            "id": 100,
+            "name": "The.Flight.Attendant.S02E02.720p.x264-FENiX",
+            "btih": "1811a05dace607e7760152f2b48f4fca43c97bf7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.565656037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5682,
+            "uuploaders": 109
+        },
+        {
+            "id": 36,
+            "name": "The.Flight.Attendant.S02.PL.1080p.HMAX.WEB-DL.x264-666",
+            "btih": "71fad241acc2c37fe3a88282bb36a871c898430b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.53953007,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5611,
+            "uuploaders": 1634
+        },
+        {
+            "id": 58,
+            "name": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "22578cbccd646f35eee2b2e3f1fcd0288828d7bc",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.44732122,
+            "creation": "2022-04-21T07:35:12.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5602,
+            "uuploaders": 1213
+        },
+        {
+            "id": 114,
+            "name": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10",
+            "btih": "f427303f8011ab8e6729ad7de5798bba98f3fcc3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.443687522,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5427,
+            "uuploaders": 1382
+        },
+        {
+            "id": 60,
+            "name": "The.Flight.Attendant.S02E01.720p.WEB.H264-CAKES [IPT]",
+            "btih": "bedd9ddb39e072e6b3d713a9aff7ec1661ba979d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403467946,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5426,
+            "uuploaders": 1246
+        },
+        {
+            "id": 104,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "fa328e36e038cc0046798a2f9d796065188f9e4a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.846351757,
+            "creation": "2022-04-21T13:02:49.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5310,
+            "uuploaders": 1432
+        },
+        {
+            "id": 31,
+            "name": "The.Flight.Attendant.S02.400p.ColdFilm",
+            "btih": "db15484eb224c7d15c80740133a1e3ddc6edb5ca",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.159815612,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5294,
+            "uuploaders": 323
+        },
+        {
+            "id": 145,
+            "name": "multi-btih-18-2-x-Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сильвер Три, Дженнифер Фанг, Пит Чатмон) [2022, США, Детектив, [rutracker-6207181](1)",
+            "btih": "1c3d687f8c601a410944b1047c955807d42753ad",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.471307776,
+            "creation": "2022-04-26T17:42:16.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=6207181",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5204,
+            "uuploaders": 265
+        },
+        {
+            "id": 80,
+            "name": "The.Flight.Attendant.S02E01.XviD-AFG[TGx]",
+            "btih": "666fb15644dfed9e5e25ada689211d13583a209f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.579970744,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5105,
+            "uuploaders": 1245
+        },
+        {
+            "id": 40,
+            "name": "The.Flight.Attendant.S02E01-02.720p.WEB-DL.DUAL",
+            "btih": "d6bf3f23ad3b9b0ce7408aca1e3b8c4af31c538b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.940483516,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4935,
+            "uuploaders": 1351
+        },
+        {
+            "id": 70,
+            "name": "The.Flight.Attendant.S02E01.Seeing.Double.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "c4f40b5afb6718125a4d766ff6e9b46af8dc810b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196110885,
+            "creation": "2022-04-21T13:01:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4860,
+            "uuploaders": 138
+        },
+        {
+            "id": 111,
+            "name": "The.Flight.Attendant.S02E02.rus.LostFilm.TV.avi",
+            "btih": "a6aff6a4c2e081c3c924204e2d69cebdb5d7ed71",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.666832896,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4698,
+            "uuploaders": 1028
+        },
+        {
+            "id": 46,
+            "name": "The.Flight.Attendant.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "406af4e970694ab7c66302bf12a976276b81a81f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.624067495,
+            "creation": "2022-04-21T14:11:32.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4576,
+            "uuploaders": 645
+        },
+        {
+            "id": 68,
+            "name": "The.Flight.Attendant.S02E01.rus.LostFilm.TV.avi",
+            "btih": "2e4aecbbbd2b35ffcd4f062dbf086053f287dfe7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.771958784,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4507,
+            "uuploaders": 412
+        },
+        {
+            "id": 116,
+            "name": "The.Flight.Attendant.S02E03.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "45eb42d71c35b7be3b0ac4511ceb29d7833b0daf",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.150076908,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4416,
+            "uuploaders": 42
+        },
+        {
+            "id": 86,
+            "name": "The.Flight.Attendant.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "b0fc149e5ddf708e9afe23f750f676779c2fabb9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.651750019,
+            "creation": "2022-04-21T13:52:16.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4413,
+            "uuploaders": 708
+        },
+        {
+            "id": 50,
+            "name": "the.flight.attendant.s02e01.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "68b5fa106cf4222c5e6805fdc62c1924f4e6ecf9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196215062,
+            "creation": "2022-04-21T07:37:31.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4406,
+            "uuploaders": 453
+        },
+        {
+            "id": 113,
+            "name": "The.Flight.Attendant.S02E02.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "9645634af1bf082c7fc79f9caf0e760838f200aa",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.443687651,
+            "creation": "2022-04-21T07:48:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4387,
+            "uuploaders": 1243
+        },
+        {
+            "id": 106,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "abad75f8211c875cae86f40df1b45a3f1893584c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.302433938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4267,
+            "uuploaders": 145
+        },
+        {
+            "id": 6,
+            "name": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.AtomixHQ.CLUB]",
+            "btih": "d316ff4ab680ce0215e8c2856878540e6149390d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.157568136,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4245,
+            "uuploaders": 318
+        },
+        {
+            "id": 137,
+            "name": "multi-btih-10-2-x-The-Flight-Attendant-S02E02-Mushrooms-Tasers-and-Bears-Oh-My-720p-HMAX-WEBRip-DD5-1-x264-NTb[TGx]",
+            "btih": "bf61c5c1ca5045a21fecf516bb199ef36a6cbebc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.24484862,
+            "creation": "2022-04-21T14:05:27.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4144,
+            "uuploaders": 240
+        },
+        {
+            "id": 101,
+            "name": "The.Flight.Attendant.S02E02.720p.x265-T0PAZ",
+            "btih": "44673bf3bc462fa9af5eafd7336c8d468a0871d6",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.559063221,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4034,
+            "uuploaders": 614
+        },
+        {
+            "id": 35,
+            "name": "The.Flight.Attendant.S02.720p.Ultradox",
+            "btih": "c5c4bbf13ff3088d9f694641ce4da4c28c7556e5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.287200808,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4008,
+            "uuploaders": 345
+        },
+        {
+            "id": 94,
+            "name": "The.Flight.Attendant.S02E02.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "23456f3fc39059c78da01548ba5257b93d2ec369",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.008544409,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3888,
+            "uuploaders": 700
+        },
+        {
+            "id": 76,
+            "name": "The.Flight.Attendant.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "186c4c4f30dcb554ed8c75b22d03211d73d28eba",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.499547159,
+            "creation": "2022-04-21T07:51:25.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3827,
+            "uuploaders": 86
+        },
+        {
+            "id": 57,
+            "name": "The.Flight.Attendant.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "918eb31c85d07d01c3a1976ad19ddaa5c66764fb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.455841037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3816,
+            "uuploaders": 318
+        },
+        {
+            "id": 81,
+            "name": "The.Flight.Attendant.S02E01E02.1080p.ColdFilm",
+            "btih": "959068f0f004340f506664130f09626a1d04364e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.364868319,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3764,
+            "uuploaders": 677
+        },
+        {
+            "id": 65,
+            "name": "The.Flight.Attendant.S02E01.720p.x264-FENiX",
+            "btih": "69ee0c3f2b7c5c3332c0b36019b091431033fa30",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.578272163,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3743,
+            "uuploaders": 142
+        },
+        {
+            "id": 90,
+            "name": "The.Flight.Attendant.S02E02.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "daffd7bef1d92bf25a4a12d0fbf0c18265b0f17e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.846490316,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3642,
+            "uuploaders": 273
+        },
+        {
+            "id": 82,
+            "name": "The.Flight.Attendant.S02E01E02.400p.ColdFilm",
+            "btih": "9a67b619410e19724545242066f15edb643af802",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.159815612,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3556,
+            "uuploaders": 565
+        },
+        {
+            "id": 119,
+            "name": "WWW.SCENETIME.COM   -    The Flight Attendant S02E02 AAC MP4-Mobile",
+            "btih": "37122438bdde81916b4e4b6b9c25ee8f7c56632a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.215505075,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3500,
+            "uuploaders": 37
+        },
+        {
+            "id": 39,
+            "name": "The.Flight.Attendant.s02.WEBRip.XviD.Rus.RuDub.tv",
+            "btih": "474e711adc3298461bab2cb70413503d293ec97e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.205738754,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3361,
+            "uuploaders": 69
+        },
+        {
+            "id": 125,
+            "name": "Бортпроводница The Flight Attendant Сезон 2 Серии 1-2 из 8 (Сюзанна Фогель, Маркос Сига, Батан Сильва) [2022, США, детекти [rutracker-6206916]",
+            "btih": "11cebb8bf6869871ca01f058d85b28953621ce8a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.67822336,
+            "creation": "2022-04-26T20:03:56.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=6206916",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3354,
+            "uuploaders": 340
+        },
+        {
+            "id": 30,
+            "name": "The.Flight.Attendant.S01E02.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "80f38b720e0c9de502123be097521f41ab586fb1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.605543506,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3335,
+            "uuploaders": 50
+        },
+        {
+            "id": 88,
+            "name": "The.Flight.Attendant.S02E02.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "btih": "b186445b142af6d3fe81e722c0874f5c980940c6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.846351628,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3315,
+            "uuploaders": 474
+        },
+        {
+            "id": 8,
+            "name": "The Flight Attendant - Temporada 2 [HDTV][Cap.201][Castellano][www.AtomixHQ.CLUB]",
+            "btih": "93d4026406c26727b25159fae82afa4c1163a529",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.6013754,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3193,
+            "uuploaders": 716
+        },
+        {
+            "id": 93,
+            "name": "The.Flight.Attendant.S02E02.1080p.x265-ELiTE",
+            "btih": "2d1d4eea194c4752230078659d847989b11c00d8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.854385787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2929,
+            "uuploaders": 199
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The_Flight_Attendant_s02_AlexFilm_1080p",
+            "btih": "535c269390bc59dd75872da82f348058ae3439b7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.338661187,
+            "creation": "2022-04-24T14:22:42.000000000Z,uTorrent/2040,http://rutor.is/torrent/871749",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2703,
+            "uuploaders": 321
+        },
+        {
+            "id": 97,
+            "name": "The.Flight.Attendant.S02E02.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "b815f57810aba3e3a47cd4d3ee6e70c4f80f3fa5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.272859032,
+            "creation": "2022-04-21T07:16:24.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2587,
+            "uuploaders": 930
+        },
+        {
+            "id": 49,
+            "name": "The.Flight.Attendant.S02E01.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "01f83e5e69e3aa570a929c7fe35ae0a11d51c194",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.196217736,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1952,
+            "uuploaders": 760
+        },
+        {
+            "id": 110,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv",
+            "btih": "8f299f3c64c5ad9da36f0428f3e90746e456b8c2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.962945315,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1689,
+            "uuploaders": 29
+        },
+        {
+            "id": 89,
+            "name": "The.Flight.Attendant.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "btih": "bcec343bff07d133226c10dbc92d5e6dfb5c42c5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.583367685,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1284,
+            "uuploaders": 489
+        },
+        {
+            "id": 103,
+            "name": "The.Flight.Attendant.S02E02.Mushrooms.Tasers.and.Bears.Oh.My.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "f1c466d97687d0236645efe65f1f5a4787e8624a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.692153668,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1149,
+            "uuploaders": 200
+        },
+        {
+            "id": 56,
+            "name": "The.Flight.Attendant.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "ccafc2257d50f67e9f3c4700193957148cd01e6b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.113784306,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1114,
+            "uuploaders": 319
+        },
+        {
+            "id": 7,
+            "name": "The Flight Attendant - Temporada 2 [HDTV 720p][Cap.202][AC3 5.1 Castellano][www.AtomixHQ.CLUB]",
+            "btih": "b82003c83955814f778e17946d325099f005c38b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.906129492,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 945,
+            "uuploaders": 70
+        },
+        {
+            "id": 67,
+            "name": "The.Flight.Attendant.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "af81722f9db699374f2df814ba11d320a75baa07",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.21576412,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 572,
+            "uuploaders": 344
+        },
+        {
+            "id": 44,
+            "name": "the.flight.attendant.s02e01.1080p.60FPS.Dubbed.HEVC.10bit.AC3.ytcodecs",
+            "btih": "3b6007c1b94ba027fe6e8f0a593b53263db2cefa",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.956505192,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 422,
+            "uuploaders": 280
+        }
+    ]
+}

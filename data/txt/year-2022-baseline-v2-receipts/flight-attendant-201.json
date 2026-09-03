@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7569576",
+    "imdb_id": "tt7569576",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q55635222",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Flight_Attendant"
+  },
+  "coverage_sha256": "79faea42be418ea7926fda202cc0a900d993c982f5da553b8d3b6dae2e04bc8f",
+  "generated_at": "2026-09-03T01:32:17.886851+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/flight-attendant-201.cache/cache.20220629.tar.xz",
+      "sha256": "14a31908fe475854502e168c1ad74afa1556ee57112de76181f1f8e817c7a15a",
+      "size": 318176716
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/flight-attendant-201.md",
+      "sha256": "88496e64852a238bad06545f4136316510c53916a160169539a78687d9e829aa",
+      "size": 573
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/flight-attendant-201.json",
+      "sha256": "f3172ab63026847185281ae8da5ab57362fc367ba8a4c57c119269f9cc13415d",
+      "size": 2239
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/flight-attendant-201.json",
+      "sha256": "0b59980b77f77aa17b6fdda8c8d6fabc6dd1c87a8ebc376a56ad408256492139",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "flight-attendant-201",
+  "published_files": {
+    "data/csv/bytes/flight-attendant-201-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "0a2bb26e721fec9ddcaf00e8809fdbe99c88480db63e3463e5b5404b38f659a5",
+    "docs/itemized/figures/flight-attendant-201-carto-4k.webp": "3c6b7875e4a2132b4f4e944dfa3aaea215250434a767733eabf5530e1b0d53d1",
+    "docs/itemized/figures/flight-attendant-201-carto.png": "8b88898902bd67a9e1d1352ceaaa9e8d023b49ad6617114010c1aa4ea8d745ad",
+    "docs/itemized/figures/flight-attendant-201-cumulative-detail-btiha-itemized-by-bytes.svg": "f4c3b99a1b1ed800010b7e7ac0d74637ed6265e0503bc38a3476212ae6cd5c44",
+    "docs/itemized/figures/flight-attendant-201-data-ge-1080p-4k.webp": "cd6abcc6c8753a70abaf43fb3d018022aed5c5644360dc54e8627dca799b7217",
+    "docs/itemized/figures/flight-attendant-201-data-ge-1080p.webp": "c0a3d6d80f087338af678c91b9cfde92584bc1298c9c5d8b4350f696fe35e80d",
+    "docs/itemized/figures/flight-attendant-201-data-lt-1080p-4k.webp": "698da644784dbe890eb5aaa338a67f66f4a7fee13cd77e9f149cc9d94f112128",
+    "docs/itemized/figures/flight-attendant-201-data-lt-1080p.webp": "332737821661107d85e05fbfe0d93fa88a0a22728ad99def44e50ca83479edd9",
+    "docs/itemized/figures/flight-attendant-201-downloads-by-day-day.svg": "5405da5410f55c6268d87d97f81dcd4aa8506a066cffe8f9d4fd580095b5c659",
+    "docs/itemized/figures/flight-attendant-201-downloads-by-week-flight-attendant-201-week.svg": "9747ec51a27e6147c8d41ae932be1d24c12794d30740a0e41046dde182c2bc9d",
+    "docs/itemized/flight-attendant-201-sample-cache-audit.md": "fd5117d4db53ffd6e6680dba02f626f3bc473d7c2d58ddfe2071a2d36dd5d55a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/flight-attendant-201/tmp/flight-attendant-201-cumulative-btiha.geojson",
+        "sha256": "144355737b6d7623f94231d62ca31a5c98be95b39bd208402ccb90c1d2e87fa0",
+        "size": 22701781
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/flight-attendant-201/tmp/flight-attendant-201-cumulative-btiha-media-objects.json",
+        "sha256": "0f440f786d9174f48587976d29dddb13c2ab6d5686eb647b9bc8ee0a8b962233",
+        "size": 195104
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "flight-attendant-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          70.0,
+          53.0,
+          33.0,
+          33.0,
+          31.0,
+          28.0,
+          28.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Leipzig",
+          "Saint Petersburg",
+          "Toronto",
+          "Seoul",
+          "Amsterdam",
+          "New York City",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          61.0,
+          59.0,
+          36.0,
+          33.0,
+          32.0,
+          32.0,
+          31.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Leipzig",
+          "Ashburn",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "New York City",
+          "Toronto",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
