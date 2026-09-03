@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1649418",
+    "imdb_id": "tt1649418",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q104891260",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gray_Man_(2022_film)"
+  },
+  "coverage_sha256": "843cfd53821982a1fc0f8af256f8e5dda937114ea94df130417626b2106dd98c",
+  "generated_at": "2026-09-03T01:46:57.325578+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/gray-man.cache/cache.20221103.tar.xz",
+      "sha256": "7ba398ed56d8bdb329baafb8f7a0be851eeaa1d2b2291b1b44cdae2ad46eb767",
+      "size": 2597263476
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/gray-man.md",
+      "sha256": "cc275c4b3c8d9a6ffe268e1e0d811cf3ae33ab157fd5b8ae7e8701bace4a4f56",
+      "size": 549
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/gray-man.json",
+      "sha256": "d5917c64c7ad3ef26aaff77345dfd8c03fc04cc88da78f25dfe8eeab6659e03f",
+      "size": 2719
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/gray-man.json",
+      "sha256": "a4a83c4d1900bc8d2d866489ccbb23b6ee06b30a2a7082675f9e38fb5c1d5607",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "gray-man",
+  "published_files": {
+    "data/csv/bytes/gray-man-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "668941a9c9bddce909bd016d2994d15338589277a0de7829bede7a199559a8ae",
+    "docs/itemized/figures/gray-man-carto-4k.webp": "b020a631ff640290685c0cbcba253816028fb6dc45b03cf601f9f01c152836e6",
+    "docs/itemized/figures/gray-man-carto.png": "003fe574cda244e7c28a604c87ab3a3d9705c60f1f04b643fa8f6d57f7c23c02",
+    "docs/itemized/figures/gray-man-cumulative-detail-btiha-itemized-by-bytes.svg": "d6b31e4a1dae43daa7769bc6e9ba0e4df0b75fffd771c270219bc5b89a9c806e",
+    "docs/itemized/figures/gray-man-data-ge-1080p-4k.webp": "efb7f1fe5c764cd893e03da531928ac8fede6e59bab9253b7fe6c973bc1771a9",
+    "docs/itemized/figures/gray-man-data-ge-1080p.webp": "72512d710d719787fe7bde27c13ffc53016974df56d4b7d0023579ebc01d4b2b",
+    "docs/itemized/figures/gray-man-data-lt-1080p-4k.webp": "40342762d125f94c366949f65f427f3041f5a93263ecf9a7a5ed494997091f44",
+    "docs/itemized/figures/gray-man-data-lt-1080p.webp": "83ac12c2b8a1d82129ee18060bc9fa90d1f3c96b32f1301d94940cdda97360b6",
+    "docs/itemized/figures/gray-man-downloads-by-day-day.svg": "188477bbeceb1242e845ac748486e1b12594ae5924192976ee0d79e0824dfa3b",
+    "docs/itemized/figures/gray-man-downloads-by-week-gray-man-week.svg": "2c190116f7525e0e5ac12797e4e06988acffdd7ceaeeb31d0eb85c884cd33061",
+    "docs/itemized/gray-man-sample-cache-audit.md": "41723e4f418c0cf834623b7af21ed04dea168017cfeb32e513b773f4c109d6e9",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/gray-man/tmp/gray-man-cumulative-btiha.geojson",
+        "sha256": "385e5289facc66340b9501de8a1c8d7472ffef3b8429340993bb3e611807e076",
+        "size": 98410287
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/gray-man/tmp/gray-man-cumulative-btiha-media-objects.json",
+        "sha256": "7212cd9cba9cb7d093bdf4cafed1c57b44682e9f485f5b17e8d6a5b7a1fa9ef9",
+        "size": 406566
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "gray-man",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          32.0,
+          32.0,
+          30.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Ashburn",
+          "Johannesburg",
+          "Quezon City",
+          "Mumbai",
+          "Amsterdam",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          36.0,
+          36.0,
+          34.0,
+          32.0,
+          32.0,
+          29.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Quezon City",
+          "Ashburn",
+          "London",
+          "Johannesburg",
+          "Saint Petersburg",
+          "Mumbai",
+          "Chennai",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 40,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
