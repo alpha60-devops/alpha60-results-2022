@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7631058",
+    "imdb_id": "tt7631058",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q59149852",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power"
+  },
+  "coverage_sha256": "b08878cf91f76733461c588cc93c5eb8d596c9dda78ee481b7cf080f49ebc99a",
+  "generated_at": "2026-09-03T02:42:58.891528+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/rings-of-power-108.cache/cache.20230126.tar.xz",
+      "sha256": "084b4b2e15ba785496ec0532fc0af43fa65e545f4a104039267a3ad1d4f83b44",
+      "size": 2107176724
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/rings-of-power-108.md",
+      "sha256": "f5ad7638548b7fe01db726a1ac16bdcbe3581701dbf2426c7acec06c1f2cece0",
+      "size": 569
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/rings-of-power-108.json",
+      "sha256": "a8e9e8e1715c75383c916b63dce54ee2e2f6c9dbde6885f98b08194a031eead6",
+      "size": 2749
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/rings-of-power-108.json",
+      "sha256": "01e907acf038b75020bcd5a5146ce7da8f115b4310aa0c3ee784ce353befeeb1",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "rings-of-power-108",
+  "published_files": {
+    "data/csv/bytes/rings-of-power-108-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "b4192a7bcb6f17e498b6d2e146f19a33315e15fb215afa4b16b00ae91e00f707",
+    "docs/itemized/figures/rings-of-power-108-carto-4k.webp": "94d2719abf801b4b81affe63dd008c7e36a87717e49d024cdc6e7c4994c699c6",
+    "docs/itemized/figures/rings-of-power-108-carto.png": "387b4e254e8f5015536cad6ebe23d524c4c6600d566da1dbf5913ceb380bd2ba",
+    "docs/itemized/figures/rings-of-power-108-cumulative-detail-btiha-itemized-by-bytes.svg": "5ba67cf0aa4f2473f65c2cf6cf5f057a1f36236b42d51482b9c36ca2376deb54",
+    "docs/itemized/figures/rings-of-power-108-data-ge-1080p-4k.webp": "47a1a65b659fc4354fe5f585cb11626703312807a6923858a87f4cf1217a0347",
+    "docs/itemized/figures/rings-of-power-108-data-ge-1080p.webp": "2129b1fbf8a12c1b7f8ca80947bb0ad7f17e6bd4258d6524cbe1bf7dc487e192",
+    "docs/itemized/figures/rings-of-power-108-data-lt-1080p-4k.webp": "a3b75fbeb69a4c2eb8aad120106decd131a6526abc10d68ad7024b71ccbb8aa9",
+    "docs/itemized/figures/rings-of-power-108-data-lt-1080p.webp": "bb8153f15093c9644ccdbf3c747003fa4dd6e711d765f5ccc1e0ec1e270e5a21",
+    "docs/itemized/figures/rings-of-power-108-downloads-by-day-day.svg": "7bad22ba82f23437f7e9a86e3e11d1ea8ec503a9d5a66bb547fbc9f190481500",
+    "docs/itemized/figures/rings-of-power-108-downloads-by-week-rings-of-power-108-week.svg": "6052d36b144351c0c518b261236bed78da39a4170d86931be877558b2e3ef903",
+    "docs/itemized/rings-of-power-108-sample-cache-audit.md": "ab6dba24383af4fb3db95577e7dbff199935af5515be420c81b0f33b0d7aac84",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/rings-of-power-108/tmp/rings-of-power-108-cumulative-btiha.geojson",
+        "sha256": "7a2d5ea02496a4ab30e3a98e2a3817155845fc3eea6fb133954a65e1b821c270",
+        "size": 101821074
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/rings-of-power-108/tmp/rings-of-power-108-cumulative-btiha-media-objects.json",
+        "sha256": "a58c543fe9d05c896c61b52e797e976d95f4da39d65aa203cb0d6df84cfffc14",
+        "size": 1508220
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "rings-of-power-108",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          51.0,
+          38.0,
+          38.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Amsterdam",
+          "Johannesburg",
+          "Seoul",
+          "Saint Petersburg",
+          "Frankfurt am Main",
+          "Sofia",
+          "New York City",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          31.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Amsterdam",
+          "London",
+          "Seoul",
+          "Johannesburg",
+          "Frankfurt am Main",
+          "Kyiv",
+          "Krasnodar",
+          "Nizhniy Novgorod"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 47,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
