@@ -1,0 +1,4282 @@
+{
+    "collection_name": "Westworld",
+    "collection_id": "401",
+    "collection_key": "westworld-401",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "fd433e139b6c881d98fc047867b002addf468775",
+            "duplicate_0_0": "Westworld (Season 4) AlexFilm WEB-DLRip",
+            "duplicate_0_1": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, Фантас [rutracker-6231823]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "959ecda4d4fabcdbab551286abc7e5a87c1566d7",
+            "duplicate_1_0": "Westworld.S04.WEBDL.1080p.Rus.Eng",
+            "duplicate_1_1": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис) [2022, США, фантастика, драма, детектив, вестерн, WEB- [rutracker-6230483]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "07d7d9ff63c1affe745e353c2b8379f703d0b0a1",
+            "duplicate_2_0": "Westworld.S04.WEBRip.Rus.HDRezka",
+            "duplicate_2_1": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2022, США, Фантастик [rutracker-6230",
+            "duplicate_2_2": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2022, США, Фантастик [rutracker-6230470]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "6d5637b8fdf5033d2b73a135658b37f84d7fd908",
+            "duplicate_3_0": "Westworld.S04E01.1080p.WEB.H264-CAKES [IPT]",
+            "duplicate_3_1": "Westworld.S04E01.1080p.WEB.H264-CAKES"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "9ce98bd6a3286db31dca7a52eb1fc5e559cf97d7",
+            "duplicate_4_0": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]",
+            "duplicate_4_1": "Westworld.S04E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "9395a03fb6bb2bf0e4fbbe20b8a6a879661ad8e0",
+            "duplicate_5_0": "Westworld.S04E01.720p.HEVC.x265-MeGusta [IPT]",
+            "duplicate_5_1": "Westworld.S04E01.720p.HEVC.x265-MeGusta"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "732d7c8f5806dcd93843026f6e65ef6352c12d82",
+            "duplicate_6_0": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]",
+            "duplicate_6_1": "Westworld.S04E01.720p.WEB.h264-KOGi[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "435d3c7f20f7f72184468c0fab05ae52f2fcec2f",
+            "duplicate_7_0": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "duplicate_7_1": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "ef61ad64b001d689c57d7c6097df752dbb3b65ae",
+            "duplicate_8_0": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "duplicate_8_1": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "245d62064ca6053786cf0768a41ee8326fbc85a9",
+            "duplicate_9_0": "Westworld.S04E01.XviD-AFG [IPT]",
+            "duplicate_9_1": "Westworld.S04E01.XviD-AFG"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "43a5f492ac9b755b4615932e6d4d888605adbfec",
+            "duplicate_10_0": "[rutor.is]Westworld",
+            "duplicate_10_1": "Westworld.S04.WEB-DL1080p.xz"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "dd5fcbdfb6cdee4fc5f6f91d371fd3199f113ceb",
+            "duplicate_11_0": "[rutor.is]Westworld.S04.1080p.Kerob",
+            "duplicate_11_1": "Westworld.S04.1080p.Kerob"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "08b71298a8061d518f7ea2d2575b28a4ef5c5469",
+            "duplicate_12_0": "[rutor.is]Westworld.S04.1080p.LakeFilms",
+            "duplicate_12_1": "Westworld.S04.1080p.LakeFilms"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "008bf5b6df40de85d5a2b6cdb53b0f62f99345cf",
+            "duplicate_13_0": "[rutor.is]Westworld.S04.400p.Kerob",
+            "duplicate_13_1": "Westworld.S04.400p.Kerob"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "5bfc8046de3dd4d483274f3a3f9fd04b4d5297b6",
+            "duplicate_14_0": "[rutor.is]Westworld.S04.WEB-DL.1080p.LF_rutor",
+            "duplicate_14_1": "Westworld.S04.WEB-DL.1080p.LF_[rutor]"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "adb7ed8389d5e8c47791c7e8309fb5a2ce3b7707",
+            "duplicate_15_0": "[rutor.is]Westworld.S04.WEB-DLRip-AVC",
+            "duplicate_15_1": "Westworld.S04.WEB-DLRip-AVC"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.org ] Westworld.S04E01.FRENCH.WEBRip.x264-EXTREME.mkv",
+            "size_total": 0.557639777,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.557639777,
+                    "path": "[ Torrent911.org ] Westworld.S04E01.FRENCH.WEBRip.x264-EXTREME.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.org ] Westworld.S04E01.VOSTFR.WEBRip.x264-ION10.mkv",
+            "size_total": 0.547922504,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.547922504,
+                    "path": "[ Torrent911.org ] Westworld.S04E01.VOSTFR.WEBRip.x264-ION10.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[BD影视分享bd2020.com]Westworld.S04E01.HMAX.AAC5.1.HD1080P.中英双字.mp4",
+            "size_total": 1.396027833,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.396027833,
+                    "path": "[BD影视分享bd2020.com]Westworld.S04E01.HMAX.AAC5.1.HD1080P.中英双字.mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Westworld(1)",
+            "size_total": 8.360284696,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.841035776,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E01.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.723615744,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E02.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.72214528,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E03.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.723468288,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E04.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.698667008,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E05.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.706863104,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E06.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.697311232,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E07.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.711596032,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E08.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.721819648,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E09.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 1.112168448,
+                    "path": "Westworld_[rutor]/S01/Westworld.S01E10.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.7015936,
+                    "path": "Westworld_[rutor]/S04/Westworld.S04E01.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 5.36e-7,
+                    "path": "Westworld_[rutor]/S04/Westworld.S04E01.srt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Westworld.S04.1080p.Kerob",
+            "size_total": 3.723324222,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.723324222,
+                    "path": "Westworld.S04.1080p.Kerob/Westworld.S04E01.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Westworld.S04.1080p.LakeFilms",
+            "size_total": 1.767465108,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.767465108,
+                    "path": "Westworld.S04.1080p.LakeFilms/Westworld.S04E01.1080p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Westworld.S04.400p.Kerob",
+            "size_total": 0.763281854,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.763281854,
+                    "path": "Westworld.S04.400p.Kerob/Westworld.S04E01.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Westworld.S04.720p.LakeFilms",
+            "size_total": 0.959346164,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.959346164,
+                    "path": "Westworld.S04.720p.LakeFilms/Westworld.S04E01.720p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Westworld.S04.SD.LakeFilms",
+            "size_total": 0.49269898,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.49269898,
+                    "path": "Westworld.S04.SD.LakeFilms/Westworld.S04E01.SD.LakeFilms.avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]Westworld.S04.WEB-DL.1080p.LF_rutor",
+            "size_total": 3.671183131,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.671183131,
+                    "path": "Westworld.S04.WEB-DL.1080p.LF_[rutor]/Westworld.S04E01.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]Westworld.S04.WEB-DLRip-AVC",
+            "size_total": 1.0466077,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0466077,
+                    "path": "Westworld.S04.WEB-DLRip-AVC/Westworld.S04E01.WEB-DLRip-AVC.TR.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]Westworld",
+            "size_total": 3.697257463,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.697257463,
+                    "path": "Westworld.S04.WEB-DL1080p.xz/Westworld.S04E01.WEB-DL1080p.[HDRezka Studio].xz.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Westworld (2016) S04E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "size_total": 1.408404549,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.408404549,
+                    "path": "Westworld (2016) S04E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)/Westworld.S04E01.The.Auguries.1080p.10bit.HMAX.WEB-DL.DD5.1.HEVC-Vyndros.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Westworld (Season 4) AlexFilm WEB-DLRip",
+            "size_total": 0.854652086,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00004831,
+                    "path": "Westworld (Season 4) AlexFilm WEB-DLRip/Eng/Westworld.S04E01.WEB-DLRip.AlexFilm.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.854603776,
+                    "path": "Westworld (Season 4) AlexFilm WEB-DLRip/Westworld.S04E01.WEB-DLRip.AlexFilm.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE]",
+            "size_total": 1.623810342,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE]/ATOMOHD CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.2e-7,
+                    "path": "Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE]/AtomoHD ONE.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.623810108,
+                    "path": "Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE]/Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE]",
+            "size_total": 0.640905946,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE]/ATOMOHD CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.2e-7,
+                    "path": "Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE]/AtomoHD ONE.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.640905712,
+                    "path": "Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE]/Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE].avi"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]",
+            "size_total": 3.520828163,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/ATOMOHD CANAL TELEGRAM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.2e-7,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/AtomoHD ONE.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.03809024,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE].part1.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.03809024,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE].part2.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 1.03809024,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE].part3.rar"
+                },
+                {
+                    "number": 6,
+                    "size": 0.406557209,
+                    "path": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]/Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE].part4.rar"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Westworld 4X1 HDTV XviD Castellano",
+            "size_total": 0.640906374,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.14e-7,
+                    "path": "Westworld 4X1 HDTV XviD Castellano/Descargar Torrent Gratis.URL"
+                },
+                {
+                    "number": 2,
+                    "size": 2.2e-7,
+                    "path": "Westworld 4X1 HDTV XviD Castellano/NUEVOCANAL Noticias@yITAR.URL"
+                },
+                {
+                    "number": 3,
+                    "size": 0.640905712,
+                    "path": "Westworld 4X1 HDTV XviD Castellano/Westworld 4X1 HDTV XviD Castellano.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 2.28e-7,
+                    "path": "Westworld 4X1 HDTV XviD Castellano/YaDixv Facebook.URL"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0",
+            "size_total": 1.644558417,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0/BLUDV.TO.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.3e-7,
+                    "path": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0/GRUPO TELEGRAM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 3.3e-7,
+                    "path": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0/LEIA-ME.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 1.33e-7,
+                    "path": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0/TorrentDosFilmes2.TV.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.644557703,
+                    "path": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0/Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Westworld. s04.2022. WEB-DLRip.AlexFilm",
+            "size_total": 0.733530648,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.36e-7,
+                    "path": "Westworld. s04.2022. WEB-DLRip.AlexFilm/01. Westworld. s04.2022. WEB-DLRip.AlexFilm..srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.733530112,
+                    "path": "Westworld. s04.2022. WEB-DLRip.AlexFilm/01. Westworld. s04.2022. WEB-DLRip.AlexFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Westworld.(Season 04).LostFilm",
+            "size_total": 0.845180928,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.845180928,
+                    "path": "Westworld.(Season 04).LostFilm/Westworld.S04E01.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Westworld.4x01.lati.mp4",
+            "size_total": 0.492345946,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.492345946,
+                    "path": "Westworld.4x01.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.1080p.DLMux.AAC.x265-Pir8.mkv",
+            "size_total": 1.072332661,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.072332661,
+                    "path": "Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.1080p.DLMux.AAC.x265-Pir8.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8",
+            "size_total": 0.681330194,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.681224192,
+                    "path": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8/Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.DLMux.XviD-Pir8.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000035402,
+                    "path": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8/Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.DLMux.XviD-Pir8.en.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000038064,
+                    "path": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8/Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.DLMux.XviD-Pir8.it.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000032536,
+                    "path": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8/Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.DLMux.XviD-Pir8.srt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u",
+            "size_total": 16.893880543,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.19e-7,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Darmowy katalog torrent - Nitro.To.URL"
+                },
+                {
+                    "number": 2,
+                    "size": 2.29e-7,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Devil-Torrents.pl.URL"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000010829,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Downloaded from FileTracker.pl.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 2.4e-8,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Downloaded from Nitro.To.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 2.29e-7,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Electro-Torrent.pl.URL"
+                },
+                {
+                    "number": 6,
+                    "size": 2.26e-7,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/FileTracker.PL - Darmowe polskie torrenty..URL"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00000214,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/raju.txt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.0007718,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/westworld-5a0d54ebc54a0.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 1.854322215,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E01.The.Original.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.596062246,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E02.Chestnut.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.594951434,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E03.The.Stray.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.592861683,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E04.Dissonance.Theory.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.542125172,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E05.Contrapasso.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 1.557636537,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E06.The.Adversary.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 1.538782451,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E07.Trompe.L.Oeil.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 1.571679037,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E08.Trace.Decay.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 17,
+                    "size": 1.594300527,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E09.The.Well.Tempered.Clavier.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                },
+                {
+                    "number": 18,
+                    "size": 2.450373545,
+                    "path": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u/Westworld.S01E10.The.Bicameral.Mind.FiNAL.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Westworld.S01E10.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 5.450012795,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.450012795,
+                    "path": "Westworld.S01E10.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Westworld.S03E04.1080p.BluRay.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs",
+            "size_total": 1.496936431,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2e-9,
+                    "path": "Westworld.S03E04.1080p.BluRay.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 1.496936429,
+                    "path": "Westworld.S03E04.1080p.BluRay.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs/Westworld.S03E04.1080p.BluRay.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Westworld.S04.1080p.Kerob",
+            "size_total": 3.723324222,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.723324222,
+                    "path": "Westworld.S04.1080p.Kerob/Westworld.S04E01.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Westworld.S04.1080p.LakeFilms",
+            "size_total": 1.767465108,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.767465108,
+                    "path": "Westworld.S04.1080p.LakeFilms/Westworld.S04E01.1080p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Westworld.S04.1080p.Ultradox",
+            "size_total": 1.930687342,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.930687342,
+                    "path": "Westworld.S04.1080p.Ultradox/Westworld.S04E01.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Westworld.S04.400p.ColdFilm",
+            "size_total": 0.693659322,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.693659322,
+                    "path": "Westworld.S04.400p.ColdFilm/Westworld.S04E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Westworld.S04.400p.Kerob",
+            "size_total": 0.763281854,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.763281854,
+                    "path": "Westworld.S04.400p.Kerob/Westworld.S04E01.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Westworld.S04.400p.Ultradox",
+            "size_total": 0.787255296,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.787255296,
+                    "path": "Westworld.S04.400p.Ultradox/Westworld.S04E01.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Westworld.S04.720p.ColdFilm",
+            "size_total": 1.537875447,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.537875447,
+                    "path": "Westworld.S04.720p.ColdFilm/Westworld.S04E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Westworld.S04.720p.Ultradox",
+            "size_total": 1.238222967,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.238222967,
+                    "path": "Westworld.S04.720p.Ultradox/Westworld.S04E01.720p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Westworld.s04.HD1080p.WEBRip.Rus.RuDub.tv",
+            "size_total": 3.225202454,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.225202454,
+                    "path": "Westworld.s04.HD1080p.WEBRip.Rus.RuDub.tv/Westworld.s04e01.HD1080p.WEBRip.Rus.RuDub.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Westworld.S04.WEB-DL.1080p.LF_[rutor]",
+            "size_total": 3.671183131,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.671183131,
+                    "path": "Westworld.S04.WEB-DL.1080p.LF_[rutor]/Westworld.S04E01.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Westworld.S04.WEB-DL1080p.xz",
+            "size_total": 3.697257463,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.697257463,
+                    "path": "Westworld.S04.WEB-DL1080p.xz/Westworld.S04E01.WEB-DL1080p.[HDRezka Studio].xz.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Westworld.S04.WEB-DLRip-AVC",
+            "size_total": 1.0466077,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.0466077,
+                    "path": "Westworld.S04.WEB-DLRip-AVC/Westworld.S04E01.WEB-DLRip-AVC.TR.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Westworld.S04.WEBDL.1080p.Rus.Eng",
+            "size_total": 3.671187791,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.671187791,
+                    "path": "Westworld.S04.WEBDL.1080p.Rus.Eng/Westworld.S04E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Westworld.S04.WEBDL.720p.AlexFilm",
+            "size_total": 1.694486711,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.694486711,
+                    "path": "Westworld.S04.WEBDL.720p.AlexFilm/Westworld.S04E01.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Westworld.S04.WEBDL.720p.LostFilm",
+            "size_total": 1.694477457,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.694477457,
+                    "path": "Westworld.S04.WEBDL.720p.LostFilm/Westworld.S04E01.720p.LostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Westworld.S04.WEBRip.Rus.HDRezka",
+            "size_total": 0.69226496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.69226496,
+                    "path": "Westworld.S04.WEBRip.Rus.HDRezka/Westworld.S04E01.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Westworld.s04.WEBRip.XviD.Rus.RuDub.tv",
+            "size_total": 0.706612906,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706612906,
+                    "path": "Westworld.s04.WEBRip.XviD.Rus.RuDub.tv/Westworld.s04e01.WEBRip.XviD.Rus.RuDub.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Westworld.S04E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.665677799,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.665677799,
+                    "path": "Westworld.S04E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Westworld.S04E01.1080p.ColdFilm.mkv",
+            "size_total": 2.155028246,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.155028246,
+                    "path": "Westworld.S04E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.51181895,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006727921,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.009026122,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007087623,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.488976153,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta/Westworld.S04E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001131,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta/Westworld.S04E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta.mkv",
+            "size_total": 0.488976153,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.488976153,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.488976153,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.488976153,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.488978002,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.488976153,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[TGx]/Westworld.S04E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001131,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[TGx]/Westworld.S04E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs",
+            "size_total": 1.652327973,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2e-9,
+                    "path": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 1.652327971,
+                    "path": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs/Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.X264.AC3.ytcodecs",
+            "size_total": 1.078768563,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2e-9,
+                    "path": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.X264.AC3.ytcodecs/www.ytcodecs.com"
+                },
+                {
+                    "number": 2,
+                    "size": 1.078768561,
+                    "path": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.X264.AC3.ytcodecs/Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.X264.AC3.ytcodecs.mp4"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Westworld.S04E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "size_total": 3.514856319,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.514856319,
+                    "path": "Westworld.S04E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb/Westworld.S04E01.The.Auguries.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Westworld.S04E01.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 3.181942414,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.181942414,
+                    "path": "Westworld.S04E01.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Westworld.S04e01.1080p.WEB-DL.DUAL",
+            "size_total": 1.236798103,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.022983105,
+                    "path": "Westworld.S04e01.1080p.WEB-DL.DUAL/1XBET.COM_promo_SHREK_dinheiro_livre.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.211414258,
+                    "path": "Westworld.S04e01.1080p.WEB-DL.DUAL/Westworld.S04e01.1080p.WEB-DL.DUAL.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00240074,
+                    "path": "Westworld.S04e01.1080p.WEB-DL.DUAL/Westworld.S04e01.mp4"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 3.514666873,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.28e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.014665673,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 5.72e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "westworld.s04e01.1080p.web.h264-cakes.chs.eng.mp4",
+            "size_total": 1.033881302,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.033881302,
+                    "path": "westworld.s04e01.1080p.web.h264-cakes.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "westworld.s04e01.1080p.web.h264-cakes.mkv",
+            "size_total": 3.514664287,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.514664287,
+                    "path": "westworld.s04e01.1080p.web.h264-cakes.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES",
+            "size_total": 3.514666873,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.28e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.014665673,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.35,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 5.72e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES/westworld.s04e01.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "westworld.s04e01.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 3.514664287,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.514664287,
+                    "path": "westworld.s04e01.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]",
+            "size_total": 3.514665044,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.514664287,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/westworld.s04e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.28e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/westworld.s04e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 3.514665044,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.514664287,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/westworld.s04e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.28e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]/westworld.s04e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES[TGx]",
+            "size_total": 3.514665633,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.514664287,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[TGx]/westworld.s04e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.28e-7,
+                    "path": "Westworld.S04E01.1080p.WEB.H264-CAKES[TGx]/westworld.s04e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Westworld.S04E01.1080p.x265-ELiTE",
+            "size_total": 0.687484095,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001391398,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Screens/Westworld.S04E01.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001664808,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Screens/Westworld.S04E01.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002351192,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Screens/Westworld.S04E01.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002532291,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Screens/Westworld.S04E01.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.67954307,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Westworld.S04E01.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001336,
+                    "path": "Westworld.S04E01.1080p.x265-ELiTE/Westworld.S04E01.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Westworld.S04E01.400p.ColdFilm.avi",
+            "size_total": 0.636514272,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.636514272,
+                    "path": "Westworld.S04E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Westworld.S04E01.480p.x264-mSD [IPT]",
+            "size_total": 0.289902057,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000179068,
+                    "path": "Westworld.S04E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000329728,
+                    "path": "Westworld.S04E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000214233,
+                    "path": "Westworld.S04E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.289178067,
+                    "path": "Westworld.S04E01.480p.x264-mSD/Westworld.S04E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.61e-7,
+                    "path": "Westworld.S04E01.480p.x264-mSD/Westworld.S04E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Westworld.S04E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.289178067,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.289178067,
+                    "path": "Westworld.S04E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Westworld.S04E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.293837932,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.293837932,
+                    "path": "Westworld.S04E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Westworld.S04E01.720p.ColdFilm.mkv",
+            "size_total": 1.325929192,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.325929192,
+                    "path": "Westworld.S04E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.38102507,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00316026,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004417501,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003519603,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.369926575,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Westworld.S04E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001131,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Westworld.S04E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta.mkv",
+            "size_total": 0.369926575,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.369926575,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta",
+            "size_total": 0.38102507,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00316026,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004417501,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003519603,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.369926575,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Westworld.S04E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001131,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta/Westworld.S04E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.369926575,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.369926575,
+                    "path": "Westworld.S04E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Westworld.S04E01.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.781396899,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.781396899,
+                    "path": "Westworld.S04E01.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi [IPT]",
+            "size_total": 1.537977978,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000004756,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.037972422,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 8e-7,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/westworld.s04e01.720p.web.h264-kogi.sfv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi.mkv",
+            "size_total": 1.537970614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi.mkv"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi",
+            "size_total": 1.537970614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi/Westworld.S04E01.720p.WEB.h264-KOGi.mkv"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[eztv.re].mkv",
+            "size_total": 1.537970614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]",
+            "size_total": 1.537975499,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/Westworld.S04E01.720p.WEB.h264-KOGi.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004756,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/westworld.s04e01.720p.web.h264-kogi.nfo"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[rartv]-[rarbg.to]",
+            "size_total": 1.537975499,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/Westworld.S04E01.720p.WEB.h264-KOGi.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004756,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]/westworld.s04e01.720p.web.h264-kogi.nfo"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[TGx]",
+            "size_total": 1.537976088,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.537970614,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[TGx]/Westworld.S04E01.720p.WEB.h264-KOGi.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004756,
+                    "path": "Westworld.S04E01.720p.WEB.h264-KOGi[TGx]/westworld.s04e01.720p.web.h264-kogi.nfo"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Westworld.S04E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.258843067,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.258842313,
+                    "path": "Westworld.S04E01.720p.WEB.x265-MiNX[TGx]/Westworld.S04E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-8,
+                    "path": "Westworld.S04E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Westworld.S04E01.720p.x264-FENiX",
+            "size_total": 0.566079671,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000698817,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Screens/Westworld.S04E01.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000784093,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Screens/Westworld.S04E01.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001079525,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Screens/Westworld.S04E01.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001182931,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Screens/Westworld.S04E01.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.562332976,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Westworld.S04E01.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001329,
+                    "path": "Westworld.S04E01.720p.x264-FENiX/Westworld.S04E01.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Westworld.S04E01.720p.x265-T0PAZ",
+            "size_total": 0.485179891,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000690478,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Screens/Westworld.S04E01.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000835811,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Screens/Westworld.S04E01.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00108073,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Screens/Westworld.S04E01.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001270138,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Screens/Westworld.S04E01.720p.x265-T0PAZ.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.481301406,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Westworld.S04E01.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001328,
+                    "path": "Westworld.S04E01.720p.x265-T0PAZ/Westworld.S04E01.720p.x265-T0PAZ.nfo"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Westworld.S04E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.201514159,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000203287,
+                    "path": "Westworld.S04E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0003773,
+                    "path": "Westworld.S04E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245946,
+                    "path": "Westworld.S04E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.200686406,
+                    "path": "Westworld.S04E01.AAC.MP4-Mobile/Westworld.S04E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000122,
+                    "path": "Westworld.S04E01.AAC.MP4-Mobile/Westworld.S04E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Westworld.S04E01.HDTV.SubtituladoEsp.SC.mp4",
+            "size_total": 0.589987508,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.589987508,
+                    "path": "Westworld.S04E01.HDTV.SubtituladoEsp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Westworld.S04E01.I.Presagi.HMAX.WEBMux.ITA.ENG.x264-BlackBit.mkv",
+            "size_total": 0.484267213,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.484267213,
+                    "path": "Westworld.S04E01.I.Presagi.HMAX.WEBMux.ITA.ENG.x264-BlackBit.mkv"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Westworld.S04E01.I.presagi.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv",
+            "size_total": 3.6586066,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6586066,
+                    "path": "Westworld.S04E01.I.presagi.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT [IPT]",
+            "size_total": 3.976136012,
+            "files_total": 42,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.27e-7,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.076133285,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.1,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.rar"
+                },
+                {
+                    "number": 42,
+                    "size": 0.0000024,
+                    "path": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT/westworld.s04e01.multi.1080p.web.h264-sheeeit.sfv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "westworld.s04e01.multi.1080p.web.h264-sheeeit[eztv.re].mkv",
+            "size_total": 3.976127925,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.976127925,
+                    "path": "westworld.s04e01.multi.1080p.web.h264-sheeeit[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Westworld.S04E01.rus.LostFilm.TV.avi",
+            "size_total": 0.845180928,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.845180928,
+                    "path": "Westworld.S04E01.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN",
+            "size_total": 2.397941693,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.044540319,
+                    "path": "Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN/sample.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.353398062,
+                    "path": "Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN/Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003312,
+                    "path": "Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN/Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN.nfo"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "size_total": 3.514856448,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.514856319,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Westworld.S04E01.The.Auguries.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.514856448,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.514856319,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Westworld.S04E01.The.Auguries.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 3.514857037,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.514856319,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/Westworld.S04E01.The.Auguries.1080p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Westworld.S04E01.The.Auguries.1080p",
+            "size_total": 3.521855809,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.521855809,
+                    "path": "Westworld.S04E01.The.Auguries.1080p/Westworld.S04E01.The.Auguries.1080p.Modified By mxn.mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "size_total": 1.538160857,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.538160728,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Westworld.S04E01.The.Auguries.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.538160857,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.538160728,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]/Westworld.S04E01.The.Auguries.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "size_total": 1.538161446,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.538160728,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/Westworld.S04E01.The.Auguries.720p.HMAX.WEB-DL.DD5.1.x264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Westworld.S04E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.349767062,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.349766308,
+                    "path": "Westworld.S04E01.WEB.x264-TORRENTGALAXY[TGx]/Westworld.S04E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-8,
+                    "path": "Westworld.S04E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Westworld.S04E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 4.038701672,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.038701672,
+                    "path": "Westworld.S04E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Westworld.S04E01.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 1.873338123,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.873338123,
+                    "path": "Westworld.S04E01.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Westworld.S04E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.549309682,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000045111,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046105,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.549218337,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Westworld.S04E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Westworld.S04E01.WEBRip.x264-ION10",
+            "size_total": 0.549309553,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000045111,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000046105,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Subs/3_Spanish.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.549218337,
+                    "path": "Westworld.S04E01.WEBRip.x264-ION10/Westworld.S04E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Westworld.S04E01.WEBRip.x264-XEN0N",
+            "size_total": 0.329511962,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000280975,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Screens/Westworld.S04E01.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000319791,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Screens/Westworld.S04E01.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00037521,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Screens/Westworld.S04E01.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000475205,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Screens/Westworld.S04E01.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.328059443,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Westworld.S04E01.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001338,
+                    "path": "Westworld.S04E01.WEBRip.x264-XEN0N/Westworld.S04E01.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Westworld.S04E01.XviD-AFG [IPT]",
+            "size_total": 0.488151152,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000199773,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000418476,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245118,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.4872867,
+                    "path": "Westworld.S04E01.XviD-AFG/Westworld.S04E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001085,
+                    "path": "Westworld.S04E01.XviD-AFG/Westworld.S04E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Westworld.S04E01.XviD-AFG",
+            "size_total": 0.488151152,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000199773,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000418476,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245118,
+                    "path": "Westworld.S04E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.4872867,
+                    "path": "Westworld.S04E01.XviD-AFG/Westworld.S04E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001085,
+                    "path": "Westworld.S04E01.XviD-AFG/Westworld.S04E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Westworld.S04E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.4872867,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4872867,
+                    "path": "Westworld.S04E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Westworld.S04E01.XviD-AFG[TGx]",
+            "size_total": 0.487288503,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4872867,
+                    "path": "Westworld.S04E01.XviD-AFG[TGx]/Westworld.S04E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001085,
+                    "path": "Westworld.S04E01.XviD-AFG[TGx]/Westworld.S04E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Westworld.S04E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "name": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile",
+            "size_total": 0.201514244,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000203287,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0003773,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245946,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Torrent Downloaded From www.scenetime.com.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.200686406,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Westworld.S04E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000122,
+                    "path": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile/Westworld.S04E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "www.scenetime.com   -    Westworld S04E01 XviD-AFG",
+            "size_total": 0.488151237,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000199773,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000418476,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000245118,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 8.5e-8,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Torrent Downloaded From www.scenetime.com.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4872867,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Westworld.S04E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001085,
+                    "path": "www.scenetime.com   -    Westworld S04E01 XviD-AFG/Westworld.S04E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2022, США, Фантастик [rutracker-6230",
+            "size_total": 0.69226496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.69226496,
+                    "path": "Westworld.S04.WEBRip.Rus.HDRezka/Westworld.S04E01.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Джонатан Нолан, Джонни Кэмпбелл, Ричард Дж. Льюис) [2022, США, Фантастик [rutracker-6230470]",
+            "size_total": 0.69226496,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.69226496,
+                    "path": "Westworld.S04.WEBRip.Rus.HDRezka/Westworld.S04E01.WEBRip.Rus.HDRezka.JuSSiKa.avi"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис) [2022, США, фантастика, драма, детектив, вестерн, WEB- [rutracker-6230483]",
+            "size_total": 3.671187791,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.671187791,
+                    "path": "Westworld.S04.WEBDL.1080p.Rus.Eng/Westworld.S04E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, Фантас [rutracker-6230891]",
+            "size_total": 0.85464799,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00004831,
+                    "path": "Westworld (Season 4) WEB-DLRip/Eng/Westworld.S04E01.WEB-DLRip.LostFilm.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.85459968,
+                    "path": "Westworld (Season 4) WEB-DLRip/Westworld.S04E01.WEB-DLRip.LostFilm.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, Фантас [rutracker-6231823]",
+            "size_total": 0.854652086,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00004831,
+                    "path": "Westworld (Season 4) AlexFilm WEB-DLRip/Eng/Westworld.S04E01.WEB-DLRip.AlexFilm.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.854603776,
+                    "path": "Westworld (Season 4) AlexFilm WEB-DLRip/Westworld.S04E01.WEB-DLRip.AlexFilm.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, фантас [rutracker-6230483]",
+            "size_total": 3.827716175,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.827716175,
+                    "path": "Westworld.S04.WEBDL.1080p.Rus.Eng/Westworld.S04E01.WEBDL.1080p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "西部世界.Westworld.S04",
+            "size_total": 1.207386735,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.207386695,
+                    "path": "西部世界.Westworld.S04/西部世界.Westworld.S04E01.The.Auguries.1080p.HD中英双字[66影视www.66Ys.Co].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 4e-8,
+                    "path": "西部世界.Westworld.S04/发布页 收藏不迷路.txt"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "西部世界.第四季.Westworld.Season.4.S04E01.1080p.H265-NEW字幕组.mp4",
+            "size_total": 0.975511241,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.975511241,
+                    "path": "西部世界.第四季.Westworld.Season.4.S04E01.1080p.H265-NEW字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 122,
+            "name": "multi-btih-2-3-x-Westworld.S04.WEBRip.Rus.HDRezka",
+            "btih": "07d7d9ff63c1affe745e353c2b8379f703d0b0a1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.69226496,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 169232,
+            "uuploaders": 72154
+        },
+        {
+            "id": 44,
+            "name": "Westworld.s04.WEBRip.XviD.Rus.RuDub.tv",
+            "btih": "89d2d474a246b97f721d1d79a502595da3350e73",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.706612906,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 147555,
+            "uuploaders": 64759
+        },
+        {
+            "id": 108,
+            "name": "Westworld.S04E01.XviD-AFG[eztv.re].avi",
+            "btih": "6f3d20e5496330f8b3d579092dae43626e979b35",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.4872867,
+            "creation": "2022-06-27T01:19:43.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 115132,
+            "uuploaders": 50013
+        },
+        {
+            "id": 63,
+            "name": "Westworld.S04E01.1080p.WEB.H264-CAKES[TGx]",
+            "btih": "1c6cf6394a1c5227e9a51ae0d472012bcbcc7033",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514665633,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 110536,
+            "uuploaders": 40851
+        },
+        {
+            "id": 129,
+            "name": "multi-btih-9-2-x-Westworld.S04E01.XviD-AFG [IPT]",
+            "btih": "245d62064ca6053786cf0768a41ee8326fbc85a9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.488151152,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 106849,
+            "uuploaders": 25679
+        },
+        {
+            "id": 83,
+            "name": "Westworld.S04E01.720p.x264-FENiX",
+            "btih": "33b186df1a9fc9080e226408c78f4924a8153fbe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.566079671,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 97409,
+            "uuploaders": 35680
+        },
+        {
+            "id": 118,
+            "name": "西部世界.Westworld.S04",
+            "btih": "a5ba9c7d500056bb41ec76a654a51b8657dfb1ae",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.207386735,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96806,
+            "uuploaders": 21191
+        },
+        {
+            "id": 75,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi [IPT]",
+            "btih": "8ae45afd0b9d27215f770cc161448bbd15811183",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537977978,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 96366,
+            "uuploaders": 37544
+        },
+        {
+            "id": 36,
+            "name": "Westworld.s04.HD1080p.WEBRip.Rus.RuDub.tv",
+            "btih": "5a3189541292bce8b68977ee02bcd35cdf861e2c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.225202454,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76735,
+            "uuploaders": 26066
+        },
+        {
+            "id": 126,
+            "name": "multi-btih-6-2-x-Westworld.S04E01.720p.WEB.h264-KOGi[rarbg]",
+            "btih": "732d7c8f5806dcd93843026f6e65ef6352c12d82",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537975499,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73657,
+            "uuploaders": 18184
+        },
+        {
+            "id": 124,
+            "name": "multi-btih-4-2-x-Westworld.S04E01.1080p.WEB.H264-CAKES[rarbg]",
+            "btih": "9ce98bd6a3286db31dca7a52eb1fc5e559cf97d7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514665044,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68989,
+            "uuploaders": 24582
+        },
+        {
+            "id": 74,
+            "name": "Westworld.S04E01.720p.rus.LostFilm.TV.mp4",
+            "btih": "7c144afabcb92b6b5fdd2847ba7f33de088b05b1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.781396899,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67401,
+            "uuploaders": 15349
+        },
+        {
+            "id": 127,
+            "name": "multi-btih-7-2-x-Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "btih": "435d3c7f20f7f72184468c0fab05ae52f2fcec2f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514856448,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39493,
+            "uuploaders": 7260
+        },
+        {
+            "id": 91,
+            "name": "Westworld.S04E01.rus.LostFilm.TV.avi",
+            "btih": "1dc13c64b80fadac24418ce25120842dbcdec206",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.845180928,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38406,
+            "uuploaders": 9277
+        },
+        {
+            "id": 121,
+            "name": "multi-btih-1-2-x-Westworld.S04.WEBDL.1080p.Rus.Eng",
+            "btih": "959ecda4d4fabcdbab551286abc7e5a87c1566d7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.671187791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34487,
+            "uuploaders": 9239
+        },
+        {
+            "id": 45,
+            "name": "Westworld.S04E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "22e565438c460007d4b5414202ee39006bb239ab",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.665677799,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33396,
+            "uuploaders": 9107
+        },
+        {
+            "id": 60,
+            "name": "westworld.s04e01.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "fdaede9f89aefc913be1269df4629b876163ad77",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514664287,
+            "creation": "2022-06-27T01:49:30.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31255,
+            "uuploaders": 7893
+        },
+        {
+            "id": 33,
+            "name": "Westworld.S04.400p.Ultradox",
+            "btih": "0f04562fb6f0845f99131a2937357b54ac58c1de",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.787255296,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26149,
+            "uuploaders": 6657
+        },
+        {
+            "id": 78,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[eztv.re].mkv",
+            "btih": "f8d93af2592f96c0626d9559e0532a914e077513",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537970614,
+            "creation": "2022-06-27T01:29:54.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24248,
+            "uuploaders": 3548
+        },
+        {
+            "id": 55,
+            "name": "Westworld.S04e01.1080p.WEB-DL.DUAL",
+            "btih": "80f6b2d1df27849c614de9e91350fd90d946a387",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.236798103,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23312,
+            "uuploaders": 4897
+        },
+        {
+            "id": 20,
+            "name": "Westworld. s04.2022. WEB-DLRip.AlexFilm",
+            "btih": "09036c28f0c2de20f48a53765830fffa78e0364a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.733530648,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23256,
+            "uuploaders": 3574
+        },
+        {
+            "id": 119,
+            "name": "西部世界.第四季.Westworld.Season.4.S04E01.1080p.H265-NEW字幕组.mp4",
+            "btih": "292edbf460a03d0e4d869fe0a9e1864b61fab49a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.975511241,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22817,
+            "uuploaders": 5438
+        },
+        {
+            "id": 35,
+            "name": "Westworld.S04.720p.Ultradox",
+            "btih": "9125151ced71c94b8e227544f1a803d75dffaf94",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.238222967,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22515,
+            "uuploaders": 3873
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Westworld(1)",
+            "btih": "3bcf0799ac16ab442fbd009cee37cad63ca2b3da",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 8.360284696,
+            "creation": "2022-06-28T19:23:28.000000000Z,uTorrent/1820,http://rutor.is/torrent/748340",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21996,
+            "uuploaders": 4178
+        },
+        {
+            "id": 17,
+            "name": "Westworld - Temporada 4 [WEB-DL 1080p][Cap.401][Dual DDP5.1 + Subs][www.atomoHD.ONE]",
+            "btih": "1fc28bd733d8e62083e5b3301beee5ac826255a4",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.520828163,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21832,
+            "uuploaders": 1533
+        },
+        {
+            "id": 31,
+            "name": "Westworld.S04.400p.ColdFilm",
+            "btih": "d1cc7976ba2109d603b920ed726ac12d1b7b1182",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.693659322,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21767,
+            "uuploaders": 3057
+        },
+        {
+            "id": 128,
+            "name": "multi-btih-8-2-x-Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[rarbg]",
+            "btih": "ef61ad64b001d689c57d7c6097df752dbb3b65ae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.538160857,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21663,
+            "uuploaders": 6252
+        },
+        {
+            "id": 95,
+            "name": "Westworld.S04E01.The.Auguries.1080p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "btih": "57789f2f7575a64834f8d555f10fac3939a5101e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514857037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21635,
+            "uuploaders": 2392
+        },
+        {
+            "id": 49,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "c2fa6ce29462104ab3006e9e64e99298c986cb95",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.488976153,
+            "creation": "2022-06-27T02:10:10.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20851,
+            "uuploaders": 5124
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.org ] Westworld.S04E01.FRENCH.WEBRip.x264-EXTREME.mkv",
+            "btih": "05d800671e1dce1b67d6da05759e5c06a505e792",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.557639777,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20344,
+            "uuploaders": 3070
+        },
+        {
+            "id": 90,
+            "name": "westworld.s04e01.multi.1080p.web.h264-sheeeit[eztv.re].mkv",
+            "btih": "e71d8fd60a05b2e9d33fccd37598324c039ff653",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.976127925,
+            "creation": "2022-06-28T12:57:08.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20168,
+            "uuploaders": 5114
+        },
+        {
+            "id": 103,
+            "name": "Westworld.S04E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "6f0d8ae000c9afc0fa40e3e53a8b6e38909cacfe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.549309682,
+            "creation": "2022-06-27T01:22:00.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19730,
+            "uuploaders": 3720
+        },
+        {
+            "id": 16,
+            "name": "Westworld - Temporada 4 [HDTV][Cap.401][Castellano][www.AtomoHD.ONE]",
+            "btih": "3e53e4a1f4fe6656dc1374c4c2fdbe7f166f50eb",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.640905946,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18978,
+            "uuploaders": 6346
+        },
+        {
+            "id": 125,
+            "name": "multi-btih-5-2-x-Westworld.S04E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9395a03fb6bb2bf0e4fbbe20b8a6a879661ad8e0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.38102507,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 18561,
+            "uuploaders": 2459
+        },
+        {
+            "id": 42,
+            "name": "Westworld.S04.WEBDL.720p.LostFilm",
+            "btih": "5d369360ac361c8456b485b0d2093a2af76f7800",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.694477457,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17367,
+            "uuploaders": 4478
+        },
+        {
+            "id": 24,
+            "name": "Westworld.Dove.Tutto.E.Concesso.S04e01.ITA.ENG.DLMux.XviD-Pir8",
+            "btih": "a6b52a037fb90767f29245a6a1bd9c53f3dda78b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.681330194,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17007,
+            "uuploaders": 2207
+        },
+        {
+            "id": 26,
+            "name": "Westworld.S01E10.1080p.rus.LostFilm.TV.mkv",
+            "btih": "9855ee4e6a19098352fc6e217f9721c17a0d3b78",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 5.450012795,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16981,
+            "uuploaders": 2124
+        },
+        {
+            "id": 123,
+            "name": "multi-btih-3-2-x-Westworld.S04E01.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "6d5637b8fdf5033d2b73a135658b37f84d7fd908",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514666873,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16804,
+            "uuploaders": 3464
+        },
+        {
+            "id": 117,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, фантас [rutracker-6230483]",
+            "btih": "449ccf69a84f471ee5b7e35a1b4d071612e5d902",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.827716175,
+            "creation": "2022-06-28T20:38:17.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6230483",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16403,
+            "uuploaders": 3549
+        },
+        {
+            "id": 105,
+            "name": "Westworld.S04E01.WEBRip.x264-XEN0N",
+            "btih": "3deafa2f57e77f49f8903643279247bf87a99a2c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.329511962,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16164,
+            "uuploaders": 6051
+        },
+        {
+            "id": 132,
+            "name": "multi-btih-12-2-x-[rutor.is]Westworld.S04.1080p.LakeFilms",
+            "btih": "08b71298a8061d518f7ea2d2575b28a4ef5c5469",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.767465108,
+            "creation": "2022-06-27T17:00:31.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/879318",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15777,
+            "uuploaders": 900
+        },
+        {
+            "id": 89,
+            "name": "Westworld.S04E01.MULTi.1080p.WEB.H264-SHEEEIT [IPT]",
+            "btih": "e62fb7b92c2bc29dea5ccc7e77bb2c5ac70b7f4f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.976136012,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15508,
+            "uuploaders": 3431
+        },
+        {
+            "id": 100,
+            "name": "Westworld.S04E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "a646574526f918d8db8bce4bc1be899b0a927316",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.349767062,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15371,
+            "uuploaders": 3056
+        },
+        {
+            "id": 134,
+            "name": "multi-btih-14-2-x-[rutor.is]Westworld.S04.WEB-DL.1080p.LF_rutor",
+            "btih": "5bfc8046de3dd4d483274f3a3f9fd04b4d5297b6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.671183131,
+            "creation": "2022-06-28T20:03:38.000000000Z,uTorrent/2040,http://rutor.is/torrent/879379",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14517,
+            "uuploaders": 1713
+        },
+        {
+            "id": 84,
+            "name": "Westworld.S04E01.720p.x265-T0PAZ",
+            "btih": "2d23d8f20c32af532030f9f2c15e56a94a108452",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.485179891,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13536,
+            "uuploaders": 3121
+        },
+        {
+            "id": 96,
+            "name": "Westworld.S04E01.The.Auguries.1080p",
+            "btih": "499e4a0d13a028feed220db6e81b4387274f846d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.521855809,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 13481,
+            "uuploaders": 2986
+        },
+        {
+            "id": 3,
+            "name": "[BD影视分享bd2020.com]Westworld.S04E01.HMAX.AAC5.1.HD1080P.中英双字.mp4",
+            "btih": "4d7a04bbd2ef2a902ea01785a63b2baa11034646",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.396027833,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13099,
+            "uuploaders": 2393
+        },
+        {
+            "id": 99,
+            "name": "Westworld.S04E01.The.Auguries.720p.HMAX.WEBRip.DD5.1.x264-NTb[TGx]",
+            "btih": "99a3ae41cab1341f011b1426981ced6827589b03",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.538161446,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12734,
+            "uuploaders": 1340
+        },
+        {
+            "id": 131,
+            "name": "multi-btih-11-2-x-[rutor.is]Westworld.S04.1080p.Kerob",
+            "btih": "dd5fcbdfb6cdee4fc5f6f91d371fd3199f113ceb",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.723324222,
+            "creation": "2022-06-27T09:56:37.000000000Z,Tixati v2.89,http://rutor.is/torrent/879277",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12333,
+            "uuploaders": 1085
+        },
+        {
+            "id": 64,
+            "name": "Westworld.S04E01.1080p.x265-ELiTE",
+            "btih": "2a3e9c7f4fdd87bb19ad17e4ca64d42a810b6912",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.687484095,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12257,
+            "uuploaders": 2112
+        },
+        {
+            "id": 25,
+            "name": "Westworld.S01.PL.720p.HMAX.WEB-DL.h264.DD2.0-r4u",
+            "btih": "40586ab9e7b0d34a646bb0edb963f2c795c994c2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 16.893880543,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11951,
+            "uuploaders": 3389
+        },
+        {
+            "id": 133,
+            "name": "multi-btih-13-2-x-[rutor.is]Westworld.S04.400p.Kerob",
+            "btih": "008bf5b6df40de85d5a2b6cdb53b0f62f99345cf",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.763281854,
+            "creation": "2022-06-27T09:56:44.000000000Z,Tixati v2.89,http://rutor.is/torrent/879278",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11545,
+            "uuploaders": 1769
+        },
+        {
+            "id": 57,
+            "name": "westworld.s04e01.1080p.web.h264-cakes.chs.eng.mp4",
+            "btih": "ecd2d82c783b112c4a2b154b5f9f2ccf1cae6c91",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.033881302,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11399,
+            "uuploaders": 2173
+        },
+        {
+            "id": 73,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "5a5f2e831f6277179d5bcc40b96b2aa1789b15ab",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.369926575,
+            "creation": "2022-06-27T01:45:13.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11269,
+            "uuploaders": 1994
+        },
+        {
+            "id": 34,
+            "name": "Westworld.S04.720p.ColdFilm",
+            "btih": "32a3aef1e456368ce3e2a043525e28ea98c08f8c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.537875447,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11204,
+            "uuploaders": 1857
+        },
+        {
+            "id": 115,
+            "name": "Мир Дикого запада Westworld Сезон 4 Серии 1 из 8 (Ричард Дж. Льюис, Пол Кэмерон, Крэйг Уильям Макнейлл) [2022, США, Фантас [rutracker-6230891]",
+            "btih": "e623469bd093b145de11e4f103307ddb30a93c10",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.85464799,
+            "creation": "2022-06-29T15:50:24.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=6230891",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10640,
+            "uuploaders": 1625
+        },
+        {
+            "id": 120,
+            "name": "multi-btih-0-2-x-Westworld (Season 4) AlexFilm WEB-DLRip",
+            "btih": "fd433e139b6c881d98fc047867b002addf468775",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.854652086,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10632,
+            "uuploaders": 1217
+        },
+        {
+            "id": 104,
+            "name": "Westworld.S04E01.WEBRip.x264-ION10",
+            "btih": "10cc84baf294a1a8e43c8dd6510be3abb4e9c369",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.549309553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10626,
+            "uuploaders": 1759
+        },
+        {
+            "id": 135,
+            "name": "multi-btih-15-2-x-[rutor.is]Westworld.S04.WEB-DLRip-AVC",
+            "btih": "adb7ed8389d5e8c47791c7e8309fb5a2ce3b7707",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.0466077,
+            "creation": "2022-06-29T09:34:14.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/879476",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10398,
+            "uuploaders": 561
+        },
+        {
+            "id": 109,
+            "name": "Westworld.S04E01.XviD-AFG[TGx]",
+            "btih": "7ca23097a7d2919dac6ad01fd078be85381b288b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.487288503,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10066,
+            "uuploaders": 1631
+        },
+        {
+            "id": 92,
+            "name": "Westworld.S04E01.The.Auguries.1080.WEBRip.x265-DiN",
+            "btih": "55d5ceef367536a229d78b408ec446b76795a450",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.397941693,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9905,
+            "uuploaders": 136
+        },
+        {
+            "id": 101,
+            "name": "Westworld.S04E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "aec0fc78238129a659acc62c42fd7f3b49b33bfc",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.038701672,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9210,
+            "uuploaders": 2240
+        },
+        {
+            "id": 30,
+            "name": "Westworld.S04.1080p.Ultradox",
+            "btih": "cfbbc668963d52024fbc5ca1d7a54f34bcb16987",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.930687342,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8952,
+            "uuploaders": 1744
+        },
+        {
+            "id": 111,
+            "name": "www.scenetime.com   -    Westworld S04E01 XviD-AFG",
+            "btih": "1f071daa4c5135df51fe63b494651867bf6b79b6",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.488151237,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8635,
+            "uuploaders": 1671
+        },
+        {
+            "id": 88,
+            "name": "Westworld.S04E01.I.presagi.ITA.ENG.1080p.HMAX.WEB-DLMux.DD5.1.x264-MeM.GP.mkv",
+            "btih": "c99a92edee425eaecaaf8c70d13e119b49607be7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.6586066,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8569,
+            "uuploaders": 871
+        },
+        {
+            "id": 102,
+            "name": "Westworld.S04E01.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "62564a525d225e01dc443846cf967c2d30256f99",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.873338123,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8033,
+            "uuploaders": 1000
+        },
+        {
+            "id": 77,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi",
+            "btih": "ee427df3cdbd50639a8132b2f920502b633feeb4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537970614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7930,
+            "uuploaders": 1202
+        },
+        {
+            "id": 53,
+            "name": "Westworld.S04E01.1080p.HMAX.WEBRip.DD5.1.x264-NTb",
+            "btih": "1878cf5de4a67ba3b97b2f2c37776643be28fb37",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514856319,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7780,
+            "uuploaders": 1168
+        },
+        {
+            "id": 13,
+            "name": "Westworld (2016) S04E01 (1080p HMAX WEB-DL x265 HEVC 10bit DD 5.1 Vyndros)",
+            "btih": "bcd1a1d297f68c37571fec17a5a5a87823570efb",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.408404549,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7747,
+            "uuploaders": 1406
+        },
+        {
+            "id": 50,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "8ffc6144ad0e4004638e197bb9892a7b01eb1607",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.488978002,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7588,
+            "uuploaders": 865
+        },
+        {
+            "id": 21,
+            "name": "Westworld.(Season 04).LostFilm",
+            "btih": "18f8aec8da22e8adca8ad058841d05c1132da3cc",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.845180928,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7151,
+            "uuploaders": 692
+        },
+        {
+            "id": 68,
+            "name": "Westworld.S04E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "3e979a0f3646e3583c877dbcf6a6ffceba229c2b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.293837932,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7144,
+            "uuploaders": 760
+        },
+        {
+            "id": 110,
+            "name": "www.scenetime.com   -    Westworld S04E01 AAC MP4-Mobile",
+            "btih": "d76e205cee1bd92e09dc28f19b0dfd262ae97b74",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.201514244,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7082,
+            "uuploaders": 222
+        },
+        {
+            "id": 19,
+            "name": "Westworld S04E01 2022 WEB-DL 1080p DUAL 2.0",
+            "btih": "17ed4fad8b5fe56b6e6a4772d62a64ddcb3659e8",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.644558417,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7020,
+            "uuploaders": 293
+        },
+        {
+            "id": 46,
+            "name": "Westworld.S04E01.1080p.ColdFilm.mkv",
+            "btih": "7d22a266afd9a46462a78ff51e6d8b1dab6f9b10",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.155028246,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6936,
+            "uuploaders": 1090
+        },
+        {
+            "id": 69,
+            "name": "Westworld.S04E01.720p.ColdFilm.mkv",
+            "btih": "925a9dc5e930529c332c4980fcfaee283d216086",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.325929192,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6924,
+            "uuploaders": 760
+        },
+        {
+            "id": 130,
+            "name": "multi-btih-10-2-x-[rutor.is]Westworld",
+            "btih": "43a5f492ac9b755b4615932e6d4d888605adbfec",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.697257463,
+            "creation": "2022-06-28T04:52:22.000000000Z,BitTorrent/7100,http://rutor.is/torrent/879379",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6627,
+            "uuploaders": 389
+        },
+        {
+            "id": 58,
+            "name": "westworld.s04e01.1080p.web.h264-cakes.mkv",
+            "btih": "98c331ccf203683428b12251dd8ce6ef6d5fc4ae",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.514664287,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6617,
+            "uuploaders": 248
+        },
+        {
+            "id": 86,
+            "name": "Westworld.S04E01.HDTV.SubtituladoEsp.SC.mp4",
+            "btih": "4307492da2e5f74653ea6e2f810a0330866bf1a3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.589987508,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6597,
+            "uuploaders": 1853
+        },
+        {
+            "id": 52,
+            "name": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.X264.AC3.ytcodecs",
+            "btih": "38bd0d89e10123297744c3f67bb946e8fd69b82a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.078768563,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6395,
+            "uuploaders": 1945
+        },
+        {
+            "id": 85,
+            "name": "Westworld.S04E01.AAC.MP4-Mobile [IPT]",
+            "btih": "24c556bf3fc6fc234321b16cc5c5ee815703a214",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.201514159,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5949,
+            "uuploaders": 490
+        },
+        {
+            "id": 51,
+            "name": "Westworld.S04E01.1080p.HMAX.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs",
+            "btih": "f0b465a2ec81a9da77ecdce304de2984b83be919",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.652327973,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5812,
+            "uuploaders": 322
+        },
+        {
+            "id": 65,
+            "name": "Westworld.S04E01.400p.ColdFilm.avi",
+            "btih": "1601db41d90249115bbfcd1b70bdb8f0de9551d5",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.636514272,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5796,
+            "uuploaders": 474
+        },
+        {
+            "id": 82,
+            "name": "Westworld.S04E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "744b75d3c276aecea0b8b3331289e78c4f90081b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.258843067,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5760,
+            "uuploaders": 222
+        },
+        {
+            "id": 66,
+            "name": "Westworld.S04E01.480p.x264-mSD [IPT]",
+            "btih": "039ac065036cee8b8634d3ee7e9cfdac23119ed2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.289902057,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5644,
+            "uuploaders": 1118
+        },
+        {
+            "id": 81,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi[TGx]",
+            "btih": "ad38fde9f44a8d53776cfc0404967c9ca4961f44",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537976088,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5507,
+            "uuploaders": 446
+        },
+        {
+            "id": 27,
+            "name": "Westworld.S03E04.1080p.BluRay.60FPS.Dubbed.HEVC.HDR.AC3.ytcodecs",
+            "btih": "e3db06464b92df523ed0a61fd07dd2807dd91762",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.496936431,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5466,
+            "uuploaders": 693
+        },
+        {
+            "id": 15,
+            "name": "Westworld - Temporada 4 [HDTV 720p][Cap.401][AC3 5.1 Castellano][www.AtomoHD.ONE]",
+            "btih": "cf810053df906ec6cd79c24a5f0a0c6a68db356c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.623810342,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5191,
+            "uuploaders": 97
+        },
+        {
+            "id": 22,
+            "name": "Westworld.4x01.lati.mp4",
+            "btih": "ad245d742a0f7d491c94ef2ade8e715faaee78de",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.492345946,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5142,
+            "uuploaders": 628
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Westworld.S04.SD.LakeFilms",
+            "btih": "d9f8c450e4d55974c4e1077bb3f06e7627d4a9f1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.49269898,
+            "creation": "2022-06-27T17:02:54.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/879320",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4982,
+            "uuploaders": 306
+        },
+        {
+            "id": 18,
+            "name": "Westworld 4X1 HDTV XviD Castellano",
+            "btih": "7caf024cfa059cc80df080c543d6368dc0138d52",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.640906374,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4958,
+            "uuploaders": 120
+        },
+        {
+            "id": 23,
+            "name": "Westworld.Dove.Tutto.E.Concesso.4x01.I.Presagi.ITA.ENG.1080p.DLMux.AAC.x265-Pir8.mkv",
+            "btih": "ff10bc75b08dde76832025861487f404ff1eeb8a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.072332661,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4948,
+            "uuploaders": 125
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Westworld.S04.720p.LakeFilms",
+            "btih": "e72059dd83128fb1363e49cc3ef0aaae437ba82c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.959346164,
+            "creation": "2022-06-27T17:02:13.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/879319",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4914,
+            "uuploaders": 297
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.org ] Westworld.S04E01.VOSTFR.WEBRip.x264-ION10.mkv",
+            "btih": "e09ea7045c8f464132eac2fe9d819213d3eea4d7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.547922504,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3575,
+            "uuploaders": 221
+        },
+        {
+            "id": 47,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "0043bd3b64abe29d1a69b1b6a607f9c308ef6cc3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.51181895,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3515,
+            "uuploaders": 629
+        },
+        {
+            "id": 71,
+            "name": "Westworld.S04E01.720p.HEVC.x265-MeGusta.mkv",
+            "btih": "11ecdde08d45448f65372f60b4be13e789420bd8",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.369926575,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2576,
+            "uuploaders": 1063
+        },
+        {
+            "id": 48,
+            "name": "Westworld.S04E01.1080p.HEVC.x265-MeGusta.mkv",
+            "btih": "e21268a903e458e307d33f845faa9c523234a81a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.488976153,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2448,
+            "uuploaders": 652
+        },
+        {
+            "id": 67,
+            "name": "Westworld.S04E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "25b34795d09436d21a73df54106df5f9d03d958c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.289178067,
+            "creation": "2022-06-27T01:24:27.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2445,
+            "uuploaders": 596
+        },
+        {
+            "id": 41,
+            "name": "Westworld.S04.WEBDL.720p.AlexFilm",
+            "btih": "6daf7b1c6299b576e00eb47632a85f8de8cc8336",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.694486711,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 519,
+            "uuploaders": 295
+        },
+        {
+            "id": 54,
+            "name": "Westworld.S04E01.1080p.rus.LostFilm.TV.mkv",
+            "btih": "33c6f1b70b5d80cbad1ba1fe6cab543e33ea2abd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.181942414,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 121,
+            "uuploaders": 86
+        },
+        {
+            "id": 87,
+            "name": "Westworld.S04E01.I.Presagi.HMAX.WEBMux.ITA.ENG.x264-BlackBit.mkv",
+            "btih": "6450b17dc9b2c73bbeaca884df76363a06b5f09c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.484267213,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38,
+            "uuploaders": 27
+        },
+        {
+            "id": 76,
+            "name": "Westworld.S04E01.720p.WEB.h264-KOGi.mkv",
+            "btih": "fcecc7bcc9ae498351740ce1d6298df236dcfa79",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.537970614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4,
+            "uuploaders": 2
+        }
+    ]
+}
