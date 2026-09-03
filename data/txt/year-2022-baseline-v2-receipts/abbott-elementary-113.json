@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14218830",
+    "imdb_id": "tt14218830",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q107072019",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abbott_Elementary"
+  },
+  "coverage_sha256": "d6bacb7b2ca214b2906befd3b23b5b987951e6d4a3c99369be4d17fe3ab81982",
+  "generated_at": "2026-09-03T00:23:25.611412+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/abbott-elementary-113.cache/cache.20220621.tar.xz",
+      "sha256": "316f78e304fea9ad7ec6632775d199da9d82bf45de8de48499017a54b81ae02f",
+      "size": 69227492
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/abbott-elementary-113.md",
+      "sha256": "78eba94cd8d5d606b86e2263936a1fb0fa8f2382fc415b383a5a8d6aa8378d7f",
+      "size": 575
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/abbott-elementary-113.json",
+      "sha256": "c62771923888c91e42117c17758b98b880c61eddc967dcf3d7a0ff33005a4747",
+      "size": 2462
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/abbott-elementary-113.json",
+      "sha256": "f620d7c96e5a55350fed5e1cc43f88d4e2dfd34ec34b36696f1a0fedefde05f1",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "abbott-elementary-113",
+  "published_files": {
+    "data/csv/bytes/abbott-elementary-113-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "7d9fe58a1a19b91dacdfeaf04b360f10338c3ec77d39aa20223bb3e0cf698b56",
+    "docs/itemized/abbott-elementary-113-sample-cache-audit.md": "5246b1a781fa258f427c78567bd37d0ffde40144cc3f2c3dfc1313e3602794d7",
+    "docs/itemized/figures/abbott-elementary-113-carto-4k.webp": "7f19de8468e154d5a9fd16cc15091fbb4f11341fb4941c6a69e22b07a79ea681",
+    "docs/itemized/figures/abbott-elementary-113-carto.png": "b4d80385b2e39f481af099d9d4b7588ec1e4ac319987aebc5fc2b4d5d142a61c",
+    "docs/itemized/figures/abbott-elementary-113-cumulative-detail-btiha-itemized-by-bytes.svg": "9cfcd3e4146ad0eb6fcf913db664498421a9832a18058c9a9154d79a0f27faf5",
+    "docs/itemized/figures/abbott-elementary-113-data-ge-1080p-4k.webp": "4b43eb6d1c912c7e252b9cfaba18f0ff346dacac57ee106b82c17cffe27f8913",
+    "docs/itemized/figures/abbott-elementary-113-data-ge-1080p.webp": "6ddad3fee62f26720c70c783a0f539654d486374f62399b7a71329f66f61aa0d",
+    "docs/itemized/figures/abbott-elementary-113-data-lt-1080p-4k.webp": "16f5e09e2cad5604017fdc1bd5fa7f3ad5b34c53599d774ecc6b3a8f2b90eba2",
+    "docs/itemized/figures/abbott-elementary-113-data-lt-1080p.webp": "d7f48c91b731dac2316ef4c9a1fab5c7c473f34f014a9d69cd95fc557a446837",
+    "docs/itemized/figures/abbott-elementary-113-downloads-by-day-day.svg": "601c88b7ea395267bebe9e0daf752c710698a2c6e92d9a32991784b1c138a336",
+    "docs/itemized/figures/abbott-elementary-113-downloads-by-week-abbott-elementary-113-week.svg": "4ed986f12c72c7330020194556b7fbf2618e559c2308c1b29d14a7fb0c5e5aea",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/abbott-elementary-113/tmp/abbott-elementary-113-cumulative-btiha.geojson",
+        "sha256": "33bc777330376a3eafe80a20012e4183dab210b5254c2148df67a3187fd11fbf",
+        "size": 9632060
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/abbott-elementary-113/tmp/abbott-elementary-113-cumulative-btiha-media-objects.json",
+        "sha256": "d264658fd3a75f2703dfe5d2670ebed973242143c78bf1ba6ad82f8cc5642af7",
+        "size": 716752
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "abbott-elementary-113",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          33.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Lelystad",
+          "Toronto",
+          "Gaborone",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Nairobi",
+          "Lelystad",
+          "Amsterdam",
+          "Paris",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 14,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
