@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10872600",
+    "imdb_id": "tt10872600",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q68934496",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+  },
+  "coverage_sha256": "5cacf005382b6298e9dd9db866fb9b9fdb8980bd511ad2974cdef66edfd4705d",
+  "generated_at": "2026-09-03T03:28:28.173275+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/spider-man-no-way-home.cache/cache.20220908.tar.xz",
+      "sha256": "bfc47a2c96ad5075da9e7bcdcee800cfc646fb60a5f911be8d3d831e94b3ab8d",
+      "size": 11205993788
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/spider-man-no-way-home.md",
+      "sha256": "9339f871717135e01a266341f1c6d0483e1a67e3b9600c334af88f75d368e89f",
+      "size": 577
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/spider-man-no-way-home.json",
+      "sha256": "8dce0371735ab9bf41adef21fb29c354f666ec60725875dc6d2397ad24188eae",
+      "size": 3456
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/spider-man-no-way-home.json",
+      "sha256": "b59999a091c63fa99b847e0c94a32d711144573af2b9b6521ef496e4d0096d8c",
+      "size": 375
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "spider-man-no-way-home",
+  "published_files": {
+    "data/csv/bytes/spider-man-no-way-home-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "da3428d15db7b192500e836e3cfa5774112521555610fd7a293316a853ea8f80",
+    "docs/itemized/figures/spider-man-no-way-home-carto-4k.webp": "fdb1d35b0faae04a25f0111ebea2e9b9efbc2ed5ec797b0f68a96de512d29569",
+    "docs/itemized/figures/spider-man-no-way-home-carto.png": "595ad93068cf1489532ee6d492b7244d704777be6a507ffe6596d07c72d2456b",
+    "docs/itemized/figures/spider-man-no-way-home-cumulative-detail-btiha-itemized-by-bytes.svg": "19008805b0f3df41f0e4258857b99c6c7f549ae45b0d863fd54da248fc09d25f",
+    "docs/itemized/figures/spider-man-no-way-home-data-ge-1080p-4k.webp": "8ff32987d06ddec80cd5866bace86e0beace2b87a3aa6066c2bce46662a29ef7",
+    "docs/itemized/figures/spider-man-no-way-home-data-ge-1080p.webp": "5fef98cb1fcb8f227bcfda08bdbccfa8a1b1bff22e9e2e875cfbedf03d9351ae",
+    "docs/itemized/figures/spider-man-no-way-home-data-lt-1080p-4k.webp": "364544cd956d7128b4e20d3837453b343586ec423f84d8da1a71181d81fb1f30",
+    "docs/itemized/figures/spider-man-no-way-home-data-lt-1080p.webp": "079db46caee0d72bacfbe1ee2614bea57377cde34356d151008f5db3c7634a99",
+    "docs/itemized/figures/spider-man-no-way-home-downloads-by-day-day.svg": "f36c436e0e3ac24157dc75a676b1cd2aef135a634464743d4ae8f66619de8232",
+    "docs/itemized/figures/spider-man-no-way-home-downloads-by-week-spider-man-no-way-home-week.svg": "4717ec07ac71d5615642fc5599d783d1a09bac944476f0297bbad2e040864dce",
+    "docs/itemized/spider-man-no-way-home-sample-cache-audit.md": "65e4f4742d27b7b93563d77e9b293b4fde45dc42f7d13de6e5fbdfaebb1caace",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/spider-man-no-way-home/tmp/spider-man-no-way-home-cumulative-btiha.geojson",
+        "sha256": "ad5fc1f0c68917afe1709f0566c025f90650cc9df787eca5c12becf422b44292",
+        "size": 296335374
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/spider-man-no-way-home/tmp/spider-man-no-way-home-cumulative-btiha-media-objects.json",
+        "sha256": "a824f077fa9efdc93ada92d86a47e5aea60b0b9cde8e12a5aeed5dcaa5f3fdb4",
+        "size": 2488583
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "spider-man-no-way-home",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          36.0,
+          36.0,
+          33.0,
+          33.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Ashburn",
+          "Saint Petersburg",
+          "Mumbai",
+          "Shanghai",
+          "Johannesburg",
+          "Manila",
+          "Delhi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          36.0,
+          34.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Shanghai",
+          "Saint Petersburg",
+          "Ashburn",
+          "London",
+          "Shenzhen",
+          "Chennai",
+          "Mumbai",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 41,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
