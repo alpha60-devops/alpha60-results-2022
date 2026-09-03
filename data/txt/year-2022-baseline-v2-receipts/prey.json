@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11866324",
+    "imdb_id": "tt11866324",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q108329738",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prey_(2022_film)"
+  },
+  "coverage_sha256": "d8dd209dec15b864982cc3357d9c9acf2bc21a426f90ea0a5dc5dc9459b9cb5a",
+  "generated_at": "2026-09-03T02:52:40.556272+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/prey.cache/cache.20230202.tar.xz",
+      "sha256": "83b4e6ed284fffb8da37ee894450f365cfe2b8fccccadc4c0abf079f99e83fff",
+      "size": 6539025096
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/prey.md",
+      "sha256": "7c933fa15775efeb46442b2b7e277a071d831b5b4d710d3514a444fa225d7d61",
+      "size": 541
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/prey.json",
+      "sha256": "401fc473b71da5d099806f244753457f5c0637cdd09280572fa038719026475e",
+      "size": 3401
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/prey.json",
+      "sha256": "6996eef80b35a3a6e8e497067a211aa2aabd1881bab71f5f4294d94716acc705",
+      "size": 357
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "prey",
+  "published_files": {
+    "data/csv/bytes/prey-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "48a4e8fa18437a06a1d96b475aef2e62f9c85a1cdda312474798a2d8beb99887",
+    "docs/itemized/figures/prey-carto-4k.webp": "1fd6e12309f6e9c5257ce8a63239eac7d2ab820bded5c38975a57ec45f654ad0",
+    "docs/itemized/figures/prey-carto.png": "a1d85af30a4360be4c55b28794dbfd6d1d6d2e772601510c6e58fca4487835ec",
+    "docs/itemized/figures/prey-cumulative-detail-btiha-itemized-by-bytes.svg": "2c32e1eeebe38ac42e7e7e8525281618d99b42f65d91c816921a3f32fba22a1b",
+    "docs/itemized/figures/prey-data-ge-1080p-4k.webp": "4cb7f6e6d234809d58e8e6d1e9cfb1fa0fc3f903a622a141c7dbc2d426f23742",
+    "docs/itemized/figures/prey-data-ge-1080p.webp": "a1457dd633d59679d4e39c9910f5a7d6462b7f983d50560a492c314c0d9f5a40",
+    "docs/itemized/figures/prey-data-lt-1080p-4k.webp": "4fb1393dac01e28e0bdc4a3150c37da93237a886f4c86072116d5a2b35451cf7",
+    "docs/itemized/figures/prey-data-lt-1080p.webp": "5c4c6a3d3efd9141c7ffe41c86c4d0055193cc19eb7fd6e450d6532962a13deb",
+    "docs/itemized/figures/prey-downloads-by-day-day.svg": "8b953f3a848500d58bb920906d1d5cd4055aab19c3b936c210be1970e3e9411a",
+    "docs/itemized/figures/prey-downloads-by-week-prey-week.svg": "79eec65d51120e3b052652d0ed948c7f46f49e259ab01b754f614c9d7c1edcf6",
+    "docs/itemized/prey-sample-cache-audit.md": "490585ac0b8c23f2b58242df328580cfc99a085df5a6943e2cd28dfa58fb1cb7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/prey/tmp/prey-cumulative-btiha.geojson",
+        "sha256": "4a5e51f87c485cf78eded43bd4a784b84b66a31f738be1347ca3b5bcabc2d99a",
+        "size": 189741030
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/prey/tmp/prey-cumulative-btiha-media-objects.json",
+        "sha256": "5a048acf31694912757634b6ddc0b4dcc6d64d65812167a5baf506bc019493d2",
+        "size": 472204
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "prey",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          45.0,
+          37.0,
+          33.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Saint Petersburg",
+          "Frankfurt am Main",
+          "Johannesburg",
+          "Dublin",
+          "Amsterdam",
+          "Krasnodar",
+          "Boardman"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Quezon City",
+          "London",
+          "Johannesburg",
+          "Seoul",
+          "Krasnodar",
+          "Nizhniy Novgorod",
+          "Frankfurt am Main",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 61,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
