@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11564570",
+    "imdb_id": "tt11564570",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q84712797",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glass_Onion:_A_Knives_Out_Mystery"
+  },
+  "coverage_sha256": "554bed52267e30c6210ecde7f8db4f167cc35df01ae4b0f758296423ab6d69d7",
+  "generated_at": "2026-09-03T01:36:18.791158+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/glass-onion.cache/cache.20230413.tar.xz",
+      "sha256": "5695ebb75b28446ff628aaf29efd199c1a54e679b11f89501b4d4deeda980469",
+      "size": 2491378916
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/glass-onion.md",
+      "sha256": "ca213d50404dbd6997c06278d20abf130c607ab7f3ef7e249188ca595e00a7fc",
+      "size": 10137
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/glass-onion.json",
+      "sha256": "d9964d4ed4a3b1278d0f7d8ca86e735c0baa3bd9cdb08318f8ef36f4e2f3ff12",
+      "size": 2609
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/glass-onion.json",
+      "sha256": "50fbd63461f41df162bc7ab55af8e4cb8ca1f8c93109e039d7aa063a93e71260",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "glass-onion",
+  "published_files": {
+    "data/csv/bytes/glass-onion-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "ab65c6cb3b1809b890a041b2e531906240ba3edb746cd7c2bee6d46191329784",
+    "docs/itemized/figures/glass-onion-carto-4k.webp": "45ad0e5f6d75be1a654b0eec29aa7bbb57dfdb807403e04981477a195fb3ce72",
+    "docs/itemized/figures/glass-onion-carto.png": "b5beff30912e431b05c42b2432e9ffd69878a3102302cddedb1c68fa2f488b55",
+    "docs/itemized/figures/glass-onion-cumulative-detail-btiha-itemized-by-bytes.svg": "7247cf14e5a706cf070c2d5764674a4adf2077f308c4c526c2312a00d5516a0e",
+    "docs/itemized/figures/glass-onion-data-ge-1080p-4k.webp": "fc9ee084be3898f8d0c82e2bb0e6ec29a511e358419bef0d0eaf7f039345e5a1",
+    "docs/itemized/figures/glass-onion-data-ge-1080p.webp": "b72316d5c239f1297738dfbeaaac13a2d4234f4604e97e7070b7a7ce4e311d2e",
+    "docs/itemized/figures/glass-onion-data-lt-1080p-4k.webp": "74b19d405012584b6ea810b69982eb63a9bc0753b100e2d699b31b059aa889bd",
+    "docs/itemized/figures/glass-onion-data-lt-1080p.webp": "7d9a9142fe149847f2ddb9e411c40f45bbe03b2952fb2dcac7173e4602fa192b",
+    "docs/itemized/figures/glass-onion-downloads-by-day-day.svg": "cffdf3acdba9921d6b81169f8242dae069c1d6613cb212a5b9d1adc2cbf45a2f",
+    "docs/itemized/figures/glass-onion-downloads-by-week-glass-onion-week.svg": "c227aac14abf45424823d239f92eba5afa708efb6c19c0c77512d47c40cd62a9",
+    "docs/itemized/glass-onion-sample-cache-audit.md": "de1519510e19236a61daaf61ad61c673a900ea42e817144fd19949d7b44ee3d3",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/glass-onion/tmp/glass-onion-cumulative-btiha.geojson",
+        "sha256": "a34e8a8694380e6f3033ac09646e0f0ff18bf65c37b79fa26ad5f16b4bbc951c",
+        "size": 97029648
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/glass-onion/tmp/glass-onion-cumulative-btiha-media-objects.json",
+        "sha256": "999dcb4e6fb0959e52f2ffe4b1a185ea4e8a112644a87b4904671651cfe085d1",
+        "size": 464965
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "glass-onion",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          33.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Amsterdam",
+          "Kyiv",
+          "Mumbai",
+          "New York City",
+          "Shanghai",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Krasnodar",
+          "Kyiv",
+          "Amsterdam",
+          "Dnipro",
+          "Seoul",
+          "Nizhniy Novgorod",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 54,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 13,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
