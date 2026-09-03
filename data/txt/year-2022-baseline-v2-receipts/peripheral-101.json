@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8291284",
+    "imdb_id": "tt8291284",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q106742665",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Peripheral_(TV_series)"
+  },
+  "coverage_sha256": "7199406b0b5c342d6fec4a0d8b83031b0b35011c50c677b2bbd32adaf1890131",
+  "generated_at": "2026-09-03T02:30:30.894902+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/peripheral-101.cache/cache.20230216.tar.xz",
+      "sha256": "cf83309f1f0d93c194263696eddefa0dd828c662a5de12bf6380523bbb55a91c",
+      "size": 1312562572
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/peripheral-101.md",
+      "sha256": "9bf8eade5b575a7cf25da4abf592133ff9345813469926239279d1603cd4e720",
+      "size": 561
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/peripheral-101.json",
+      "sha256": "320f3b9f99a181c9ce92af03c7ebaaedd11e7998bd379fc2c6d13528a0787334",
+      "size": 2863
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/peripheral-101.json",
+      "sha256": "e8aed9879d1c7e905e8471d7025f0271d3db546694bbe6484fe22b453bafe67e",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "peripheral-101",
+  "published_files": {
+    "data/csv/bytes/peripheral-101-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "a432721720a262beaa6da87a2e36f0c0f9900392c3b655da95c054a8d6c7d609",
+    "docs/itemized/figures/peripheral-101-carto-4k.webp": "811b96dadb7b566dbf9e11fe170987fec797c76462da430644a7913bc6920bb3",
+    "docs/itemized/figures/peripheral-101-carto.png": "568fed406094f7948eff5ca61d5418da27fed0994a7803628792fe4d3e955a2c",
+    "docs/itemized/figures/peripheral-101-cumulative-detail-btiha-itemized-by-bytes.svg": "dbe713b9580a518db79242088697d7053761b7d72a560b8dd913bdcaa14d8bed",
+    "docs/itemized/figures/peripheral-101-data-ge-1080p-4k.webp": "9f8284d89b20493bf08581e99ea8f7d149724a231517da53081ba6c68860eede",
+    "docs/itemized/figures/peripheral-101-data-ge-1080p.webp": "bbd544500f739bf4151a48f3247de21379eec31713a747a57eb017f1f5ac5573",
+    "docs/itemized/figures/peripheral-101-data-lt-1080p-4k.webp": "5e427dc24bfc550c91f51cee8614ed352564e0e5ebe57e9b99f3003d43160e92",
+    "docs/itemized/figures/peripheral-101-data-lt-1080p.webp": "6424ef1336f1c3f2aa6e3d648fc13d64fabc1377c6df3e99df7718cab9d9207c",
+    "docs/itemized/figures/peripheral-101-downloads-by-day-day.svg": "d6f103fbdd26428d4945a23d4d2768b3b1dc34a744834b375ac3e3115c1e45e8",
+    "docs/itemized/figures/peripheral-101-downloads-by-week-peripheral-101-week.svg": "edb692c139977feb6c0761b7127eb3cf9c2bc7daab61d8b09bdc0f3a123274d6",
+    "docs/itemized/peripheral-101-sample-cache-audit.md": "c937d57c428e352ad7320b709854a1efd1fce03c5bd17525d2728ef45fc4e301",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/peripheral-101/tmp/peripheral-101-cumulative-btiha.geojson",
+        "sha256": "8567cae4004b25b4c63c540148c545fdd2754638a98ae6e64aff851c81734ce2",
+        "size": 83375253
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/peripheral-101/tmp/peripheral-101-cumulative-btiha-media-objects.json",
+        "sha256": "c371612f4573dd2e5f9b61fc249dde29cd99b7d31dfa913b0a77aee31cdc3bcf",
+        "size": 351931
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "peripheral-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          56.0,
+          53.0,
+          48.0,
+          42.0,
+          33.0,
+          30.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Shanghai",
+          "Johannesburg",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Shenzhen",
+          "Sydney",
+          "Madrid"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          62.0,
+          59.0,
+          54.0,
+          48.0,
+          33.0,
+          32.0,
+          30.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Shanghai",
+          "Moscow",
+          "London",
+          "Seoul",
+          "Amsterdam",
+          "Shenzhen",
+          "Beijing",
+          "Johannesburg",
+          "Nanjing",
+          "Saint Petersburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 17,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
