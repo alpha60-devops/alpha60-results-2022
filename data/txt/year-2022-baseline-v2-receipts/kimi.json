@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14128670",
+    "imdb_id": "tt14128670",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q106363032",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kimi_(film)"
+  },
+  "coverage_sha256": "cd6412c1982006e7fe25a93908dedcd9ce8ec164b23871330b2c27b1eb986409",
+  "generated_at": "2026-09-03T02:01:54.595857+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/kimi.cache/cache.20220602.tar.xz",
+      "sha256": "f940bce97bf072f0be610cbe98314a1be27769bc117fedd4a590d440f24e230a",
+      "size": 1082765168
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/kimi.md",
+      "sha256": "1daa7b5b4f701df744867ada439a8c4a95f38a610cef5c8c569ffbe5b038bd97",
+      "size": 788
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/kimi.json",
+      "sha256": "3ed3b6910cbfbfbe5660ee6e7e3d306105ad3a2ff3e5f5797bd12300affd925f",
+      "size": 2771
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/kimi.json",
+      "sha256": "539ba596f0f03f1d1bb1854d8fcfab08bca302c9facc51627b7f7d46e517838a",
+      "size": 357
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "3c21768f0fd5c08ea23c3504951b4ff999106adf8b264a140ee8681ba0b8fce5",
+      "size": 73325
+    }
+  },
+  "media_object": "kimi",
+  "published_files": {
+    "data/csv/bytes/kimi-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "6037785b109d50f71b3fc22fedac28d0688ce31b6223fc584aebbed24c33110f",
+    "docs/itemized/figures/kimi-carto-4k.webp": "27936868b12bdcaba2493888fd9bda99761823405686944469b4bf28aa48eaf9",
+    "docs/itemized/figures/kimi-carto.png": "72ec0ae7a77538a135692e60473dc9c65ec6c18292cbf4c0d3f37c5c9584de0b",
+    "docs/itemized/figures/kimi-cumulative-detail-btiha-itemized-by-bytes.svg": "b8490f608407036c239be00e27e3fb2aea24d87bba50dfc00986e8b96c9e036a",
+    "docs/itemized/figures/kimi-data-ge-1080p-4k.webp": "f31c8b7dd9d825d514220fd098aa0ccd190aec33199faa69f3f526d52b852fd9",
+    "docs/itemized/figures/kimi-data-ge-1080p.webp": "629e441774f75572ce57b796f6ba7aac70ae26f529908b903c1384edfb94be14",
+    "docs/itemized/figures/kimi-data-lt-1080p-4k.webp": "eac1bed15c292f36c75f2963316cdf60da1ff8106532dd3cbedba03f0e6c6893",
+    "docs/itemized/figures/kimi-data-lt-1080p.webp": "af257fd3c1678b9bcd2ec6c25eb9abe53744d0502b5e14dbf0387ce9a2eafbf9",
+    "docs/itemized/figures/kimi-downloads-by-day-day.svg": "5262b240b1c0677baf8bd05a2446b4fa6ce62462e37050fdaf6f1903c2a5719b",
+    "docs/itemized/figures/kimi-downloads-by-week-kimi-week.svg": "3122dc313582132b47135605824c7849892ce416b9bd15c2b8f98f11015c7c18",
+    "docs/itemized/kimi-sample-cache-audit.md": "e2af9e5ec76b0e3132e85afececc9ae255bd19463925580977d046df3819e1ab",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/kimi/tmp/kimi-cumulative-btiha.geojson",
+        "sha256": "6ef52eef59a2d802baf09eca7deeaa655300e0d35906c1d23876c16ad690f570",
+        "size": 53462100
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/kimi/tmp/kimi-cumulative-btiha-media-objects.json",
+        "sha256": "e1f221eadc54e4d815c921d5a70758622eb39a65c28d143fcb8bcabb7c4cc13b",
+        "size": 243238
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "kimi",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          35.0,
+          34.0,
+          34.0,
+          33.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Leipzig",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Johannesburg",
+          "Amsterdam",
+          "Novosibirsk",
+          "Lagos"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          80.0,
+          51.0,
+          41.0,
+          40.0,
+          34.0,
+          33.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Quezon City",
+          "Moscow",
+          "Johannesburg",
+          "London",
+          "Pretoria",
+          "Cape Town",
+          "Saint Petersburg",
+          "Ashburn",
+          "Seoul",
+          "Leipzig"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "a7b6735bba71f9d37b81793fe12bdd22a125bb87",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
