@@ -1,0 +1,177 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0386741",
+    "imdb_id": "tt0386741",
+    "revision": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
+    "wikidata_id": "Q1514402",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_(2006_film)"
+  },
+  "coverage_sha256": "97bb1bec5753d13c95751c86dead08b78770dca8f3052416935d078b983ae7a8",
+  "generated_at": "2026-09-03T08:19:06.582791+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/renaissance.cache/cache.20220831.tar.xz",
+      "sha256": "0ddb74ca4d112d2d3c11f1d2d420b9a903f7625595acb2fbff144b8fb0bb0aec",
+      "size": 48051200
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/renaissance.md",
+      "sha256": "fe606f2ff8ac2c7a68b08dafe438ab07c2b78fd4920eb0499a82fa27cfd5c15e",
+      "size": 555
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/renaissance.json",
+      "sha256": "606e2445d4c32a8da553903d3b93685f605537c70a935e0c3b3cc76203488782",
+      "size": 2432
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/renaissance.json",
+      "sha256": "080a587a87bf6fb803af4820dd3094d44f781cd6ae4c9dadaab517d26aa86628",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "74f4e82a32c8e3ac7c24a6bc2a1b2a6ffbaad3d57e53c3fcaf086e2409e2353e",
+      "size": 75716
+    }
+  },
+  "media_object": "renaissance",
+  "published_files": {
+    "data/csv/bytes/renaissance-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "57c7c6187416f579177a3117c4b15caef1ffbbaea223bb2efb04403f9ad8a9ca",
+    "docs/itemized/figures/renaissance-carto-4k.webp": "4e92b0e380aa43b01b153e81c4e29fe3567f5b696c226d14d0394ad4d237063a",
+    "docs/itemized/figures/renaissance-carto.png": "1b76bab84ea966a6cee7dc10837c4f9f2f83ce4de911eb3b7c594410136bf707",
+    "docs/itemized/figures/renaissance-cumulative-detail-btiha-itemized-by-bytes.svg": "d39d0cbc8a0ed5b00ed3eba30e8d25467a504ba485d5b0fba4d7c132e90f9c79",
+    "docs/itemized/figures/renaissance-data-lt-1080p-4k.webp": "a1baedb7050dfa091b6dcbd3ec70574d0adb0481d33c2d825d75c475266eeb40",
+    "docs/itemized/figures/renaissance-data-lt-1080p.webp": "7d2a2511996fdff6cfe5ba8535f7ffd3471cd3688917d6f57914914fb9d5186f",
+    "docs/itemized/figures/renaissance-downloads-by-day-day.svg": "33427450310ea2d6d272a812bd129e7efdbd6e9990bc727fa0aade7e3bce1a1c",
+    "docs/itemized/figures/renaissance-downloads-by-week-renaissance-week.svg": "4f9ebc1156389d228398aa92af618c056b7ea55db6bd49acb7915a830265c52b",
+    "docs/itemized/renaissance-sample-cache-audit.md": "9a4bc905d640ad638b880ea33ae6dfcca6523db93151b46821b4a1e3ac0c96ce",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8f86922b50cccafc307c45464bd28944589f7129",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/year-2022-repair-8f86922b5/a60-carto-geo.exe",
+      "sha256": "71c1d7a72f66ac4fc24f3cfa39bc99618b91356033d710d3e3c156061eb2f87c",
+      "size": 37111560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/renaissance/tmp/renaissance-cumulative-btiha.geojson",
+        "sha256": "ac57872448f46d813b52cf8daf74d55fc6f28e9b33f31d4c3f3e86f480389713",
+        "size": 4863627
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/renaissance/tmp/renaissance-cumulative-btiha-media-objects.json",
+        "sha256": "891fff5629b380c81050a8549d80dafe513ef59668df5cd7f1d1817058fb8df6",
+        "size": 108193
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "renaissance",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/year-2022-repair-8f86922b5/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "reason": "no collection members at 1080p or 2160 resolution",
+        "status": "skipped-empty-partition"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          43.0,
+          41.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "New York City",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Amsterdam",
+          "Lelystad",
+          "Accra",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 8,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "cc43c11988454ec298675491af25a3069706d31b",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}

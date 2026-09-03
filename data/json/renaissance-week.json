@@ -1,0 +1,3643 @@
+{
+    "collection_name": "RENAISSANCE",
+    "collection_id": "",
+    "collection_key": "renaissance",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2022-07-29-to-2022-10-06",
+    "sample_days": 70,
+    "sample_year_start": 2022,
+    "sample_year_end": 2022,
+    "sample_day_year_start": 210,
+    "sample_day_year_end": 279,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 15,
+    "udownloaders_total": 34542,
+    "uuploaders_total": 12896
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 16,
+    "udownloaders_total": 79069,
+    "uuploaders_total": 24078
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 19,
+    "udownloaders_total": 113001,
+    "uuploaders_total": 29945
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 19,
+    "udownloaders_total": 139185,
+    "uuploaders_total": 34152
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 19,
+    "udownloaders_total": 165405,
+    "uuploaders_total": 37698
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 19,
+    "udownloaders_total": 185366,
+    "uuploaders_total": 40294
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 19,
+    "udownloaders_total": 209239,
+    "uuploaders_total": 42604
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 19,
+    "udownloaders_total": 229484,
+    "uuploaders_total": 44795
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 19,
+    "udownloaders_total": 248548,
+    "uuploaders_total": 47460
+},
+        {
+    "number": "week-00010",
+    "btiha_size": 19,
+    "udownloaders_total": 267438,
+    "uuploaders_total": 49884
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23537,
+        "uuploaders": 10401
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4581,
+        "uuploaders": 1123
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1665,
+        "uuploaders": 373
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 887,
+        "uuploaders": 151
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 717,
+        "uuploaders": 47
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 641,
+        "uuploaders": 49
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 585,
+        "uuploaders": 158
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 517,
+        "uuploaders": 32
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 340,
+        "uuploaders": 117
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 281,
+        "uuploaders": 218
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 277,
+        "uuploaders": 206
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 218,
+        "uuploaders": 11
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 174,
+        "uuploaders": 6
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 89,
+        "uuploaders": 1
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33,
+        "uuploaders": 3
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32041,
+        "uuploaders": 13355
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10750,
+        "uuploaders": 4567
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7772,
+        "uuploaders": 1536
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 5230,
+        "uuploaders": 1112
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4248,
+        "uuploaders": 829
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3798,
+        "uuploaders": 55
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3667,
+        "uuploaders": 635
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3124,
+        "uuploaders": 403
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2672,
+        "uuploaders": 266
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1786,
+        "uuploaders": 121
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1341,
+        "uuploaders": 81
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1019,
+        "uuploaders": 208
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 454,
+        "uuploaders": 145
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 393,
+        "uuploaders": 211
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 388,
+        "uuploaders": 276
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 386,
+        "uuploaders": 278
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38220,
+        "uuploaders": 14760
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17154,
+        "uuploaders": 6361
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11391,
+        "uuploaders": 1811
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 8046,
+        "uuploaders": 1555
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7246,
+        "uuploaders": 1004
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6572,
+        "uuploaders": 1298
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4756,
+        "uuploaders": 67
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4415,
+        "uuploaders": 546
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4039,
+        "uuploaders": 418
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2289,
+        "uuploaders": 309
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2104,
+        "uuploaders": 172
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1727,
+        "uuploaders": 103
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1545,
+        "uuploaders": 104
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1196,
+        "uuploaders": 229
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 654,
+        "uuploaders": 392
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 585,
+        "uuploaders": 306
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 497,
+        "uuploaders": 355
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 417,
+        "uuploaders": 98
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 148,
+        "uuploaders": 57
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43081,
+        "uuploaders": 15673
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22086,
+        "uuploaders": 7542
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13682,
+        "uuploaders": 2000
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 9682,
+        "uuploaders": 1862
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9554,
+        "uuploaders": 1280
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8425,
+        "uuploaders": 1689
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5633,
+        "uuploaders": 675
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5328,
+        "uuploaders": 541
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5157,
+        "uuploaders": 83
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3665,
+        "uuploaders": 408
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2375,
+        "uuploaders": 224
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2227,
+        "uuploaders": 166
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1968,
+        "uuploaders": 118
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1600,
+        "uuploaders": 284
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1364,
+        "uuploaders": 99
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1115,
+        "uuploaders": 520
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 900,
+        "uuploaders": 184
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 751,
+        "uuploaders": 398
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 592,
+        "uuploaders": 406
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 47540,
+        "uuploaders": 16347
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26598,
+        "uuploaders": 8413
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16022,
+        "uuploaders": 2218
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 12046,
+        "uuploaders": 2181
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11874,
+        "uuploaders": 1549
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10815,
+        "uuploaders": 2033
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6590,
+        "uuploaders": 787
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6435,
+        "uuploaders": 643
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5659,
+        "uuploaders": 98
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4311,
+        "uuploaders": 483
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3098,
+        "uuploaders": 221
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2811,
+        "uuploaders": 261
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2671,
+        "uuploaders": 137
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2224,
+        "uuploaders": 317
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1996,
+        "uuploaders": 144
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1656,
+        "uuploaders": 646
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1309,
+        "uuploaders": 258
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1064,
+        "uuploaders": 501
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 686,
+        "uuploaders": 461
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 50756,
+        "uuploaders": 16733
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29907,
+        "uuploaders": 9006
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17338,
+        "uuploaders": 2371
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 13688,
+        "uuploaders": 2438
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13234,
+        "uuploaders": 1767
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12904,
+        "uuploaders": 2320
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7174,
+        "uuploaders": 886
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7085,
+        "uuploaders": 720
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6058,
+        "uuploaders": 117
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4936,
+        "uuploaders": 542
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4141,
+        "uuploaders": 258
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3519,
+        "uuploaders": 289
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3101,
+        "uuploaders": 143
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2937,
+        "uuploaders": 323
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2566,
+        "uuploaders": 366
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2195,
+        "uuploaders": 194
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1892,
+        "uuploaders": 736
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1186,
+        "uuploaders": 582
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 749,
+        "uuploaders": 503
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 54083,
+        "uuploaders": 17027
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33283,
+        "uuploaders": 9588
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19986,
+        "uuploaders": 2488
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15887,
+        "uuploaders": 1976
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 15620,
+        "uuploaders": 2635
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15066,
+        "uuploaders": 2616
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8551,
+        "uuploaders": 962
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8532,
+        "uuploaders": 786
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7076,
+        "uuploaders": 134
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5378,
+        "uuploaders": 602
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4487,
+        "uuploaders": 292
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3963,
+        "uuploaders": 315
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3738,
+        "uuploaders": 384
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3453,
+        "uuploaders": 152
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2843,
+        "uuploaders": 414
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2659,
+        "uuploaders": 238
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2502,
+        "uuploaders": 808
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1300,
+        "uuploaders": 639
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 832,
+        "uuploaders": 548
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 57352,
+        "uuploaders": 17329
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36553,
+        "uuploaders": 10106
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21175,
+        "uuploaders": 2605
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 17987,
+        "uuploaders": 2847
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17070,
+        "uuploaders": 2173
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16671,
+        "uuploaders": 2870
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9260,
+        "uuploaders": 853
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9241,
+        "uuploaders": 1028
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7605,
+        "uuploaders": 175
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7315,
+        "uuploaders": 647
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 5037,
+        "uuploaders": 330
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4299,
+        "uuploaders": 349
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4135,
+        "uuploaders": 438
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4123,
+        "uuploaders": 155
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3249,
+        "uuploaders": 441
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3079,
+        "uuploaders": 278
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2940,
+        "uuploaders": 895
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1482,
+        "uuploaders": 685
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 911,
+        "uuploaders": 591
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 60172,
+        "uuploaders": 17763
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 39340,
+        "uuploaders": 10661
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22182,
+        "uuploaders": 2756
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 21665,
+        "uuploaders": 3161
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18249,
+        "uuploaders": 3188
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18089,
+        "uuploaders": 2386
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10091,
+        "uuploaders": 928
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10017,
+        "uuploaders": 1118
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8583,
+        "uuploaders": 198
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7811,
+        "uuploaders": 713
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 5468,
+        "uuploaders": 366
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5021,
+        "uuploaders": 391
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4548,
+        "uuploaders": 163
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4501,
+        "uuploaders": 499
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3589,
+        "uuploaders": 489
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3404,
+        "uuploaders": 311
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3178,
+        "uuploaders": 984
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1650,
+        "uuploaders": 740
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 990,
+        "uuploaders": 645
+    }
+],
+        [
+    {
+        "id": 28,
+        "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+        "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.761737168,
+        "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 62581,
+        "uuploaders": 18087
+    },
+    {
+        "id": 9,
+        "name": "Beyonce - Renaissance",
+        "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151662433,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41741,
+        "uuploaders": 11201
+    },
+    {
+        "id": 26,
+        "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+        "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.428991438,
+        "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 24108,
+        "uuploaders": 3437
+    },
+    {
+        "id": 18,
+        "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+        "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.1498724,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23594,
+        "uuploaders": 2897
+    },
+    {
+        "id": 25,
+        "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+        "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.151879752,
+        "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19979,
+        "uuploaders": 3483
+    },
+    {
+        "id": 10,
+        "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+        "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.057720837,
+        "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19499,
+        "uuploaders": 2591
+    },
+    {
+        "id": 24,
+        "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+        "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.506051937,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10709,
+        "uuploaders": 1021
+    },
+    {
+        "id": 3,
+        "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+        "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.769131322,
+        "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10599,
+        "uuploaders": 1225
+    },
+    {
+        "id": 22,
+        "name": "Beyoncé - RENAISSANCE",
+        "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.765544091,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9400,
+        "uuploaders": 203
+    },
+    {
+        "id": 1,
+        "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+        "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.43767344,
+        "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8881,
+        "uuploaders": 768
+    },
+    {
+        "id": 15,
+        "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+        "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.432007276,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 6187,
+        "uuploaders": 401
+    },
+    {
+        "id": 7,
+        "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+        "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.76402643,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5614,
+        "uuploaders": 430
+    },
+    {
+        "id": 20,
+        "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+        "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.434862911,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5054,
+        "uuploaders": 548
+    },
+    {
+        "id": 14,
+        "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761634519,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4901,
+        "uuploaders": 171
+    },
+    {
+        "id": 17,
+        "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+        "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.761736407,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4384,
+        "uuploaders": 342
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+        "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.150575972,
+        "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3836,
+        "uuploaders": 533
+    },
+    {
+        "id": 29,
+        "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+        "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.758737906,
+        "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3512,
+        "uuploaders": 1066
+    },
+    {
+        "id": 13,
+        "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+        "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.431527614,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1761,
+        "uuploaders": 797
+    },
+    {
+        "id": 21,
+        "name": "Beyoncé - Renaissance (2022)",
+        "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.430934025,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1098,
+        "uuploaders": 683
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 525,
+        "uuploaders_total": 199
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 1280,
+        "uuploaders_total": 566
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 511,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 547,
+        "uuploaders_total": 134
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 687,
+        "uuploaders_total": 302
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 744,
+        "uuploaders_total": 184
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 122,
+        "uuploaders_total": 45
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 370,
+        "uuploaders_total": 146
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 12,
+        "udownloaders_total": 631,
+        "uuploaders_total": 157
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 168,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 1406,
+        "uuploaders_total": 584
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 2165,
+        "uuploaders_total": 287
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 12,
+        "udownloaders_total": 245,
+        "uuploaders_total": 97
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 174,
+        "uuploaders_total": 77
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 148,
+        "uuploaders_total": 37
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 7205,
+        "uuploaders_total": 2886
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 1192,
+        "uuploaders_total": 390
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 2461,
+        "uuploaders_total": 868
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 14,
+        "udownloaders_total": 1673,
+        "uuploaders_total": 228
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 1361,
+        "uuploaders_total": 268
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 1413,
+        "uuploaders_total": 540
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 1841,
+        "uuploaders_total": 348
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 12,
+        "udownloaders_total": 348,
+        "uuploaders_total": 97
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 14,
+        "udownloaders_total": 1002,
+        "uuploaders_total": 274
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 14,
+        "udownloaders_total": 2091,
+        "uuploaders_total": 270
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 12,
+        "udownloaders_total": 387,
+        "uuploaders_total": 108
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 2949,
+        "uuploaders_total": 1000
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 9022,
+        "uuploaders_total": 1277
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 659,
+        "uuploaders_total": 189
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 12,
+        "udownloaders_total": 361,
+        "uuploaders_total": 126
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 12,
+        "udownloaders_total": 596,
+        "uuploaders_total": 149
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 14605,
+        "uuploaders_total": 4766
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 1705,
+        "uuploaders_total": 482
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 3413,
+        "uuploaders_total": 1088
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 2697,
+        "uuploaders_total": 344
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 1956,
+        "uuploaders_total": 372
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 1856,
+        "uuploaders_total": 669
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 2737,
+        "uuploaders_total": 453
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 550,
+        "uuploaders_total": 145
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 1581,
+        "uuploaders_total": 344
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 3538,
+        "uuploaders_total": 329
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 555,
+        "uuploaders_total": 150
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 3919,
+        "uuploaders_total": 1158
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 15081,
+        "uuploaders_total": 1949
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 902,
+        "uuploaders_total": 233
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 512,
+        "uuploaders_total": 146
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 907,
+        "uuploaders_total": 204
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 20053,
+        "uuploaders_total": 5761
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 2116,
+        "uuploaders_total": 538
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 4067,
+        "uuploaders_total": 1247
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 18,
+        "udownloaders_total": 3359,
+        "uuploaders_total": 426
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 2379,
+        "uuploaders_total": 431
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 2193,
+        "uuploaders_total": 744
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 3445,
+        "uuploaders_total": 535
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 18,
+        "udownloaders_total": 697,
+        "uuploaders_total": 174
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 18,
+        "udownloaders_total": 2008,
+        "uuploaders_total": 376
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 18,
+        "udownloaders_total": 4498,
+        "uuploaders_total": 355
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 739,
+        "uuploaders_total": 181
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 4691,
+        "uuploaders_total": 1281
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 20367,
+        "uuploaders_total": 2479
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 1088,
+        "uuploaders_total": 254
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 672,
+        "uuploaders_total": 163
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 1184,
+        "uuploaders_total": 249
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 23647,
+        "uuploaders_total": 6355
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 2494,
+        "uuploaders_total": 601
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 4632,
+        "uuploaders_total": 1360
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 18,
+        "udownloaders_total": 4116,
+        "uuploaders_total": 503
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 2899,
+        "uuploaders_total": 501
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 2542,
+        "uuploaders_total": 834
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 4166,
+        "uuploaders_total": 603
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 18,
+        "udownloaders_total": 828,
+        "uuploaders_total": 184
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 18,
+        "udownloaders_total": 2375,
+        "uuploaders_total": 397
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 18,
+        "udownloaders_total": 5726,
+        "uuploaders_total": 378
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 17,
+        "udownloaders_total": 943,
+        "uuploaders_total": 210
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 5490,
+        "uuploaders_total": 1402
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 25858,
+        "uuploaders_total": 2995
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 1294,
+        "uuploaders_total": 271
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 17,
+        "udownloaders_total": 789,
+        "uuploaders_total": 182
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 17,
+        "udownloaders_total": 1451,
+        "uuploaders_total": 298
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 27307,
+        "uuploaders_total": 6870
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 2752,
+        "uuploaders_total": 650
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 5086,
+        "uuploaders_total": 1424
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 4784,
+        "uuploaders_total": 568
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 3283,
+        "uuploaders_total": 553
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 2781,
+        "uuploaders_total": 880
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 4790,
+        "uuploaders_total": 656
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 939,
+        "uuploaders_total": 199
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 2630,
+        "uuploaders_total": 418
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 6475,
+        "uuploaders_total": 395
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 17,
+        "udownloaders_total": 1036,
+        "uuploaders_total": 226
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 6044,
+        "uuploaders_total": 1482
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 30095,
+        "uuploaders_total": 3396
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 1463,
+        "uuploaders_total": 285
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 17,
+        "udownloaders_total": 857,
+        "uuploaders_total": 193
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 17,
+        "udownloaders_total": 1671,
+        "uuploaders_total": 348
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 30090,
+        "uuploaders_total": 7248
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 3200,
+        "uuploaders_total": 687
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 5651,
+        "uuploaders_total": 1493
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 18,
+        "udownloaders_total": 5678,
+        "uuploaders_total": 621
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 3660,
+        "uuploaders_total": 604
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 3134,
+        "uuploaders_total": 924
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 5441,
+        "uuploaders_total": 680
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 18,
+        "udownloaders_total": 1082,
+        "uuploaders_total": 205
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 18,
+        "udownloaders_total": 3107,
+        "uuploaders_total": 442
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 18,
+        "udownloaders_total": 8022,
+        "uuploaders_total": 413
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 17,
+        "udownloaders_total": 1151,
+        "uuploaders_total": 240
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 6786,
+        "uuploaders_total": 1536
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 35458,
+        "uuploaders_total": 3738
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 1719,
+        "uuploaders_total": 304
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 17,
+        "udownloaders_total": 977,
+        "uuploaders_total": 206
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 17,
+        "udownloaders_total": 1953,
+        "uuploaders_total": 396
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 33121,
+        "uuploaders_total": 7582
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 3657,
+        "uuploaders_total": 724
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 6110,
+        "uuploaders_total": 1540
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 18,
+        "udownloaders_total": 6544,
+        "uuploaders_total": 666
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 3991,
+        "uuploaders_total": 646
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 3496,
+        "uuploaders_total": 964
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 6011,
+        "uuploaders_total": 704
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 18,
+        "udownloaders_total": 1211,
+        "uuploaders_total": 209
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 18,
+        "udownloaders_total": 3438,
+        "uuploaders_total": 460
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 18,
+        "udownloaders_total": 9308,
+        "uuploaders_total": 426
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 17,
+        "udownloaders_total": 1301,
+        "uuploaders_total": 255
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 7360,
+        "uuploaders_total": 1581
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 39518,
+        "uuploaders_total": 4080
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 1891,
+        "uuploaders_total": 323
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 17,
+        "udownloaders_total": 1106,
+        "uuploaders_total": 213
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 17,
+        "udownloaders_total": 2219,
+        "uuploaders_total": 447
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 35916,
+        "uuploaders_total": 7914
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 4253,
+        "uuploaders_total": 771
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 6524,
+        "uuploaders_total": 1618
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 7222,
+        "uuploaders_total": 709
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 4342,
+        "uuploaders_total": 714
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 3815,
+        "uuploaders_total": 1030
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 6517,
+        "uuploaders_total": 751
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 18,
+        "udownloaders_total": 1334,
+        "uuploaders_total": 214
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 18,
+        "udownloaders_total": 3736,
+        "uuploaders_total": 481
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 18,
+        "udownloaders_total": 10412,
+        "uuploaders_total": 437
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 17,
+        "udownloaders_total": 1478,
+        "uuploaders_total": 272
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 7970,
+        "uuploaders_total": 1630
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 43183,
+        "uuploaders_total": 4532
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 2050,
+        "uuploaders_total": 333
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 17,
+        "udownloaders_total": 1318,
+        "uuploaders_total": 218
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 17,
+        "udownloaders_total": 2445,
+        "uuploaders_total": 485
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 38365,
+        "uuploaders_total": 8244
+    }
+],
+        [
+    {
+        "number": "BRA_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 4625,
+        "uuploaders_total": 823
+    },
+    {
+        "number": "CAN_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 6964,
+        "uuploaders_total": 1680
+    },
+    {
+        "number": "CHN_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 8036,
+        "uuploaders_total": 758
+    },
+    {
+        "number": "DEU_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 4649,
+        "uuploaders_total": 754
+    },
+    {
+        "number": "ESP_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 4079,
+        "uuploaders_total": 1094
+    },
+    {
+        "number": "FRA_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 7082,
+        "uuploaders_total": 800
+    },
+    {
+        "number": "HKG_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 1441,
+        "uuploaders_total": 218
+    },
+    {
+        "number": "JPN_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 4087,
+        "uuploaders_total": 499
+    },
+    {
+        "number": "KOR_week_10",
+        "btiha_size": 18,
+        "udownloaders_total": 11842,
+        "uuploaders_total": 456
+    },
+    {
+        "number": "MEX_week_10",
+        "btiha_size": 17,
+        "udownloaders_total": 1567,
+        "uuploaders_total": 280
+    },
+    {
+        "number": "NLD_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 8510,
+        "uuploaders_total": 1684
+    },
+    {
+        "number": "RUS_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 47046,
+        "uuploaders_total": 4934
+    },
+    {
+        "number": "SWE_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 2202,
+        "uuploaders_total": 338
+    },
+    {
+        "number": "TUR_week_10",
+        "btiha_size": 17,
+        "udownloaders_total": 1399,
+        "uuploaders_total": 225
+    },
+    {
+        "number": "UKR_week_10",
+        "btiha_size": 17,
+        "udownloaders_total": 2633,
+        "uuploaders_total": 510
+    },
+    {
+        "number": "USA_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 41071,
+        "uuploaders_total": 8627
+    }
+]
+    ]
+}

@@ -1,0 +1,2678 @@
+{
+    "collection_name": "RENAISSANCE",
+    "collection_id": "",
+    "collection_key": "renaissance",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+            "duplicate_0_0": "(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+            "duplicate_0_1": "Beyonce - Renaissance - 2022"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+            "duplicate_1_0": "Beyonce - RENAISSANCE (2022) - WEB FLAC",
+            "duplicate_1_1": "Beyoncé.RENAISSANCE.(WEB-FLAC-Lossless)-1897077"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+            "duplicate_2_0": "Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+            "duplicate_2_1": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+            "duplicate_3_0": "Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+            "duplicate_3_1": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+            "duplicate_4_0": "[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+            "duplicate_4_1": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+            "size_total": 0.43767344,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.021896453,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.025771669,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.026698101,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.028799688,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.011832011,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.033605661,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026589002,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028857846,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.047800774,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.023672481,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02966229,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.025598582,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018963808,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023526654,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.0322677,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/15. PURE／HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.030754929,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/cover.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000234033,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/folder.jpg"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000222766,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 01.jpg"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000208241,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 02.jpeg"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000097247,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 03.jpeg"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000027479,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 04.jpeg"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000034861,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 05.jpeg"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000129128,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 06.jpeg"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000077505,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 07.jpeg"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000040555,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 08.jpeg"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000047305,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 09.jpeg"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000130809,
+                    "path": "Beyonce - 2022 - Renaissance (FLAC)/posters/poster 10.jpeg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+            "size_total": 0.151879752,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000217319,
+                    "path": "Beyonce - Renaissance - 2022/cover.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004795393,
+                    "path": "Beyonce - Renaissance - 2022/05 - Energy.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00691529,
+                    "path": "Beyonce - Renaissance - 2022/13 - All Up In Your Mind.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00807931,
+                    "path": "Beyonce - Renaissance - 2022/14 - America Has A Problem.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.008261661,
+                    "path": "Beyonce - Renaissance - 2022/10 - Move.mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.008443963,
+                    "path": "Beyonce - Renaissance - 2022/01 - I'm That Girl.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.008544933,
+                    "path": "Beyonce - Renaissance - 2022/02 - Cozy.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.008741763,
+                    "path": "Beyonce - Renaissance - 2022/03 - Alien Superstar.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.009102245,
+                    "path": "Beyonce - Renaissance - 2022/07 - Church Girl.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.009138808,
+                    "path": "Beyonce - Renaissance - 2022/04 - Cuff It.mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.009914121,
+                    "path": "Beyonce - Renaissance - 2022/12 - Thique.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.010295536,
+                    "path": "Beyonce - Renaissance - 2022/08 - Plastic Off The Sofa.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.010559722,
+                    "path": "Beyonce - Renaissance - 2022/11 - Heated.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.011082341,
+                    "path": "Beyonce - Renaissance - 2022/16 - Summer Renaissance.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011261286,
+                    "path": "Beyonce - Renaissance - 2022/06 - Break My Soul.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.011652839,
+                    "path": "Beyonce - Renaissance - 2022/15 - Pure-honey.mp3"
+                },
+                {
+                    "number": 17,
+                    "size": 0.014873222,
+                    "path": "Beyonce - Renaissance - 2022/09 - Virgo's Groove.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+            "size_total": 0.769131322,
+            "files_total": 35,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.040062795,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/01 I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000307381,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/307381"
+                },
+                {
+                    "number": 3,
+                    "size": 0.044342521,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/02 COZY.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000221959,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/221959"
+                },
+                {
+                    "number": 5,
+                    "size": 0.045618616,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/03 ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000518728,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/518728"
+                },
+                {
+                    "number": 7,
+                    "size": 0.048617137,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/04 CUFF IT.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000141647,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/141647"
+                },
+                {
+                    "number": 9,
+                    "size": 0.022048143,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/05 ENERGY.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000496241,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/496241"
+                },
+                {
+                    "number": 11,
+                    "size": 0.057802752,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/06 BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000393216,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/393216"
+                },
+                {
+                    "number": 13,
+                    "size": 0.046118247,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/07 CHURCH GIRL.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000019097,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/19097"
+                },
+                {
+                    "number": 15,
+                    "size": 0.051228505,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/08 PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000151719,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/151719"
+                },
+                {
+                    "number": 17,
+                    "size": 0.080067497,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/09 VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000148567,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/148567"
+                },
+                {
+                    "number": 19,
+                    "size": 0.041382898,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/10 MOVE.flac"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000035854,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/35854"
+                },
+                {
+                    "number": 21,
+                    "size": 0.052483088,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/11 HEATED.flac"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00047,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/470000"
+                },
+                {
+                    "number": 23,
+                    "size": 0.047002284,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/12 THIQUE.flac"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000183636,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/183636"
+                },
+                {
+                    "number": 25,
+                    "size": 0.034273496,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/13 ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000329512,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/329512"
+                },
+                {
+                    "number": 27,
+                    "size": 0.040971867,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/14 AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000446885,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/446885"
+                },
+                {
+                    "number": 29,
+                    "size": 0.057378844,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/15 PURE-HONEY.flac"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000292836,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/292836"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05462774,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/16 SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 32,
+                    "size": 0.0004225,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/422500"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000304868,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/Beyoncé - RENAISSANCE (Edited Version).jpg"
+                },
+                {
+                    "number": 34,
+                    "size": 0.00021942,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/.pad/219420"
+                },
+                {
+                    "number": 35,
+                    "size": 8.26e-7,
+                    "path": "Beyoncé - RENAISSANCE (Edited Version)/Lossless Audio Checker.log"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+            "size_total": 0.758737906,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.039735905,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044014624,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045363511,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048189463,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.021737142,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057467155,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.045820167,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05090488,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.07976921,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041058254,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05218884,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046688854,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.033534828,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040661006,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05713322,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/15. PURE／HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054344985,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/cover.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44",
+            "size_total": 0.758737906,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.039735905,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044014624,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045363511,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048189463,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.021737142,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057467155,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.045820167,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05090488,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.07976921,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041058254,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05218884,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046688854,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.033534828,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040661006,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05713322,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/15. PURE／HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054344985,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC 24-44/cover.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Beyonce - RENAISSANCE (2022) - WEB FLAC",
+            "size_total": 0.428991438,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.021445553,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.025439579,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.026352377,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.028293188,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.01145393,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.033130026,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026081647,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028450585,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.047199153,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.023094448,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.029239817,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02507151,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018568279,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023103228,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.031720548,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/15. PURE／HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.030221708,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/cover.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+            "size_total": 0.76402643,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.040062795,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044342521,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045618616,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048617137,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.022048143,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057802752,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.046118247,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.051228505,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.080067497,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041382898,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.052483088,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.047002284,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.034273496,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040971867,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.057378844,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/15. PURE-HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05462774,
+                    "path": "Beyonce - RENAISSANCE (Edited Version)2022/16. SUMMER RENAISSANCE.flac"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Beyonce - Renaissance - 2022",
+            "size_total": 0.151879752,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000217319,
+                    "path": "Beyonce - Renaissance - 2022/cover.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004795393,
+                    "path": "Beyonce - Renaissance - 2022/05 - Energy.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00691529,
+                    "path": "Beyonce - Renaissance - 2022/13 - All Up In Your Mind.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00807931,
+                    "path": "Beyonce - Renaissance - 2022/14 - America Has A Problem.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.008261661,
+                    "path": "Beyonce - Renaissance - 2022/10 - Move.mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.008443963,
+                    "path": "Beyonce - Renaissance - 2022/01 - I'm That Girl.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.008544933,
+                    "path": "Beyonce - Renaissance - 2022/02 - Cozy.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.008741763,
+                    "path": "Beyonce - Renaissance - 2022/03 - Alien Superstar.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.009102245,
+                    "path": "Beyonce - Renaissance - 2022/07 - Church Girl.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.009138808,
+                    "path": "Beyonce - Renaissance - 2022/04 - Cuff It.mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.009914121,
+                    "path": "Beyonce - Renaissance - 2022/12 - Thique.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.010295536,
+                    "path": "Beyonce - Renaissance - 2022/08 - Plastic Off The Sofa.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.010559722,
+                    "path": "Beyonce - Renaissance - 2022/11 - Heated.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.011082341,
+                    "path": "Beyonce - Renaissance - 2022/16 - Summer Renaissance.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011261286,
+                    "path": "Beyonce - Renaissance - 2022/06 - Break My Soul.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.011652839,
+                    "path": "Beyonce - Renaissance - 2022/15 - Pure-honey.mp3"
+                },
+                {
+                    "number": 17,
+                    "size": 0.014873222,
+                    "path": "Beyonce - Renaissance - 2022/09 - Virgo's Groove.mp3"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Beyonce - Renaissance",
+            "size_total": 0.151662433,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.004795393,
+                    "path": "Beyonce - Renaissance/05 - Energy.mp3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00691529,
+                    "path": "Beyonce - Renaissance/13 - All Up In Your Mind.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00807931,
+                    "path": "Beyonce - Renaissance/14 - America Has A Problem.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008261661,
+                    "path": "Beyonce - Renaissance/10 - Move.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.008443963,
+                    "path": "Beyonce - Renaissance/01 - I'm That Girl.mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.008544933,
+                    "path": "Beyonce - Renaissance/02 - Cozy.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.008741763,
+                    "path": "Beyonce - Renaissance/03 - Alien Superstar.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.009102245,
+                    "path": "Beyonce - Renaissance/07 - Church Girl.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.009138808,
+                    "path": "Beyonce - Renaissance/04 - Cuff It.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.009914121,
+                    "path": "Beyonce - Renaissance/12 - Thique.mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.010295536,
+                    "path": "Beyonce - Renaissance/08 - Plastic Off The Sofa.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.010559722,
+                    "path": "Beyonce - Renaissance/11 - Heated.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.011082341,
+                    "path": "Beyonce - Renaissance/16 - Summer Renaissance.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.011261286,
+                    "path": "Beyonce - Renaissance/06 - Break My Soul.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011652839,
+                    "path": "Beyonce - Renaissance/15 - Pure-honey.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.014873222,
+                    "path": "Beyonce - Renaissance/09 - Virgo's Groove.mp3"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+            "size_total": 0.057720837,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00004656,
+                    "path": "Beyoncé - BREAK MY SOUL (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/cover.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001158,
+                    "path": "Beyoncé - BREAK MY SOUL (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/INFO.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.057673119,
+                    "path": "Beyoncé - BREAK MY SOUL (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/01. BREAK MY SOUL.flac"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+            "size_total": 0.761737168,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.039890197,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044133388,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045494266,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048400332,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02184777,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057651947,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.046088981,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.051057312,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.080041783,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041354764,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.052368646,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046867773,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.033648548,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040823516,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.057366057,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/15. PURE-HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054574868,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/cover.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001158,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/INFO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+            "size_total": 0.150575972,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00837614,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/01. I'M THAT GIRL.mp3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008470163,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/02. COZY.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00867394,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/03. ALIEN SUPERSTAR.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.009070985,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/04. CUFF IT.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.004724207,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/05. ENERGY.mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.011185913,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/06. BREAK MY SOUL.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.009034422,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/07. CHURCH GIRL.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.010227713,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/08. PLASTIC OFF THE SOFA.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.014805399,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/09. VIRGO'S GROOVE.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.008190131,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/10. MOVE.mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.010485776,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/11. HEATED.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.009846298,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/12. THIQUE.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.006847467,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/13. ALL UP IN YOUR MIND.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.008011487,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/14. AMERICA HAS A PROBLEM.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011585016,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/15. PURE-HONEY.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.011014518,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/16. SUMMER RENAISSANCE.mp3"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000025239,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/cover (1).jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001158,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/INFO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+            "size_total": 0.431527614,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000025239,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-16bit-webflac-2022.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 5.78e-7,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-16bit-webflac-2022.m3u"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003197,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-16bit-webflac-2022.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 7.38e-7,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-16bit-webflac-2022.sfv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02156224,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/01-beyonce-im_that_girl-3b9c6a.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.025540646,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/02-beyonce-cozy-344aac.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026463026,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/03-beyonce-alien_superstar-5e74ec.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028486871,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/04-beyonce-cuff_it-2adcb8.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.011549818,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/05-beyonce-energy-9f1f77.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.033292076,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/06-beyonce_x_beyonce-break_my_soul-99ef9b.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.026335307,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/07-beyonce-church_girl-b5d5fc.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.028581245,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/08-beyonce-plastic_off_the_sofa-f5ddfe.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.04744535,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/09-beyonce-virgos_groove-150dbe.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023380233,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/10-beyonce-move-2dbc04.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.029388109,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/11-beyonce-heated-15df28.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.025228077,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/12-beyonce-thique-3b13e5.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.018662396,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/13-beyonce-all_up_in_your_mind-5ae8ad.flac"
+                },
+                {
+                    "number": 18,
+                    "size": 0.023251182,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/14-beyonce-america_has_a_problem-e369bc.flac"
+                },
+                {
+                    "number": 19,
+                    "size": 0.031917469,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/15-beyonce-purehoney-128800.flac"
+                },
+                {
+                    "number": 20,
+                    "size": 0.030413817,
+                    "path": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac/16-beyonce-summer_renaissance-a3f1b3.flac"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+            "size_total": 0.761634519,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000025239,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-24bit-webflac-2022.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 5.78e-7,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-24bit-webflac-2022.m3u"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003197,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-24bit-webflac-2022.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 7.38e-7,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/00-beyonce-renaissance-24bit-webflac-2022.sfv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.039889861,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/01-beyonce-im_that_girl-08abe4.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.044133052,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/02-beyonce-cozy-d001a7.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.04549393,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/03-beyonce-alien_superstar-33d66e.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.048399996,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/04-beyonce-cuff_it-ce03dd.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.021847434,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/05-beyonce-energy-76cdbe.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.057651599,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/06-beyonce_x_beyonce-break_my_soul-f119bb.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.046088645,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/07-beyonce-church_girl-a24aa5.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.051056976,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/08-beyonce-plastic_off_the_sofa-2f8e84.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.080041447,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/09-beyonce-virgos_groove-97aef4.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.041354429,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/10-beyonce-move-fedcc7.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.052368311,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/11-beyonce-heated-e0a745.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.046867438,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/12-beyonce-thique-739cf2.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.033648213,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/13-beyonce-all_up_in_your_mind-9ad9fd.flac"
+                },
+                {
+                    "number": 18,
+                    "size": 0.040823181,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/14-beyonce-america_has_a_problem-78ae50.flac"
+                },
+                {
+                    "number": 19,
+                    "size": 0.057365722,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/15-beyonce-purehoney-9c10fd.flac"
+                },
+                {
+                    "number": 20,
+                    "size": 0.054574533,
+                    "path": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac/16-beyonce-summer_renaissance-8f880a.flac"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+            "size_total": 0.432007276,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001120236,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/00-beyonce-renaissance-cd-flac-2022.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 4.57e-7,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/00-beyonce-renaissance-cd-flac-2022.m3u"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000005203,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/00-beyonce-renaissance-cd-flac-2022.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 6.17e-7,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/00-beyonce-renaissance-cd-flac-2022.sfv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.021669396,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/01-beyonce-im_that_girl.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.025468255,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/02-beyonce-cozy.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026404205,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/03-beyonce-alien_superstar.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028367309,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/04-beyonce-cuff_it.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.011620734,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/05-beyonce-energy.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.033231498,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/06-beyonce-break_my_soul.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02615144,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/07-beyonce-church_girl.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.028584184,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/08-beyonce-plastic_off_the_sofa.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.047266774,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/09-beyonce-virgos_groove.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023187563,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/10-beyonce-move.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.029402753,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/11-beyonce-heated.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.025178513,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/12-beyonce-thique.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.018685317,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/13-beyonce-all_up_in_your_mind.flac"
+                },
+                {
+                    "number": 18,
+                    "size": 0.023204288,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/14-beyonce-america_has_a_problem.flac"
+                },
+                {
+                    "number": 19,
+                    "size": 0.031925145,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/15-beyonce-pure-honey.flac"
+                },
+                {
+                    "number": 20,
+                    "size": 0.030533389,
+                    "path": "Beyonce-Renaissance-CD-FLAC-2022-MOD/16-beyonce-summer_renaissance.flac"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️",
+            "size_total": 0.761737168,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.039890197,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044133388,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045494266,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048400332,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02184777,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057651947,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.046088981,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.051057312,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.080041783,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041354764,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.052368646,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046867773,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.033648548,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040823516,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.057366057,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/15. PURE-HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054574868,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/cover.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001158,
+                    "path": "Beyoncé - RENAISSANCE (2022) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/INFO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+            "size_total": 0.761736407,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.080041783,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.044133388,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045494266,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048400332,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02184777,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.057651947,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.046088981,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.051057312,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.039890197,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041354764,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.052368646,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046867773,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.033648548,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040823516,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.057366057,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/15. PURE-HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054574868,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/Beyoncé - RENAISSANCE (2022) FLAC.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 3.97e-7,
+                    "path": "Beyoncé - RENAISSANCE (2022) FLAC/Beyoncé - RENAISSANCE (2022) FLAC.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+            "size_total": 0.1498724,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.008327944,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/01. I'M THAT GIRL.mp3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008421967,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/02. COZY.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.008625744,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/03. ALIEN SUPERSTAR.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.009022789,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/04. CUFF IT.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.004676037,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/05. ENERGY (feat. Beam).mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.011137674,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/06. BREAK MY SOUL.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.008986226,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/07. CHURCH GIRL.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.010179517,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/08. PLASTIC OFF THE SOFA.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.014757203,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/09. VIRGO'S GROOVE.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.00814199,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/10. MOVE (feat. Grace Jones & Tems).mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.010437581,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/11. HEATED.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.009798103,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/12. THIQUE.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.006799272,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/13. ALL UP IN YOUR MIND.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.007963292,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/14. AMERICA HAS A PROBLEM.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011536821,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/15. PURE_HONEY.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.010966323,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/16. SUMMER RENAISSANCE.mp3"
+                },
+                {
+                    "number": 17,
+                    "size": 7.15e-7,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000091052,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/cover.jpg"
+                },
+                {
+                    "number": 19,
+                    "size": 0.00000215,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]/INFO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️",
+            "size_total": 0.150575972,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00837614,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/01. I'M THAT GIRL.mp3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008470163,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/02. COZY.mp3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00867394,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/03. ALIEN SUPERSTAR.mp3"
+                },
+                {
+                    "number": 4,
+                    "size": 0.009070985,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/04. CUFF IT.mp3"
+                },
+                {
+                    "number": 5,
+                    "size": 0.004724207,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/05. ENERGY.mp3"
+                },
+                {
+                    "number": 6,
+                    "size": 0.011185913,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/06. BREAK MY SOUL.mp3"
+                },
+                {
+                    "number": 7,
+                    "size": 0.009034422,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/07. CHURCH GIRL.mp3"
+                },
+                {
+                    "number": 8,
+                    "size": 0.010227713,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/08. PLASTIC OFF THE SOFA.mp3"
+                },
+                {
+                    "number": 9,
+                    "size": 0.014805399,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/09. VIRGO'S GROOVE.mp3"
+                },
+                {
+                    "number": 10,
+                    "size": 0.008190131,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/10. MOVE.mp3"
+                },
+                {
+                    "number": 11,
+                    "size": 0.010485776,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/11. HEATED.mp3"
+                },
+                {
+                    "number": 12,
+                    "size": 0.009846298,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/12. THIQUE.mp3"
+                },
+                {
+                    "number": 13,
+                    "size": 0.006847467,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/13. ALL UP IN YOUR MIND.mp3"
+                },
+                {
+                    "number": 14,
+                    "size": 0.008011487,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/14. AMERICA HAS A PROBLEM.mp3"
+                },
+                {
+                    "number": 15,
+                    "size": 0.011585016,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/15. PURE-HONEY.mp3"
+                },
+                {
+                    "number": 16,
+                    "size": 0.011014518,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/16. SUMMER RENAISSANCE.mp3"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000025239,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/cover (1).jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001158,
+                    "path": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [PMEDIA] ⭐️/INFO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+            "size_total": 0.434862911,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.021908198,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/01 - I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.025607693,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/02 - COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.026547815,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/03 - ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.028614977,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/04 - CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.011776565,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/05 - ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.033527717,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/06 - BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026470925,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/07 - CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028790583,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/08 - PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.047548076,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/09 - VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.023509868,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/10 - MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.029636666,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/11 - HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.025454066,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/12 - THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018868048,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/13 - ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023404616,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/14 - AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.032268724,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/15 - PURE_HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.030793934,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/16 - SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000126163,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/cover.jpg"
+                },
+                {
+                    "number": 18,
+                    "size": 0.0000066,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/Folder.auCDtect.txt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001677,
+                    "path": "Beyoncé - RENAISSANCE (2022) WEB FLAC/foo_dr.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Beyoncé - Renaissance (2022)",
+            "size_total": 0.430934025,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.021670303,
+                    "path": "Beyoncé - Renaissance (2022)/01 - I'm That Girl.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.025467689,
+                    "path": "Beyoncé - Renaissance (2022)/02 - Cozy.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.026401733,
+                    "path": "Beyoncé - Renaissance (2022)/03 - Alien Superstar.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.028365193,
+                    "path": "Beyoncé - Renaissance (2022)/04 - Cuff It.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.011626007,
+                    "path": "Beyoncé - Renaissance (2022)/05 - Energy (feat. Beam).flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.033268437,
+                    "path": "Beyoncé - Renaissance (2022)/06 - Break My Soul.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026148957,
+                    "path": "Beyoncé - Renaissance (2022)/07 - Church Girl.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028583942,
+                    "path": "Beyoncé - Renaissance (2022)/08 - Plastic Off the Sofa.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.047267193,
+                    "path": "Beyoncé - Renaissance (2022)/09 - Virgo's Groove.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.023185095,
+                    "path": "Beyoncé - Renaissance (2022)/10 - Move (feat. Grace Jones & Tems).flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.029398682,
+                    "path": "Beyoncé - Renaissance (2022)/11 - Heated.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.025181936,
+                    "path": "Beyoncé - Renaissance (2022)/12 - Thique.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018682868,
+                    "path": "Beyoncé - Renaissance (2022)/13 - All Up in Your Mind.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023204087,
+                    "path": "Beyoncé - Renaissance (2022)/14 - America Has a Problem.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.031925367,
+                    "path": "Beyoncé - Renaissance (2022)/15 - Pure,Honey.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.030536033,
+                    "path": "Beyoncé - Renaissance (2022)/16 - Summer Renaissance.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000016896,
+                    "path": "Beyoncé - Renaissance (2022)/Beyoncé - Renaissance.log"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001039,
+                    "path": "Beyoncé - Renaissance (2022)/Beyoncé - Renaissance.m3u"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000002568,
+                    "path": "Beyoncé - Renaissance (2022)/Renaissance.cue"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Beyoncé - RENAISSANCE",
+            "size_total": 0.765544091,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0402282,
+                    "path": "Beyoncé - RENAISSANCE/01 - Beyoncé - I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.04425873,
+                    "path": "Beyoncé - RENAISSANCE/02 - Beyoncé - COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.045570724,
+                    "path": "Beyoncé - RENAISSANCE/03 - Beyoncé - ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.048672829,
+                    "path": "Beyoncé - RENAISSANCE/04 - Beyoncé - CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.022044945,
+                    "path": "Beyoncé - RENAISSANCE/05 - Beyoncé, BEAM - ENERGY (feat. Beam).flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.058069543,
+                    "path": "Beyoncé - RENAISSANCE/06 - Beyoncé - BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.046216999,
+                    "path": "Beyoncé - RENAISSANCE/07 - Beyoncé - CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.051215018,
+                    "path": "Beyoncé - RENAISSANCE/08 - Beyoncé - PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.080087229,
+                    "path": "Beyoncé - RENAISSANCE/09 - Beyoncé - VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.041460111,
+                    "path": "Beyoncé - RENAISSANCE/10 - Beyoncé, Grace Jones, Tems - MOVE (feat. Grace Jones & Tems).flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.052734769,
+                    "path": "Beyoncé - RENAISSANCE/11 - Beyoncé - HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.046998805,
+                    "path": "Beyoncé - RENAISSANCE/12 - Beyoncé - THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.034275259,
+                    "path": "Beyoncé - RENAISSANCE/13 - Beyoncé - ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.040993886,
+                    "path": "Beyoncé - RENAISSANCE/14 - Beyoncé - AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05769074,
+                    "path": "Beyoncé - RENAISSANCE/15 - Beyoncé - PURE-HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.054908645,
+                    "path": "Beyoncé - RENAISSANCE/16 - Beyoncé - SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000117659,
+                    "path": "Beyoncé - RENAISSANCE/Cover.jpg"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Beyoncé.RENAISSANCE.(WEB-FLAC-Lossless)-1897077",
+            "size_total": 0.428991438,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.021445553,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/01. I'M THAT GIRL.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.025439579,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/02. COZY.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.026352377,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/03. ALIEN SUPERSTAR.flac"
+                },
+                {
+                    "number": 4,
+                    "size": 0.028293188,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/04. CUFF IT.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.01145393,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/05. ENERGY.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.033130026,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/06. BREAK MY SOUL.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.026081647,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/07. CHURCH GIRL.flac"
+                },
+                {
+                    "number": 8,
+                    "size": 0.028450585,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/08. PLASTIC OFF THE SOFA.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.047199153,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/09. VIRGO'S GROOVE.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.023094448,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/10. MOVE.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.029239817,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/11. HEATED.flac"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02507151,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/12. THIQUE.flac"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018568279,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/13. ALL UP IN YOUR MIND.flac"
+                },
+                {
+                    "number": 14,
+                    "size": 0.023103228,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/14. AMERICA HAS A PROBLEM.flac"
+                },
+                {
+                    "number": 15,
+                    "size": 0.031720548,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/15. PURE／HONEY.flac"
+                },
+                {
+                    "number": 16,
+                    "size": 0.030221708,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/16. SUMMER RENAISSANCE.flac"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000125862,
+                    "path": "Beyonce - RENAISSANCE (2022) - WEB FLAC/cover.jpg"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+            "size_total": 0.506051937,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.029352687,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/06. This Too.flac"
+                },
+                {
+                    "number": 2,
+                    "size": 0.08054688,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/05. Amalgamation.flac"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001158,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/INFO.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.072758918,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/07. Times.flac"
+                },
+                {
+                    "number": 5,
+                    "size": 0.071720315,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/02. Entrance To The Unknown.flac"
+                },
+                {
+                    "number": 6,
+                    "size": 0.045829864,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/09. Black Liberation.flac"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000063918,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/cover.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 0.102784892,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/03. Uncovering Truth.flac"
+                },
+                {
+                    "number": 9,
+                    "size": 0.049133088,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/08. Black Liberation Prologue.flac"
+                },
+                {
+                    "number": 10,
+                    "size": 0.021573183,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/04. Thesis.flac"
+                },
+                {
+                    "number": 11,
+                    "size": 0.032287034,
+                    "path": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️/01. Dark Ages.flac"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 28,
+            "name": "multi-btih-3-2-x-Beyonce--RENAISSANCE-(2022)-[24-Bit-Hi-Res]-FLAC-[PMEDIA]-⭐️",
+            "btih": "7e68c5b54b0ce949c9f5abcbb05145497bb1986c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.761737168,
+            "creation": "2022-07-28T13:52:38.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62581,
+            "uuploaders": 18087
+        },
+        {
+            "id": 9,
+            "name": "Beyonce - Renaissance",
+            "btih": "54b91c671c8f44b36666c9039983574bc09d93bb",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.151662433,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41741,
+            "uuploaders": 11201
+        },
+        {
+            "id": 26,
+            "name": "multi-btih-1-2-x-Beyonce - RENAISSANCE (2022) - WEB FLAC",
+            "btih": "8d543e0b55e460667cb097552e3cc6d63bb71239",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.428991438,
+            "creation": "1970-01-01T00:00:00.000000000Z,https://orpheus.network/torrents.php?torrentid=1897077",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 24108,
+            "uuploaders": 3437
+        },
+        {
+            "id": 18,
+            "name": "Beyoncé - RENAISSANCE (2022) Mp3 320kbps [G0LDYEN]",
+            "btih": "611b50fd2074a9ec7d2057ef18fc8a8c451b28ad",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.1498724,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23594,
+            "uuploaders": 2897
+        },
+        {
+            "id": 25,
+            "name": "multi-btih-0-2-x-(R&B Soul Pop) Beyoncé (Beyonce) - Renaissance - 2022, MP3, 320 kbps [rutracker-6240610]",
+            "btih": "c372c460fda0a84582cdba4d6e038733b00fed46",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.151879752,
+            "creation": "2022-07-28T16:35:24.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6240610",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19979,
+            "uuploaders": 3483
+        },
+        {
+            "id": 10,
+            "name": "Beyonce--BREAK-MY-SOUL-(2022)-[24Bit-44-1kHz]-FLAC-[PMEDIA]-⭐️",
+            "btih": "e19d621478969a18184d1c394ba744ecacc3164c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.057720837,
+            "creation": "2022-07-01T17:06:25.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19499,
+            "uuploaders": 2591
+        },
+        {
+            "id": 24,
+            "name": "DoomCannon - Renaissance (2022) [24Bit-44.1kHz] FLAC [PMEDIA] ⭐️",
+            "btih": "a76c52781a3d9552ec0bd5d088d28a181d1b6912",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.506051937,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10709,
+            "uuploaders": 1021
+        },
+        {
+            "id": 3,
+            "name": "[TR24][OF] Beyoncé (Beyonce) - RENAISSANCE (Clean Edited Version) [Apple Digital Masters] - 2022 (R&B, Soul, Pop) [rutracker-6241790]",
+            "btih": "c65ad8aebc25897c10013c9aac37b8bfd86c060d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.769131322,
+            "creation": "2022-07-31T17:02:13.000000000Z,qBittorrent v4.4.3.1,https://rutracker.org/forum/viewtopic.php?t=6241790",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10599,
+            "uuploaders": 1225
+        },
+        {
+            "id": 22,
+            "name": "Beyoncé - RENAISSANCE",
+            "btih": "cf5d5efe1f01ee0e01d401301a434622bc2b5fce",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.765544091,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9400,
+            "uuploaders": 203
+        },
+        {
+            "id": 1,
+            "name": "(Electronic, House, Dance-Pop) [WEB] Beyoncé (Beyonce) - Renaissance - 2022, FLAC (tracks), lossless [rutracker-6241346]",
+            "btih": "a8067c62148bde420d5d3de3a166456010978b88",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.43767344,
+            "creation": "2022-07-30T12:04:50.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6241346",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8881,
+            "uuploaders": 768
+        },
+        {
+            "id": 15,
+            "name": "Beyonce-Renaissance-CD-FLAC-2022-MOD [IPT]",
+            "btih": "35efd49ea850f94dbb918c7385ae2c55f056223b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.432007276,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6187,
+            "uuploaders": 401
+        },
+        {
+            "id": 7,
+            "name": "Beyonce - RENAISSANCE (Edited Version)2022",
+            "btih": "f0fa91e68bb360ce26d5b11e632da01da6edc0e1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.76402643,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5614,
+            "uuploaders": 430
+        },
+        {
+            "id": 20,
+            "name": "Beyoncé - RENAISSANCE (2022) WEB FLAC",
+            "btih": "ea2b7b696e1daadc60020f4b0723280a613e2877",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.434862911,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5054,
+            "uuploaders": 548
+        },
+        {
+            "id": 14,
+            "name": "Beyonce-RENAISSANCE-24BIT-WEBFLAC-2022-MenInFlac [IPT]",
+            "btih": "6da637f58f8c6d51dbcfba34349336da1c557446",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.761634519,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4901,
+            "uuploaders": 171
+        },
+        {
+            "id": 17,
+            "name": "Beyoncé - RENAISSANCE (2022) FLAC",
+            "btih": "ed7b2de0723ea64ca3a71ea8f648359ae38b90a0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.761736407,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4384,
+            "uuploaders": 342
+        },
+        {
+            "id": 27,
+            "name": "multi-btih-2-2-x-Beyonce--RENAISSANCE-(2022)-Mp3-320kbps-[PMEDIA]-⭐️",
+            "btih": "50953644aa403d406fd1b27cd904b4e2b66fa7ca",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.150575972,
+            "creation": "2022-07-28T13:52:35.000000000Z,dottorrent-gui/1.3.11 (https://github.com/kz26/dottorrent-gui),Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3836,
+            "uuploaders": 533
+        },
+        {
+            "id": 29,
+            "name": "multi-btih-4-2-x-[TR24][OF] Beyoncé (Beyonce) - Renaissance - 2022 (R&B, Soul, Pop) [rutracker-6240743]",
+            "btih": "e46adf0c0655b857b60d5ea303ea973f65356ea0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.758737906,
+            "creation": "2022-07-28T21:57:17.000000000Z,https://rutracker.org/forum/viewtopic.php?t=6240743",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3512,
+            "uuploaders": 1066
+        },
+        {
+            "id": 13,
+            "name": "Beyonce-RENAISSANCE-16BIT-WEBFLAC-2022-MenInFlac [IPT]",
+            "btih": "5cf62ed2bffb09021c2928a39d623063ca725ff5",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.431527614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1761,
+            "uuploaders": 797
+        },
+        {
+            "id": 21,
+            "name": "Beyoncé - Renaissance (2022)",
+            "btih": "6d7f7ac7e5f8c912afe6e5b183dee46d15eb23d2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.430934025,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1098,
+            "uuploaders": 683
+        }
+    ]
+}
