@@ -1,0 +1,464 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 0,
+    "day_member_streams_validated": 6,
+    "eligible_archives": 6,
+    "post_release_archive_records": 0,
+    "records": 6,
+    "sample_end_matches": 6,
+    "selected_archive_bytes": 1418760184,
+    "selected_archive_hashes": 6,
+    "sparse_sample_records": 1,
+    "unique_records": 6
+  },
+  "identity_source": {
+    "campaign_contract_records": 6,
+    "campaign_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2022-additions.txt",
+    "sha256": "97642dd08a47c7c35557566750194ed9e33233c589f98ead72182d6345233ab4"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 688442776,
+      "records": 3
+    },
+    "ord": {
+      "archive_bytes": 730317408,
+      "records": 3
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20230307.tar.xz",
+        "filename_date": "20230307",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/andor-112.cache/cache.20230307.tar.xz",
+        "sha256": "f39c946e42ca44d00b0422000841f18d590a9fdab2652124f0558cfa5986e401",
+        "size": 666426560
+      },
+      "collection_key": "andor-112",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 95,
+          "cache_members": 21767,
+          "first_observed_day_index": 1,
+          "missing_indices": [
+            40,
+            41,
+            42,
+            51,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2023-03-07",
+          "sample_span_days": 105,
+          "sample_start": "2022-11-23",
+          "torrent_indices": 242
+        },
+        "required_collection_key": "andor-112",
+        "required_day_products": 95,
+        "required_sample_days": 105,
+        "required_sample_end": "2023-03-07",
+        "required_sample_start": "2022-11-23",
+        "required_sparse_intervals": [
+          {
+            "days": 3,
+            "first_index": 40,
+            "last_index": 42
+          },
+          {
+            "days": 1,
+            "first_index": 51,
+            "last_index": 51
+          },
+          {
+            "days": 6,
+            "first_index": 74,
+            "last_index": 79
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "112",
+        "collection_name": "Andor",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 105,
+        "sample_end": "2023-03-07",
+        "sample_start": "2022-11-23",
+        "sha256": "42d7a690a2a1ae3b92d45aae33f6d87df5b8b2ec60f57bad0ae4e058488de97d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/andor-112.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20230307.tar.xz",
+            "size": 666426560
+          }
+        ],
+        "expected_filename_date": "20230307"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20230220.tar.xz",
+        "filename_date": "20230220",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/kindred-01.cache/cache.20230220.tar.xz",
+        "sha256": "d08cff6268e088345afeddfe5d44f24ef2b822ff726d19404e4d766493337433",
+        "size": 65567936
+      },
+      "collection_key": "kindred-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 13089,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2023-02-20",
+          "sample_span_days": 70,
+          "sample_start": "2022-12-13",
+          "torrent_indices": 192
+        },
+        "required_collection_key": "kindred-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2023-02-20",
+        "required_sample_start": "2022-12-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Kindred",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 70,
+        "sample_end": "2023-02-20",
+        "sample_start": "2022-12-13",
+        "sha256": "1077936eca7a629d61aa71c1145c75d91e59e9e286525cedd114104082226012",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kindred-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20230220.tar.xz",
+            "size": 65567936
+          }
+        ],
+        "expected_filename_date": "20230220"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220116.tar.xz",
+        "filename_date": "20220116",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/station-eleven-110.cache/cache.20220116.tar.xz",
+        "sha256": "42253c94ecaa4c8f487d5ce4a1f4ee342e23ec565215f496dd1c9da28f88c584",
+        "size": 4733800
+      },
+      "collection_key": "station-eleven-110",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 4,
+          "cache_members": 142,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-16",
+          "sample_span_days": 4,
+          "sample_start": "2022-01-13",
+          "torrent_indices": 46
+        },
+        "required_collection_key": "station-eleven-110",
+        "required_day_products": 4,
+        "required_sample_days": 4,
+        "required_sample_end": "2022-01-16",
+        "required_sample_start": "2022-01-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "110",
+        "collection_name": "Station Eleven",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 4,
+        "sample_end": "2022-01-16",
+        "sample_start": "2022-01-13",
+        "sha256": "56e1360e2291b9544dbfd075a822734b23dc7c7d5274d80ee0b1193c1a35efed",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/station-eleven-110.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220116.tar.xz",
+            "size": 4733800
+          }
+        ],
+        "expected_filename_date": "20220116"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20230214.tar.xz",
+        "filename_date": "20230214",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/tales-of-the-jedi-01.cache/cache.20230214.tar.xz",
+        "sha256": "9905bab76b86dbce394c4cf8ad996a1d6afb0b3cf5e1dda3a7f8c9e4eaca022e",
+        "size": 220868952
+      },
+      "collection_key": "tales-of-the-jedi-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "cache_members": 15119,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2023-02-14",
+          "sample_span_days": 112,
+          "sample_start": "2022-10-26",
+          "torrent_indices": 143
+        },
+        "required_collection_key": "tales-of-the-jedi-01",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2023-02-14",
+        "required_sample_start": "2022-10-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Star Wars Tales",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 112,
+        "sample_end": "2023-02-14",
+        "sample_start": "2022-10-26",
+        "sha256": "49ed6ae355bea0b894b1bac083134e3f3f55890a644dadc9b0d0fd3a17896fd6",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tales-of-the-jedi-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20230214.tar.xz",
+            "size": 220868952
+          }
+        ],
+        "expected_filename_date": "20230214"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220720.tar.xz",
+        "filename_date": "20220720",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/tokyo-vice-01.cache/cache.20220720.tar.xz",
+        "sha256": "29088dc5e002f95085c57598e00d48a8eb9f32484d9859be289300b9a84869d3",
+        "size": 443880520
+      },
+      "collection_key": "tokyo-vice-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 24427,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-07-20",
+          "sample_span_days": 105,
+          "sample_start": "2022-04-07",
+          "torrent_indices": 269
+        },
+        "required_collection_key": "tokyo-vice-01",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2022-07-20",
+        "required_sample_start": "2022-04-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Tokyo Vice (TV series)",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 105,
+        "sample_end": "2022-07-20",
+        "sample_start": "2022-04-07",
+        "sha256": "3a8ef7993bb4d1b53c5f350c8603586413f545fd8b6764e041961da87e11d0fa",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tokyo-vice-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220720.tar.xz",
+            "size": 443880520
+          }
+        ],
+        "expected_filename_date": "20220720"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20221208.tar.xz",
+        "filename_date": "20221208",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/yellowstone-505.cache/cache.20221208.tar.xz",
+        "sha256": "ef4e05c21c6823e3177ab41c32a9c69a2e3ccb1a2c644a26f0103b9451b54e9f",
+        "size": 17282416
+      },
+      "collection_key": "yellowstone-505",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 4,
+          "cache_members": 133,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-12-08",
+          "sample_span_days": 4,
+          "sample_start": "2022-12-05",
+          "torrent_indices": 53
+        },
+        "required_collection_key": "yellowstone-505",
+        "required_day_products": 4,
+        "required_sample_days": 4,
+        "required_sample_end": "2022-12-08",
+        "required_sample_start": "2022-12-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "505",
+        "collection_name": "Yellowstone",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "f29906c3f8529a75c4a5c433ca56d2ca842b9c34575dd362a5f90752ff95c1f6",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 4,
+        "sample_end": "2022-12-08",
+        "sample_start": "2022-12-05",
+        "sha256": "32ca3b94eaf22ca4b8864a7aa3368e2ca66c19bef3d8cd01f6ff142bc519cc31",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/yellowstone-505.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20221208.tar.xz",
+            "size": 17282416
+          }
+        ],
+        "expected_filename_date": "20221208"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "canonical-metadata-or-frozen-campaign-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2022"
+}
