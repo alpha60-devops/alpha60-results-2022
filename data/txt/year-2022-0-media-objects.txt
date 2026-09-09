@@ -2,6 +2,7 @@ abbott-elementary-113
 all-of-us-are-dead-01
 all-the-old-knives
 andor-101
+andor-112
 andy-warhol-diaries-01
 archer-1308
 atlanta-301
@@ -29,6 +30,7 @@ house-of-the-dragon-110
 inventing-anna-01
 jeen-yuhs-01
 kimi
+kindred-01
 marvelous-mrs-maisel-407
 obi-wan-kenobi-101
 obi-wan-kenobi-106
@@ -51,8 +53,11 @@ roar-01
 russian-doll-02
 sandman-01
 spider-man-no-way-home
+station-eleven-110
 stranger-things-04.1
 stranger-things-04.2
+tales-of-the-jedi-01
+tokyo-vice-01
 turning-red
 undone-02
 walking-dead-1124
@@ -61,3 +66,4 @@ westworld-401
 westworld-408
 witcher-blood-origin-01
 yellowjackets-110
+yellowstone-505
