@@ -1,52 +1,49 @@
 {
-  "schema": "alpha60-year-baseline-v2-completion/1",
-  "year": "2022",
-  "status": "passed",
-  "generated_at": "2026-09-03T01:34:08-07:00",
-  "counts": {
-    "passed": 63,
-    "absent": 0,
-    "old": 0,
-    "failed": 0,
-    "inventory": 63,
-    "unique": 63
+  "campaign": {
+    "inventory_count": 69,
+    "inventory_sha256": "38386383c7370623c8bd4e49e72a591f3c62c0e4fdf6d6872033f955be804ce3",
+    "version": 2
   },
   "campaign_counts": {
-    "archive_records": 63,
-    "worker_passed": 63,
+    "archive_records": 69,
+    "baseline_v2_pages": 69,
+    "day_complete": 69,
+    "day_product_pairs": 6479,
+    "excluded_records": 0,
+    "index_links": 69,
+    "inventory": 69,
     "worker_failed": 0,
-    "worker_repairs": 1,
-    "day_complete": 63,
-    "day_product_pairs": 6089,
-    "index_links": 63,
-    "excluded_records": 0
+    "worker_passed": 69
   },
-  "source_revisions": {
-    "alpha60_publication": [
-      "6965413ecbbc770c5afddad60d6badce018305ce",
-      "cc43c11988454ec298675491af25a3069706d31b"
-    ],
-    "alpha60_repair_bundle": "cc43c11988454ec298675491af25a3069706d31b",
-    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "1bed915fe7fbdbd4af36f366b6c2303077615ee5",
-    "metadata": "d6d0eb0cc227fb7050226a881a9ab43b49ebff9e",
-    "results_before_completion": "3272d5a42bf3dd42754d390ba63b25990fc98e51"
+  "counts": {
+    "absent": 0,
+    "failed": 0,
+    "inventory": 69,
+    "old": 0,
+    "passed": 69,
+    "unique": 69
   },
-  "campaign_inputs_sha256": "e5dae98684076ff370f505ec0ec4ec170bfba1605298ced9ce449611c283f15f",
-  "campaign_inputs_scope": [
-    "data/txt/year-2022-0-media-objects.txt",
-    "data/txt/year-2022-cache-archive-map.json",
-    "data/txt/year-2022-scope-exclusions.json",
-    "data/txt/year-2022-discovery-receipt.json"
-  ],
   "evidence_sha256": {
-    "baseline_v2_site_audit": "0ac4549dd0e8cadd3c81c9d0cdde754b311ec0cdb2a9a1f151342e6206a79408",
-    "canonical_metadata_audit": "5c95b19a2ff2441bbc702f73b2fc487154db33e1b8d8e7d3e015d84c335075ee",
-    "campaign_audit": "1f39face4e35290510fc13badf73fbd1c16ad289bcd354c25b1cd9ca11e7768a",
-    "eureka_original_worker": "f39402a1b6f17a272a8e1d27180984d5fe754eaf4e2ea623599c77687d59c499",
-    "ord_original_worker": "16870f0ddfbb5ff7574f6c31ebc96d49eed474b5c49f01c30aa97553dc9787cc",
-    "eureka_repair_worker": "73b45244360eba348adec6916a1cf34c676c0afe1b1540b5967135613631b28e",
-    "repair_supervision": "7061c252daf82a877e738d3440237a7fdeb73bb357f244d495a9e8003068a846"
-  }
+    "campaign_audit": "361ba3f31e659ae7822bc81639d3e2deea365e3f9a794cc193464e78237cbd0b",
+    "metadata-audit.json": "1e86e93728d05e92b373cd87e42b04abcd83f29ab99ed3f56e1ca88088dc4f62",
+    "repair-supervision-cc43c1198.json": "7061c252daf82a877e738d3440237a7fdeb73bb357f244d495a9e8003068a846",
+    "site-audit.json": "c36c4eb908a3781e95a7bc98a18b9098d6a05b0ba5c5fbf2ce5d1365b8b348f4",
+    "worker-eureka-original.json": "f39402a1b6f17a272a8e1d27180984d5fe754eaf4e2ea623599c77687d59c499",
+    "worker-eureka-repair-cc43c1198.json": "73b45244360eba348adec6916a1cf34c676c0afe1b1540b5967135613631b28e",
+    "worker-ord-original.json": "16870f0ddfbb5ff7574f6c31ebc96d49eed474b5c49f01c30aa97553dc9787cc",
+    "worker-original-01.json": "f858182bab9ac0f0bd792ddc6d53a0a168d4e3c1429dd229faa2e9201a693252",
+    "worker-original-02.json": "ac4a197a80e9e878bd5f1dad11aae5f7537098c88d6791315f15cb9c877625c8"
+  },
+  "generated_at": "2026-09-10T00:24:56.524961+00:00",
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "source_revisions": {
+    "alpha60": "a86983dda35276b3ed53a8d1804d3d79926da1ef",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "70ea1468c916802108b8315b776e8975fb4151ae",
+    "results": "8478b5d5ec702f02b0b51453770c330372237b27"
+  },
+  "status": "passed",
+  "year": "2022"
 }
