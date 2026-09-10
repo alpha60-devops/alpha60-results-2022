@@ -1,0 +1,360 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/archive-verification.json",
+    "sha256": "43095afdf49eb2910227b54f0e0b6db4332f3f7e35709a6271fa5741826c1e3d",
+    "size": 21570
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 35,
+    "records": 35
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-10T00:18:52.810568+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/abbott-elementary-113.cache/cache.20220621.tar.xz",
+      "collection_key": "abbott-elementary-113",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:16:43.936115+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:16:42.783923+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/andor-101.cache/cache.20230321.tar.xz",
+      "collection_key": "andor-101",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:16:45.018200+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:16:43.936499+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/andor-112.cache/cache.20230307.tar.xz",
+      "collection_key": "andor-112",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:16.657521+00:00",
+      "owner": "ord",
+      "results_revision": "991d4ffeb03547ed9452c14ccfc196b516c17d89",
+      "started_at": "2026-09-10T00:16:45.018537+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/book-of-boba-fett-107.cache/cache.20220426.tar.xz",
+      "collection_key": "book-of-boba-fett-107",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:17.765320+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:16.658039+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/boys-presents-diabolical-01.cache/cache.20220519.tar.xz",
+      "collection_key": "boys-presents-diabolical-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:18.911647+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:17.765674+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/bridgerton-02.cache/cache.20220707.tar.xz",
+      "collection_key": "bridgerton-02",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:20.009632+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:18.912066+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/enola-holmes-2.cache/cache.20230216.tar.xz",
+      "collection_key": "enola-holmes-2",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:21.254025+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:20.010047+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/eternals.cache/cache.20220426.tar.xz",
+      "collection_key": "eternals",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:22.461379+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:21.254380+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/flight-attendant-201.cache/cache.20220629.tar.xz",
+      "collection_key": "flight-attendant-201",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:23.613981+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:22.461755+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/house-of-the-dragon-110.cache/cache.20230421.tar.xz",
+      "collection_key": "house-of-the-dragon-110",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:24.769226+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:23.614389+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/jeen-yuhs-01.cache/cache.20220519.tar.xz",
+      "collection_key": "jeen-yuhs-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:25.878691+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:24.769722+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/kimi.cache/cache.20220602.tar.xz",
+      "collection_key": "kimi",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:27.075603+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:25.879167+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/kindred-01.cache/cache.20230220.tar.xz",
+      "collection_key": "kindred-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:35.700417+00:00",
+      "owner": "ord",
+      "results_revision": "555e3f65e466cc67f127aeda9bd5c3c3e05e0abf",
+      "started_at": "2026-09-10T00:17:27.076079+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/marvelous-mrs-maisel-407.cache/cache.20220526.tar.xz",
+      "collection_key": "marvelous-mrs-maisel-407",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:36.866010+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:35.701255+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/obi-wan-kenobi-106.cache/cache.20221004.tar.xz",
+      "collection_key": "obi-wan-kenobi-106",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:37.994511+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:36.866434+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/old-man-107.cache/cache.20220930.tar.xz",
+      "collection_key": "old-man-107",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:39.122034+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:37.994963+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/paper-girls-01.cache/cache.20221006.tar.xz",
+      "collection_key": "paper-girls-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:40.334132+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:39.122525+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/peripheral-108.cache/cache.20230216.tar.xz",
+      "collection_key": "peripheral-108",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:41.468285+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:40.334714+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/prehistoric-planet-01.cache/cache.20220904.tar.xz",
+      "collection_key": "prehistoric-planet-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:42.637011+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:41.468800+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/prey.cache/cache.20230202.tar.xz",
+      "collection_key": "prey",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:43.779838+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:42.637538+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/reservation-dogs-201.cache/cache.20221011.tar.xz",
+      "collection_key": "reservation-dogs-201",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:44.937648+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:43.780353+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/rings-of-power-101.cache/cache.20230302.tar.xz",
+      "collection_key": "rings-of-power-101",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:46.126797+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:44.938160+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/russian-doll-02.cache/cache.20220628.tar.xz",
+      "collection_key": "russian-doll-02",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:47.192147+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:46.127318+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/sandman-01.cache/cache.20230202.tar.xz",
+      "collection_key": "sandman-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:48.391125+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:47.192655+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/station-eleven-110.cache/cache.20220116.tar.xz",
+      "collection_key": "station-eleven-110",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:54.237916+00:00",
+      "owner": "ord",
+      "results_revision": "1c6f1ad0706cb0669c3034e5b1bb1fcb8194f580",
+      "started_at": "2026-09-10T00:17:48.391642+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/stranger-things-04.1.cache/cache.20220929.tar.xz",
+      "collection_key": "stranger-things-04.1",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:55.400993+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:54.238788+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/stranger-things-04.2.cache/cache.20221013.tar.xz",
+      "collection_key": "stranger-things-04.2",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:17:56.544851+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:17:55.401560+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/tales-of-the-jedi-01.cache/cache.20230214.tar.xz",
+      "collection_key": "tales-of-the-jedi-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:15.743257+00:00",
+      "owner": "ord",
+      "results_revision": "2125a6bdb5ce9a6f0369af7183862dea6b6e8c21",
+      "started_at": "2026-09-10T00:17:56.545432+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/tokyo-vice-01.cache/cache.20220720.tar.xz",
+      "collection_key": "tokyo-vice-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:40.521543+00:00",
+      "owner": "ord",
+      "results_revision": "41d45236cd53d0f3be7dc0a06113c3176e27e502",
+      "started_at": "2026-09-10T00:18:15.744290+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/turning-red.cache/cache.20220623.tar.xz",
+      "collection_key": "turning-red",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:41.689628+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:18:40.522584+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/westworld-401.cache/cache.20220904.tar.xz",
+      "collection_key": "westworld-401",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:42.822867+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:18:41.690173+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/westworld-408.cache/cache.20221023.tar.xz",
+      "collection_key": "westworld-408",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:44.030940+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:18:42.823507+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/witcher-blood-origin-01.cache/cache.20230305.tar.xz",
+      "collection_key": "witcher-blood-origin-01",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:45.202309+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:18:44.031560+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/yellowjackets-110.cache/cache.20220212.tar.xz",
+      "collection_key": "yellowjackets-110",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:46.326017+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-10T00:18:45.202927+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/yellowstone-505.cache/cache.20221208.tar.xz",
+      "collection_key": "yellowstone-505",
+      "executor": "ord",
+      "finished_at": "2026-09-10T00:18:52.809383+00:00",
+      "owner": "ord",
+      "results_revision": "383a0421e98f4a3c831e5fac3208a70668015adc",
+      "started_at": "2026-09-10T00:18:46.326622+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T00:16:42.782976+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+    "sha256": "709eccfb628a956007ff627a4a583b71e2a0f51270e82ffb77ee4a165fd540cc",
+    "size": 97709
+  },
+  "year": "2022"
+}

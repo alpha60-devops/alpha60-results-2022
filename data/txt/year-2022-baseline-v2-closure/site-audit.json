@@ -3,12 +3,12 @@
   "year": "2022",
   "status": "pass",
   "counts": {
-    "passed": 63,
+    "passed": 69,
     "absent": 0,
     "old": 0,
     "failed": 0,
-    "inventory": 63,
-    "unique": 63
+    "inventory": 69,
+    "unique": 69
   },
   "duplicate_keys": [],
   "records": [
@@ -29,6 +29,11 @@
     },
     {
       "collection_key": "andor-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "andor-112",
       "status": "passed",
       "issues": []
     },
@@ -168,6 +173,11 @@
       "issues": []
     },
     {
+      "collection_key": "kindred-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "marvelous-mrs-maisel-407",
       "status": "passed",
       "issues": []
@@ -278,12 +288,27 @@
       "issues": []
     },
     {
+      "collection_key": "station-eleven-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "stranger-things-04.1",
       "status": "passed",
       "issues": []
     },
     {
       "collection_key": "stranger-things-04.2",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tales-of-the-jedi-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tokyo-vice-01",
       "status": "passed",
       "issues": []
     },
@@ -324,6 +349,11 @@
     },
     {
       "collection_key": "yellowjackets-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowstone-505",
       "status": "passed",
       "issues": []
     }

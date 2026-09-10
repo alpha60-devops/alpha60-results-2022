@@ -1,0 +1,333 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/archive-verification.json",
+    "sha256": "575c49423e0b3030530f8f6ada43b89a335312fa426c16c55b80e1aa57131fa4",
+    "size": 21044
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 34,
+    "records": 34
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-10T00:18:07.846085+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/all-of-us-are-dead-01.cache/cache.20220512.tar.xz",
+      "collection_key": "all-of-us-are-dead-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:43.702626+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:42.590393+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/all-the-old-knives.cache/cache.20220623.tar.xz",
+      "collection_key": "all-the-old-knives",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:44.790758+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:43.702948+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/andy-warhol-diaries-01.cache/cache.20220517.tar.xz",
+      "collection_key": "andy-warhol-diaries-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:45.907003+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:44.791122+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/archer-1308.cache/cache.20230125.tar.xz",
+      "collection_key": "archer-1308",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:47.007008+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:45.907399+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/atlanta-301.cache/cache.20220602.tar.xz",
+      "collection_key": "atlanta-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:48.211698+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:47.007346+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/atlanta-310.cache/cache.20220728.tar.xz",
+      "collection_key": "atlanta-310",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:49.393910+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:48.212047+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/atlanta-410.cache/cache.20230119.tar.xz",
+      "collection_key": "atlanta-410",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:50.494306+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:49.394316+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/boys-301.cache/cache.20220922.tar.xz",
+      "collection_key": "boys-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:51.629463+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:50.494695+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/boys-308.cache/cache.20221103.tar.xz",
+      "collection_key": "boys-308",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:52.781638+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:51.629845+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/euphoria-208.cache/cache.20220515.tar.xz",
+      "collection_key": "euphoria-208",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:53.936255+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:52.782037+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/everything-everywhere-all-at-once.cache/cache.20220831.tar.xz",
+      "collection_key": "everything-everywhere-all-at-once",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:55.032631+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:53.936673+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/expanse-606.cache/cache.20220324.tar.xz",
+      "collection_key": "expanse-606",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:56.158400+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:55.033059+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/fistful-of-vengeance.cache/cache.20220427.tar.xz",
+      "collection_key": "fistful-of-vengeance",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:57.324150+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:56.158816+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/for-all-mankind-301.cache/cache.20220818.tar.xz",
+      "collection_key": "for-all-mankind-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:58.473077+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:57.324579+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/glass-onion.cache/cache.20230413.tar.xz",
+      "collection_key": "glass-onion",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:16:59.680175+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:58.473602+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/gray-man.cache/cache.20221103.tar.xz",
+      "collection_key": "gray-man",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:00.832831+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:16:59.680608+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/harley-quinn-301.cache/cache.20221005.tar.xz",
+      "collection_key": "harley-quinn-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:01.948481+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:00.833317+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/house-of-the-dragon-101.cache/cache.20230225.tar.xz",
+      "collection_key": "house-of-the-dragon-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:03.065974+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:01.948942+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/house-of-the-dragon-103.cache/cache.20221225.tar.xz",
+      "collection_key": "house-of-the-dragon-103",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:04.187244+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:03.066485+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/inventing-anna-01.cache/cache.20220505.tar.xz",
+      "collection_key": "inventing-anna-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:05.339985+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:04.187738+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/obi-wan-kenobi-101.cache/cache.20220929.tar.xz",
+      "collection_key": "obi-wan-kenobi-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:06.444412+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:05.340472+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/only-murders-in-the-building-201.cache/cache.20220906.tar.xz",
+      "collection_key": "only-murders-in-the-building-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:07.558611+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:06.444958+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/only-murders-in-the-building-210.cache/cache.20221031.tar.xz",
+      "collection_key": "only-murders-in-the-building-210",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:08.642094+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:07.559115+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/pantheon-108.cache/cache.20221220.tar.xz",
+      "collection_key": "pantheon-108",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:09.755883+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:08.642644+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/peripheral-101.cache/cache.20230216.tar.xz",
+      "collection_key": "peripheral-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:10.862420+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:09.756386+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/raised-by-wolves-201.cache/cache.20220413.tar.xz",
+      "collection_key": "raised-by-wolves-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:12.015268+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:10.863220+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/raised-by-wolves-208.cache/cache.20220525.tar.xz",
+      "collection_key": "raised-by-wolves-208",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:13.103141+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:12.016086+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/renaissance.cache/cache.20220831.tar.xz",
+      "collection_key": "renaissance",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:14.232513+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:13.103672+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/rings-of-power-108.cache/cache.20230126.tar.xz",
+      "collection_key": "rings-of-power-108",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:15.401411+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:14.233057+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/roar-01.cache/cache.20220623.tar.xz",
+      "collection_key": "roar-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:16.472099+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:15.401943+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/spider-man-no-way-home.cache/cache.20220908.tar.xz",
+      "collection_key": "spider-man-no-way-home",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:17:53.242577+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:16.472629+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/undone-02.cache/cache.20220811.tar.xz",
+      "collection_key": "undone-02",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:18:05.400964+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:17:53.243051+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/walking-dead-1124.cache/cache.20230129.tar.xz",
+      "collection_key": "walking-dead-1124",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:18:06.609263+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:18:05.401484+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/wednesday-01.cache/cache.20230524.tar.xz",
+      "collection_key": "wednesday-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-10T00:18:07.845469+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-10T00:18:06.609927+00:00",
+      "status": "pass-existing"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-10T00:16:42.589413+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+    "sha256": "cb81dd169844145a7c2e5cab2bc78adc37a048a28eb5faf77a115f691ae7ad0c",
+    "size": 92956
+  },
+  "year": "2022"
+}
