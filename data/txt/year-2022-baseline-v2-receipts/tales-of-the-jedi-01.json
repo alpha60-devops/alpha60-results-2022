@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt20723374",
+    "imdb_id": "tt20723374",
+    "revision": "70ea1468c916802108b8315b776e8975fb4151ae",
+    "wikidata_id": "Q133810189",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)"
+  },
+  "coverage_sha256": "1ad0f48cbf19c6cacb12cf768fc320268e95b1615fc3f1714d87b5919bfccd4d",
+  "generated_at": "2026-09-10T00:18:02.063292+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/tales-of-the-jedi-01.cache/cache.20230214.tar.xz",
+      "sha256": "9905bab76b86dbce394c4cf8ad996a1d6afb0b3cf5e1dda3a7f8c9e4eaca022e",
+      "size": 220868952
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/tales-of-the-jedi-01.md",
+      "sha256": "ccb5586eec4b592722eb2165a1989a9e0f334dec0a6afcb6db2e5cc0e9973f08",
+      "size": 562
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/tales-of-the-jedi-01.json",
+      "sha256": "545861b3c345fd9b15482c48848f285c5c659a06f560284e471a6486ff713f1f",
+      "size": 2916
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/tales-of-the-jedi-01.json",
+      "sha256": "68eb69e30903dc7ef3436570a38d2081c4acc4c4195d152c16ad3e6886ab8ee8",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "709eccfb628a956007ff627a4a583b71e2a0f51270e82ffb77ee4a165fd540cc",
+      "size": 97709
+    }
+  },
+  "media_object": "tales-of-the-jedi-01",
+  "published_files": {
+    "data/csv/bytes/tales-of-the-jedi-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "2cc898593ef3034b60990bb983764463fb224489ae0c9709c8f2b53017110f5d",
+    "docs/itemized/figures/tales-of-the-jedi-01-carto-4k.webp": "78d8dd49a80cd822516965822d2dfa6cf72a6c8c5413cffbe3d8c916a4157715",
+    "docs/itemized/figures/tales-of-the-jedi-01-carto.png": "7774ee5997019dfe0701ff31448c463df27cfdcdc5968f4adae6a44958747142",
+    "docs/itemized/figures/tales-of-the-jedi-01-cumulative-detail-btiha-itemized-by-bytes.svg": "582c0ded25e20dbd1e582808b51b94cc39d5bbf3630edcef90c097109933f339",
+    "docs/itemized/figures/tales-of-the-jedi-01-data-ge-1080p-4k.webp": "4b3ae8b2454e6aec6634d1d2a2dd319bdd58c9d529c79ccdbb410ca134bf2dd2",
+    "docs/itemized/figures/tales-of-the-jedi-01-data-ge-1080p.webp": "f0c9ac70f3e750d9d2fe86e596e9b337ac59424da8fdd9ceda9f0decd814aa3b",
+    "docs/itemized/figures/tales-of-the-jedi-01-data-lt-1080p-4k.webp": "d9d9c35ed01af4c3e8ef730f40110feb835a3d7b5b02b5b2536110f827e67fd2",
+    "docs/itemized/figures/tales-of-the-jedi-01-data-lt-1080p.webp": "a9cfd31a59e3b5440e33b7b6cc55141ab4461673aff68882a626f313e4db842e",
+    "docs/itemized/figures/tales-of-the-jedi-01-downloads-by-day-day.svg": "93c07061363967eedb9e3bc8ca220146dbd63c9649aeb624fde9d78493a23d2f",
+    "docs/itemized/figures/tales-of-the-jedi-01-downloads-by-week-tales-of-the-jedi-01-week.svg": "839a877a17f76229a5fd9bcd7b16b6831ce1d80a2be802f9f8da1d7182ec49ca",
+    "docs/itemized/tales-of-the-jedi-01-sample-cache-audit.md": "e7f124a935c66b4243eb9165a393aab581f3e9b746a1eeae5f70cb5099227cf4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "6c263b55ae9b5a2ab520bf5686f6f401e724b889",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/tales-of-the-jedi-01/tmp/tales-of-the-jedi-01-cumulative-btiha.geojson",
+        "sha256": "b52b5d83540d6ff931896e66e440dfac3365f3778dd40cdc1ce5aeb3e2e83bf5",
+        "size": 31386794
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/tales-of-the-jedi-01/tmp/tales-of-the-jedi-01-cumulative-btiha-media-objects.json",
+        "sha256": "7300eb6913a415f1f9735e3a4d34a5336686fdee865f4179a50d9de0260d3397",
+        "size": 682182
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "tales-of-the-jedi-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          52.0,
+          46.0,
+          34.0,
+          33.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Ashburn",
+          "New York City",
+          "Frankfurt am Main",
+          "Sydney",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          45.0,
+          36.0,
+          35.0,
+          34.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "London",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Ashburn",
+          "Sofia",
+          "Lelystad",
+          "New York City",
+          "Melbourne"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 28,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "19453e86c2d20576ad8b3a7985b5a3ec6c674f0f",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "70ea1468c916802108b8315b776e8975fb4151ae"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
