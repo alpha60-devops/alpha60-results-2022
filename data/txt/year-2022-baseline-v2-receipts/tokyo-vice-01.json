@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2887954",
+    "imdb_id": "tt2887954",
+    "revision": "70ea1468c916802108b8315b776e8975fb4151ae",
+    "wikidata_id": "Q85809934",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)"
+  },
+  "coverage_sha256": "f0dd8c818a9c71f0032c7e40a5b0fb1e8b8d6a1fcbafcb22f41b72b18ce72289",
+  "generated_at": "2026-09-10T00:18:22.797007+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/tokyo-vice-01.cache/cache.20220720.tar.xz",
+      "sha256": "29088dc5e002f95085c57598e00d48a8eb9f32484d9859be289300b9a84869d3",
+      "size": 443880520
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/tokyo-vice-01.md",
+      "sha256": "a0b7d522df5b61a6d3fb0fa3547b8d0ab0745d1d182cdc48cc7aff13afa539bf",
+      "size": 548
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/tokyo-vice-01.json",
+      "sha256": "88dc6d2c6476dcf14215b4a48b5a9896444814434286859ab66018c3209c28e4",
+      "size": 2825
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/tokyo-vice-01.json",
+      "sha256": "e16c743393dc65736c906b8164f0a1cc077565e49b26e9a529e1ad626a5358b9",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "709eccfb628a956007ff627a4a583b71e2a0f51270e82ffb77ee4a165fd540cc",
+      "size": 97709
+    }
+  },
+  "media_object": "tokyo-vice-01",
+  "published_files": {
+    "data/csv/bytes/tokyo-vice-01-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "075d4ccf5e852e763b4a3c3e5e082849f0c7cb1c5d5667f2d2c5c160994fd834",
+    "docs/itemized/figures/tokyo-vice-01-carto-4k.webp": "576d36bf3a4f093ba4455d5fa1df16d28bdd7dbc1d4dfbd6fe7070b5a1ee0249",
+    "docs/itemized/figures/tokyo-vice-01-carto.png": "ace26bd84937c5748bc1832721891e977bdd16e41c40a4066282cb4cd54bc33a",
+    "docs/itemized/figures/tokyo-vice-01-cumulative-detail-btiha-itemized-by-bytes.svg": "9388331b891a2a54a56bf32f5a176a00c5650ef3ddbb4c71ace4e4a78fc43c0d",
+    "docs/itemized/figures/tokyo-vice-01-data-ge-1080p-4k.webp": "dec6a5357da0ae1ddcd1ef03bfe50da6b780cbf0f84686c6c849a2798f0e235a",
+    "docs/itemized/figures/tokyo-vice-01-data-ge-1080p.webp": "39aff4196ba5e38dd79501d48760a68ea06916e3d7e69b04579c7ff71c8f0990",
+    "docs/itemized/figures/tokyo-vice-01-data-lt-1080p-4k.webp": "6f724810bdec4e353ff02a08ae12e214439baa4027dc35819e2178dfacb35b96",
+    "docs/itemized/figures/tokyo-vice-01-data-lt-1080p.webp": "8c7c5160c56de2d9b66d9753d0c8554bc2fdc2eb95e6f6ced3ec243910deebf3",
+    "docs/itemized/figures/tokyo-vice-01-downloads-by-day-day.svg": "5c2157168bf73568aebf601458f19019c71a1a04bd40d1b1d7f67f602572029f",
+    "docs/itemized/figures/tokyo-vice-01-downloads-by-week-tokyo-vice-01-week.svg": "ec1e25447144b8b6dedf32a8d0d18d0cf2605c2817d9f4b90b213944db909b41",
+    "docs/itemized/tokyo-vice-01-sample-cache-audit.md": "a1558781476bf543113dbe8bef13e270c31f5db55a9f1b0281e4f2e20d4ae2c0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "6c263b55ae9b5a2ab520bf5686f6f401e724b889",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/tokyo-vice-01/tmp/tokyo-vice-01-cumulative-btiha.geojson",
+        "sha256": "4b9a7d6d949ef8e7df9342300b3146fe2ea2b85fbaeefff69a3162cb6497ccf2",
+        "size": 69683639
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/tokyo-vice-01/tmp/tokyo-vice-01-cumulative-btiha-media-objects.json",
+        "sha256": "f1d0987f1f424f49c3e03de9c3dc10a25359caa4081f6fa8240c6eb7e418a2f3",
+        "size": 502011
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "tokyo-vice-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          49.0,
+          39.0,
+          35.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Lelystad",
+          "Paris",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          50.0,
+          41.0,
+          35.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Madrid",
+          "Paris",
+          "Amsterdam",
+          "Shanghai",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "19453e86c2d20576ad8b3a7985b5a3ec6c674f0f",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "70ea1468c916802108b8315b776e8975fb4151ae"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}
