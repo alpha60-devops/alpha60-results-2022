@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4236770",
+    "imdb_id": "tt4236770",
+    "revision": "70ea1468c916802108b8315b776e8975fb4151ae",
+    "wikidata_id": "Q47452423",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)"
+  },
+  "coverage_sha256": "eeb5276364ff9a19d568137b5b67169abc6dfa84536113af78e8b291885ccd5c",
+  "generated_at": "2026-09-10T00:18:49.864800+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/yellowstone-505.cache/cache.20221208.tar.xz",
+      "sha256": "ef4e05c21c6823e3177ab41c32a9c69a2e3ccb1a2c644a26f0103b9451b54e9f",
+      "size": 17282416
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/yellowstone-505.md",
+      "sha256": "91efed755ed8b3170e308a3f6b70d8380ae7d3ec092d766e9025e8882d7f328b",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/yellowstone-505.json",
+      "sha256": "e892a4b1a271eaf7b8bc4635625e10efed01a44b077b6f6083832c6fe181232e",
+      "size": 2005
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/yellowstone-505.json",
+      "sha256": "c503e3a1e979419b840b3e9ef8f22d66e894bde0186e6bc633bf220a183615f8",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "709eccfb628a956007ff627a4a583b71e2a0f51270e82ffb77ee4a165fd540cc",
+      "size": 97709
+    }
+  },
+  "media_object": "yellowstone-505",
+  "published_files": {
+    "data/csv/bytes/yellowstone-505-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "f7dcf9ee0b8611e9a5383762bbe30ece18faea7033f10f995e1adc0cc4a4f634",
+    "docs/itemized/figures/yellowstone-505-carto-4k.webp": "5a88838caa55e40928dd4c90158bf74dc5d3ec96a960fd20204a7911c81ce9af",
+    "docs/itemized/figures/yellowstone-505-carto.png": "87131d34c5bcd0dedb345303fd69c6c42858b7c354e260c2166043d37129aa5a",
+    "docs/itemized/figures/yellowstone-505-cumulative-detail-btiha-itemized-by-bytes.svg": "f732e9fc7a9e91de2326318d13edd3a8d0e2b9cee991a7104ba20dca0f3a4f60",
+    "docs/itemized/figures/yellowstone-505-data-ge-1080p-4k.webp": "c0b3c52ed430bc5ea62e5d914aa1347b07c680cbd69ec11670f908671389c4b2",
+    "docs/itemized/figures/yellowstone-505-data-ge-1080p.webp": "3817b37fb4390b47eb52864f920af9c8000b1407284cad05d37ee980ff9f8b4b",
+    "docs/itemized/figures/yellowstone-505-data-lt-1080p-4k.webp": "ad3ca370dec2cd379b3a41fa60f75d86535291505f4041ad6e44e2deeb24f006",
+    "docs/itemized/figures/yellowstone-505-data-lt-1080p.webp": "bf30cfb06be1f86756bed01ec844d2a4901df043a7765f34ccd034f617c2c1a4",
+    "docs/itemized/figures/yellowstone-505-downloads-by-day-day.svg": "6ebb88c8a0ea1f6d5785f5ab0c7becd650da106d458751e683c2a4cf465c389a",
+    "docs/itemized/figures/yellowstone-505-downloads-by-week-yellowstone-505-week.svg": "94b5f7ca0aba8c7bc76568b0406624ece8270f234557b80f250b40d60d73eef5",
+    "docs/itemized/yellowstone-505-sample-cache-audit.md": "40763ac19ff7de97a9a5ae2a6a0bd2a712c9d31fd4f3d8564fa6e6ef7567dc9f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "6c263b55ae9b5a2ab520bf5686f6f401e724b889",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/yellowstone-505/tmp/yellowstone-505-cumulative-btiha.geojson",
+        "sha256": "44239c3b6a851e50c4e8e4c35d2bd54fe03338464a60305bf4f099bd8bd1bcc5",
+        "size": 4207107
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/yellowstone-505/tmp/yellowstone-505-cumulative-btiha-media-objects.json",
+        "sha256": "efcccef348ab1a30826875d0f18b8cf72f4c478a2c280f844ad98bd8a34c5a9c",
+        "size": 87733
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "yellowstone-505",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          85.0,
+          84.0,
+          82.0,
+          67.0,
+          63.0,
+          60.0,
+          56.0,
+          51.0,
+          42.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Toronto",
+          "Moscow",
+          "London",
+          "New York City",
+          "Dallas",
+          "Shanghai",
+          "Amsterdam",
+          "Chicago",
+          "Los Angeles",
+          "Vancouver"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          63.0,
+          51.0,
+          46.0,
+          43.0,
+          41.0,
+          41.0,
+          39.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Toronto",
+          "Sydney",
+          "Johannesburg",
+          "New York City",
+          "Chicago",
+          "Dallas",
+          "Moscow",
+          "Melbourne",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 17,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "19453e86c2d20576ad8b3a7985b5a3ec6c674f0f",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "70ea1468c916802108b8315b776e8975fb4151ae"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}

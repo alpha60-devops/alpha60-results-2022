@@ -1,0 +1,2234 @@
+{
+    "collection_name": "Yellowstone",
+    "collection_id": "505",
+    "collection_key": "yellowstone-505",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "bce0c22ceb8f1f4f408a0e9a607af856fa1e47d0",
+            "duplicate_0_0": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]",
+            "duplicate_0_1": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "9f3ba173cf8de63c859e6b1b71ffd3adc9cf05fb",
+            "duplicate_1_0": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]",
+            "duplicate_1_1": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "52bccfd09e7df3fbb51de95318fc949eed9377c4",
+            "duplicate_2_0": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_2_1": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "805edb25501f40553d84ed3dbda49d51cae853be",
+            "duplicate_3_0": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_3_1": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "09ec21bfaaf843785211eddd0e7a7ea110de09ee",
+            "duplicate_4_0": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio",
+            "duplicate_4_1": "Йеллоустоун Yellowstone Сезон 5 Серии 1-5 из 14 (Стефен Т. Кэй, Тейлор Шеридан, Гай Ферленд) [2022, США, Драма, вестерн, W [rutracker-6284339]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "990b6cc8db1098b4f429b6d068ab6fd67bac5708",
+            "duplicate_5_0": "Yellowstone.S05E05.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_5_1": "Yellowstone.S05E05.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "1daeb4b40ac8a2e89128988d1b0136e6277d0ed7",
+            "duplicate_6_0": "[rutor.is]Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.",
+            "duplicate_6_1": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO",
+            "duplicate_6_2": "Йеллоустоун Yellowstone Сезон 5 Серии 1-5 из 14 (Тейлор Шеридан, Стефен Т. Кэй, Джон Дал) [2022, США, Драма, вестерн, WEB- [rutracker-6287424]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.tv ] Yellowstone.S05E05.SUBFRENCH.WEB.x264-EXTREME.mkv",
+            "size_total": 0.45065702,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.45065702,
+                    "path": "[ Torrent911.tv ] Yellowstone.S05E05.SUBFRENCH.WEB.x264-EXTREME.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Jelloustoun_5_sezon_720p_scarfilm.org",
+            "size_total": 7.52281554,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.240364621,
+                    "path": "Йеллоустоун_5_сезон_720p_[scarfilm.org]/Yellowstone.2018.S05E01_[scarfilm.org].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.947145074,
+                    "path": "Йеллоустоун_5_сезон_720p_[scarfilm.org]/Yellowstone.2018.S05E02_[scarfilm.org].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.761996204,
+                    "path": "Йеллоустоун_5_сезон_720p_[scarfilm.org]/Yellowstone.2018.S05E04_[scarfilm.org].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.573309641,
+                    "path": "Йеллоустоун_5_сезон_720p_[scarfilm.org]/Yellowstone.2018.S05E03_[scarfilm.org].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.",
+            "size_total": 21.235465088,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.805801253,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E01.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.466366528,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E02.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.009928397,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E03.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.383287548,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E04.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.570081362,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Yellowstone.S05.2160p.SDR.NewComers",
+            "size_total": 33.407816032,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.659657154,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E01.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.095264146,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E02.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.172368982,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E03.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.741338699,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E04.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 5.739187051,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E05.2160p.SDR.NewComers.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Yellowstone.(Season 05).LostFilm",
+            "size_total": 4.453756928,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.995383296,
+                    "path": "Yellowstone.(Season 05).LostFilm/Yellowstone.S05E01.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.921878528,
+                    "path": "Yellowstone.(Season 05).LostFilm/Yellowstone.S05E02.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.83414016,
+                    "path": "Yellowstone.(Season 05).LostFilm/Yellowstone.S05E03.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.905762816,
+                    "path": "Yellowstone.(Season 05).LostFilm/Yellowstone.S05E04.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.796592128,
+                    "path": "Yellowstone.(Season 05).LostFilm/Yellowstone.S05E05.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta",
+            "size_total": 0.514738508,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00661238,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.007190806,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006257596,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.494676579,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta/Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001147,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta/Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.494676579,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.494676579,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.494678619,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.75e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.494676579,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]/Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001147,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]/Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP [IPT]",
+            "size_total": 3.39473471,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.29e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.244733701,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.35,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.8e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP/yellowstone.2018.s05e05.1080p.web.h264-ggwp.sfv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "yellowstone.2018.s05e05.1080p.web.h264-ggwp[eztv.re].mkv",
+            "size_total": 3.394732381,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.394732381,
+                    "path": "yellowstone.2018.s05e05.1080p.web.h264-ggwp[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]",
+            "size_total": 3.394732939,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.394732381,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/yellowstone.2018.s05e05.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.29e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/yellowstone.2018.s05e05.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+            "size_total": 3.394732939,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.394732381,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/yellowstone.2018.s05e05.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.29e-7,
+                    "path": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]/yellowstone.2018.s05e05.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]",
+            "size_total": 5.564288694,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 5.564288151,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/yellowstone.2018.s05e05.2160p.web.h265-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.14e-7,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/yellowstone.2018.s05e05.2160p.web.h265-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 5.564288694,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 5.564288151,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/yellowstone.2018.s05e05.2160p.web.h265-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.14e-7,
+                    "path": "Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]/yellowstone.2018.s05e05.2160p.web.h265-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.206574029,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.75e-7,
+                    "path": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]/Holiday updates.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.206573092,
+                    "path": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]/Yellowstone.2018.S05E05.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Yellowstone.2018.S05E05.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.160007033,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000244075,
+                    "path": "Yellowstone.2018.S05E05.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00024323,
+                    "path": "Yellowstone.2018.S05E05.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000197194,
+                    "path": "Yellowstone.2018.S05E05.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.159321301,
+                    "path": "Yellowstone.2018.S05E05.AAC.MP4-Mobile/Yellowstone.2018.S05E05.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001233,
+                    "path": "Yellowstone.2018.S05E05.AAC.MP4-Mobile/Yellowstone.2018.S05E05.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 3.395990745,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.395990616,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.395990745,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.395990616,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 3.395991509,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.75e-7,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Holiday updates.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.395990616,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.518540283,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.518540154,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.518540283,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.518540154,
+                    "path": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.273401652,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.75e-7,
+                    "path": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]/Holiday updates.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.273400715,
+                    "path": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]/Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG [IPT]",
+            "size_total": 0.379951798,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000242239,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000226079,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000195508,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.379286876,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG/Yellowstone.2018.S05E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001096,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG/Yellowstone.2018.S05E05.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG[eztv.re].avi",
+            "size_total": 0.379286876,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.379286876,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG[TGx]",
+            "size_total": 0.379288865,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.75e-7,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG[TGx]/Holiday updates.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.379286876,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG[TGx]/Yellowstone.2018.S05E05.XviD-AFG.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000001096,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG[TGx]/Yellowstone.2018.S05E05.XviD-AFG.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Yellowstone.2018.S05E05.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO",
+            "size_total": 21.235465088,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.805801253,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E01.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.466366528,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E02.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.009928397,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E03.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.383287548,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E04.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.570081362,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio",
+            "size_total": 4.307597777,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.960565248,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.889530368,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.87524352,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.806975488,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.775278592,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000281,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 6.79e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 5.21e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 3.85e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 1.66e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Yellowstone.S05.1080p.NewComers",
+            "size_total": 14.595858392,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.9627718,
+                    "path": "Yellowstone.S05.1080p.NewComers/Yellowstone.S05E01.1080p.NewComers.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.672169684,
+                    "path": "Yellowstone.S05.1080p.NewComers/Yellowstone.S05E02.1080p.NewComers.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.335809344,
+                    "path": "Yellowstone.S05.1080p.NewComers/Yellowstone.S05E03.1080p.NewComers.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.625107564,
+                    "path": "Yellowstone.S05.1080p.NewComers/Yellowstone.S05E04.1080p.NewComers.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Yellowstone.S05.1080p.Ultradox",
+            "size_total": 10.473069013,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.325929672,
+                    "path": "Yellowstone.S05.1080p.Ultradox/Yellowstone.S05E01.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.154752753,
+                    "path": "Yellowstone.S05.1080p.Ultradox/Yellowstone.S05E02.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.139906116,
+                    "path": "Yellowstone.S05.1080p.Ultradox/Yellowstone.S05E04.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.960573373,
+                    "path": "Yellowstone.S05.1080p.Ultradox/Yellowstone.S05E03.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.891907099,
+                    "path": "Yellowstone.S05.1080p.Ultradox/Yellowstone.S05E05.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Yellowstone.S05.2160p.SDR.NewComers",
+            "size_total": 27.668628981,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.659657154,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E01.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.095264146,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E02.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.172368982,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E03.2160p.SDR.NewComers.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.741338699,
+                    "path": "Yellowstone.S05.2160p.SDR.NewComers/Yellowstone.S05E04.2160p.SDR.NewComers.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Yellowstone.S05.400p.Ultradox",
+            "size_total": 4.194875392,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.929599488,
+                    "path": "Yellowstone.S05.400p.Ultradox/Yellowstone.S05E01.400p.Ultradox.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.86237184,
+                    "path": "Yellowstone.S05.400p.Ultradox/Yellowstone.S05E02.400p.Ultradox.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.833683456,
+                    "path": "Yellowstone.S05.400p.Ultradox/Yellowstone.S05E04.400p.Ultradox.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.825901056,
+                    "path": "Yellowstone.S05.400p.Ultradox/Yellowstone.S05E03.400p.Ultradox.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.743319552,
+                    "path": "Yellowstone.S05.400p.Ultradox/Yellowstone.S05E05.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Yellowstone.S05.720p.ColdFilm",
+            "size_total": 9.581576721,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.138462947,
+                    "path": "Yellowstone.S05.720p.ColdFilm/Yellowstone.S05E01.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.985280336,
+                    "path": "Yellowstone.S05.720p.ColdFilm/Yellowstone.S05E02.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.791538356,
+                    "path": "Yellowstone.S05.720p.ColdFilm/Yellowstone.S05E03.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.945416311,
+                    "path": "Yellowstone.S05.720p.ColdFilm/Yellowstone.S05E04.720p.ColdFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.720878771,
+                    "path": "Yellowstone.S05.720p.ColdFilm/Yellowstone.S05E05.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Yellowstone.S05.WEB-DLRip.LF",
+            "size_total": 4.310202368,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.960462848,
+                    "path": "Yellowstone.S05.WEB-DLRip.LF/Yellowstone.S05E01.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.889526272,
+                    "path": "Yellowstone.S05.WEB-DLRip.LF/Yellowstone.S05E02.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.807282688,
+                    "path": "Yellowstone.S05.WEB-DLRip.LF/Yellowstone.S05E03.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.876599296,
+                    "path": "Yellowstone.S05.WEB-DLRip.LF/Yellowstone.S05E04.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.776331264,
+                    "path": "Yellowstone.S05.WEB-DLRip.LF/Yellowstone.S05E05.avi"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv",
+            "size_total": 3.73870337,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.832659036,
+                    "path": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv/Yellowstone.s05e01.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.771700238,
+                    "path": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv/Yellowstone.s05e02.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.700630154,
+                    "path": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv/Yellowstone.s05e03.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.759479204,
+                    "path": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv/Yellowstone.s05e04.WEBRip.XviD.Rus.RuDub.tv.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.674234738,
+                    "path": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv/Yellowstone.s05e05.WEBRip.XviD.Rus.RuDub.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Yellowstone.S05E02.WEBRip.400p.rus.2.0.HDREZKA.STUDIO.avi",
+            "size_total": 0.76164814,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.76164814,
+                    "path": "Yellowstone.S05E02.WEBRip.400p.rus.2.0.HDREZKA.STUDIO.avi"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Yellowstone.S05E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.769653591,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.769653591,
+                    "path": "Yellowstone.S05E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Yellowstone.S05E05.1080p.ColdFilm.mkv",
+            "size_total": 1.858230499,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.858230499,
+                    "path": "Yellowstone.S05E05.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Yellowstone.S05E05.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 3.003582296,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.003582296,
+                    "path": "Yellowstone.S05E05.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Yellowstone.S05E05.1080p.x265-ELiTE",
+            "size_total": 0.57038979,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000639267,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Screens/Yellowstone.S05E05.1080p.x265-ELiTE.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001477973,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Screens/Yellowstone.S05E05.1080p.x265-ELiTE.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002993621,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Screens/Yellowstone.S05E05.1080p.x265-ELiTE.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002266888,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Screens/Yellowstone.S05E05.1080p.x265-ELiTE.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.56301067,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Yellowstone.S05E05.1080p.x265-ELiTE.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001371,
+                    "path": "Yellowstone.S05E05.1080p.x265-ELiTE/Yellowstone.S05E05.1080p.x265-ELiTE.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Yellowstone.S05E05.400p.ColdFilm.avi",
+            "size_total": 0.55385006,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.55385006,
+                    "path": "Yellowstone.S05E05.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Yellowstone.S05E05.480p.x264-RUBiK",
+            "size_total": 0.34008523,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000151073,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Screens/Yellowstone.S05E05.480p.x264-RUBiK.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000351266,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Screens/Yellowstone.S05E05.480p.x264-RUBiK.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000677879,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Screens/Yellowstone.S05E05.480p.x264-RUBiK.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000547869,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Screens/Yellowstone.S05E05.480p.x264-RUBiK.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.338355778,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Yellowstone.S05E05.480p.x264-RUBiK.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001365,
+                    "path": "Yellowstone.S05E05.480p.x264-RUBiK/Yellowstone.S05E05.480p.x264-RUBiK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Yellowstone.S05E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.296159238,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.296159238,
+                    "path": "Yellowstone.S05E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Yellowstone.S05E05.720p.x264-FENiX",
+            "size_total": 0.45817862,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00027007,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Screens/Yellowstone.S05E05.720p.x264-FENiX.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000657011,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Screens/Yellowstone.S05E05.720p.x264-FENiX.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001383823,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Screens/Yellowstone.S05E05.720p.x264-FENiX.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001077332,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Screens/Yellowstone.S05E05.720p.x264-FENiX.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.45478902,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Yellowstone.S05E05.720p.x264-FENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001364,
+                    "path": "Yellowstone.S05E05.720p.x264-FENiX/Yellowstone.S05E05.720p.x264-FENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Yellowstone.S05E05.720p.x265-T0PAZ",
+            "size_total": 0.406065408,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000317037,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Screens/Yellowstone.S05E05.720p.x265-T0PAZ.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000712019,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Screens/Yellowstone.S05E05.720p.x265-T0PAZ.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001404726,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Screens/Yellowstone.S05E05.720p.x265-T0PAZ.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001080271,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Screens/Yellowstone.S05E05.720p.x265-T0PAZ.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.40254999,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Yellowstone.S05E05.720p.x265-T0PAZ.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001365,
+                    "path": "Yellowstone.S05E05.720p.x265-T0PAZ/Yellowstone.S05E05.720p.x265-T0PAZ.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Yellowstone.S05E05.rus.LostFilm.TV.avi",
+            "size_total": 0.796592128,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.796592128,
+                    "path": "Yellowstone.S05E05.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK",
+            "size_total": 2.990255729,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.990253852,
+                    "path": "Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK/Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001877,
+                    "path": "Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK/Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK",
+            "size_total": 1.313294111,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.313292234,
+                    "path": "Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK/Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001877,
+                    "path": "Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK/Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Yellowstone.S05E05.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 3.527355466,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.527355466,
+                    "path": "Yellowstone.S05E05.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Yellowstone.S05E05.WEBRip.400p.rus.2.0.HDREZKA.STUDIO.avi",
+            "size_total": 0.47368832,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.47368832,
+                    "path": "Yellowstone.S05E05.WEBRip.400p.rus.2.0.HDREZKA.STUDIO.avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Yellowstone.S05E05.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 1.408396256,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.408396256,
+                    "path": "Yellowstone.S05E05.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Yellowstone.S05E05.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.525468827,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000047001,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.525421697,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/Yellowstone.S05E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Yellowstone.S05E05.WEBRip.x264-ION10",
+            "size_total": 0.525468827,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000047001,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.525421697,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-ION10/Yellowstone.S05E05.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Yellowstone.S05E05.WEBRip.x264-XEN0N",
+            "size_total": 0.282046985,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000112056,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Screens/Yellowstone.S05E05.WEBRip.x264-XEN0N.Screen0000.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000264226,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Screens/Yellowstone.S05E05.WEBRip.x264-XEN0N.Screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000493031,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Screens/Yellowstone.S05E05.WEBRip.x264-XEN0N.Screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00040405,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Screens/Yellowstone.S05E05.WEBRip.x264-XEN0N.Screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.280772252,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Yellowstone.S05E05.WEBRip.x264-XEN0N.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000137,
+                    "path": "Yellowstone.S05E05.WEBRip.x264-XEN0N/Yellowstone.S05E05.WEBRip.x264-XEN0N.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Йеллоустоун Yellowstone Сезон 5 Серии 1-5 из 14 (Стефен Т. Кэй, Тейлор Шеридан, Гай Ферленд) [2022, США, Драма, вестерн, W [rutracker-6284339]",
+            "size_total": 4.307597777,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.960565248,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.889530368,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.87524352,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.806975488,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.775278592,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000281,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 6.79e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 5.21e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 3.85e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 1.66e-7,
+                    "path": "Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio/Yellowstone.2022.S05.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Йеллоустоун Yellowstone Сезон 5 Серии 1-5 из 14 (Тейлор Шеридан, Стефен Т. Кэй, Джон Дал) [2022, США, Драма, вестерн, WEB- [rutracker-6287424]",
+            "size_total": 21.235465088,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.805801253,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E01.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.466366528,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E02.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.009928397,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E03.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.383287548,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E04.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.570081362,
+                    "path": "Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO/Yellowstone.2022.S05E05.WEB-DL.1080p.AMZN.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "黄石.Yellowstone.2018.S05E05",
+            "size_total": 0.878966843,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.878966803,
+                    "path": "黄石.Yellowstone.2018.S05E05/黄石.Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.HD中英双字[66影视www.66Ys.Co].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 4e-8,
+                    "path": "黄石.Yellowstone.2018.S05E05/6v电影地址发布页 收藏不迷路.txt"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju",
+            "size_total": 2.124582533,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.3e-7,
+                    "path": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju/七汉美剧APP.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000056351,
+                    "path": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju/支持七汉1.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000078974,
+                    "path": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju/支持七汉2.png"
+                },
+                {
+                    "number": 4,
+                    "size": 2.124446778,
+                    "path": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju/黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 10,
+            "name": "yellowstone.2018.s05e05.1080p.web.h264-ggwp[eztv.re].mkv",
+            "btih": "2613387850172db27c4460a9c5c4c9e5d0014d2c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.394732381,
+            "creation": "2022-12-05T02:10:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45022,
+            "uuploaders": 14888
+        },
+        {
+            "id": 24,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG[eztv.re].avi",
+            "btih": "84bbdbad2c28fa8120a82726b18de1a6d63ea856",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.379286876,
+            "creation": "2022-12-05T02:25:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43545,
+            "uuploaders": 12250
+        },
+        {
+            "id": 63,
+            "name": "multi-btih-5-2-x-Yellowstone.S05E05.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "990b6cc8db1098b4f429b6d068ab6fd67bac5708",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.525468827,
+            "creation": "2022-12-05T02:25:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25936,
+            "uuploaders": 8204
+        },
+        {
+            "id": 58,
+            "name": "multi-btih-0-2-x-Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP[rarbg]",
+            "btih": "bce0c22ceb8f1f4f408a0e9a607af856fa1e47d0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.394732939,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20477,
+            "uuploaders": 5721
+        },
+        {
+            "id": 60,
+            "name": "multi-btih-2-2-x-Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "52bccfd09e7df3fbb51de95318fc949eed9377c4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.395990745,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17679,
+            "uuploaders": 6847
+        },
+        {
+            "id": 61,
+            "name": "multi-btih-3-2-x-Yellowstone.2018.S05E05.Watch.Em.Ride.Away.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "805edb25501f40553d84ed3dbda49d51cae853be",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.518540283,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14594,
+            "uuploaders": 5129
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-1-2-x-Yellowstone.2018.S05E05.2160p.WEB.H265-GLHF[rarbg]",
+            "btih": "9f3ba173cf8de63c859e6b1b71ffd3adc9cf05fb",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 5.564288694,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8863,
+            "uuploaders": 4395
+        },
+        {
+            "id": 9,
+            "name": "Yellowstone.2018.S05E05.1080p.WEB.H264-GGWP [IPT]",
+            "btih": "5c32faa92657d652d2097411ee0e2faa71ccb7ba",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.39473471,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8222,
+            "uuploaders": 3141
+        },
+        {
+            "id": 22,
+            "name": "Yellowstone.2018.S05E05.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "dc32bec313d8b89ef27b7ea75ec74db3a5878a41",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.273401652,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6303,
+            "uuploaders": 3421
+        },
+        {
+            "id": 56,
+            "name": "黄石.Yellowstone.2018.S05E05",
+            "btih": "ae3261bda82c7e370fbbe54bec8ac6612f593acf",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.878966843,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5886,
+            "uuploaders": 946
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-6-3-x-[rutor.is]Yellowstone.2022.S05.WEB-DL.1080p.AMZN.HDREZKA.",
+            "btih": "1daeb4b40ac8a2e89128988d1b0136e6277d0ed7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 21.235465088,
+            "creation": "2022-12-06T03:08:17.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/896514",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5398,
+            "uuploaders": 2924
+        },
+        {
+            "id": 15,
+            "name": "Yellowstone.2018.S05E05.720p.WEB.x265-MiNX[TGx]",
+            "btih": "1fe0479575ea5a99ef5536470b6d7158219016b0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.206574029,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4966,
+            "uuploaders": 2387
+        },
+        {
+            "id": 23,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG [IPT]",
+            "btih": "95a61b8c68df7a13d1df2dcc6c5d31c61ded23e3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.379951798,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3730,
+            "uuploaders": 1052
+        },
+        {
+            "id": 19,
+            "name": "Yellowstone.2018.S05E05.Watch.Em.Ride.Away.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "1a3e54cb8a06cc851d4f816b8a4c45c383931919",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.395991509,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2667,
+            "uuploaders": 891
+        },
+        {
+            "id": 44,
+            "name": "Yellowstone.S05E05.720p.x265-T0PAZ",
+            "btih": "a9d0c9ae49344bc4793578511f62c2c8a8e851e2",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.406065408,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2470,
+            "uuploaders": 425
+        },
+        {
+            "id": 38,
+            "name": "Yellowstone.S05E05.1080p.rus.LostFilm.TV.mkv",
+            "btih": "ace24db18a16edf834697535c4978046e75a435d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.003582296,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1754,
+            "uuploaders": 722
+        },
+        {
+            "id": 62,
+            "name": "multi-btih-4-2-x-Yellowstone.2022.S05.WEB-DLRip.HDRezka Studio",
+            "btih": "09ec21bfaaf843785211eddd0e7a7ea110de09ee",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.307597777,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1580,
+            "uuploaders": 406
+        },
+        {
+            "id": 40,
+            "name": "Yellowstone.S05E05.400p.ColdFilm.avi",
+            "btih": "99df0ce5b4d8b8f9dd40a1247a2ec3d133c04e8a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.55385006,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1439,
+            "uuploaders": 219
+        },
+        {
+            "id": 7,
+            "name": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "716d5922b4fcc9727a3cf04aff61b9f2a120cfa2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.494676579,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1214,
+            "uuploaders": 481
+        },
+        {
+            "id": 25,
+            "name": "Yellowstone.2018.S05E05.XviD-AFG[TGx]",
+            "btih": "2422f40827c2346375e2d6c0c54527a0477cf23a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.379288865,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1111,
+            "uuploaders": 300
+        },
+        {
+            "id": 39,
+            "name": "Yellowstone.S05E05.1080p.x265-ELiTE",
+            "btih": "d95a84970b182ae30c5fb229d786464a0195c265",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.57038979,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1038,
+            "uuploaders": 434
+        },
+        {
+            "id": 53,
+            "name": "Yellowstone.S05E05.WEBRip.x264-XEN0N",
+            "btih": "a57084b9d839071f3ca8968870ead68720554d4d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.282046985,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 967,
+            "uuploaders": 215
+        },
+        {
+            "id": 16,
+            "name": "Yellowstone.2018.S05E05.AAC.MP4-Mobile [IPT]",
+            "btih": "7b34ad47afd773089b4fd1b894738e36cdc9055d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.160007033,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 928,
+            "uuploaders": 278
+        },
+        {
+            "id": 45,
+            "name": "Yellowstone.S05E05.rus.LostFilm.TV.avi",
+            "btih": "070843f8f18483c9246b1769763e9a27143f3a4c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.796592128,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 911,
+            "uuploaders": 242
+        },
+        {
+            "id": 30,
+            "name": "Yellowstone.S05.2160p.SDR.NewComers",
+            "btih": "e61aa3ba1df1b7ad070a6fdf75f4ad340ca5babc",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 27.668628981,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 861,
+            "uuploaders": 168
+        },
+        {
+            "id": 32,
+            "name": "Yellowstone.S05.720p.ColdFilm",
+            "btih": "407fce6bf8e2d403d8a45cc3f3a8740522d6526e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.581576721,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 664,
+            "uuploaders": 133
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Jelloustoun_5_sezon_720p_scarfilm.org",
+            "btih": "8fd664e167741aa96963012958f3d25de3f1f758",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.52281554,
+            "creation": "2022-11-29T21:41:54.000000000Z,uTorrent/2210,http://rutor.is/torrent/896557",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 605,
+            "uuploaders": 224
+        },
+        {
+            "id": 37,
+            "name": "Yellowstone.S05E05.1080p.ColdFilm.mkv",
+            "btih": "852b9553f4da19738754679c0e47726bab325fb5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.858230499,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 565,
+            "uuploaders": 205
+        },
+        {
+            "id": 31,
+            "name": "Yellowstone.S05.400p.Ultradox",
+            "btih": "d9feb88970d4b4f80a34fdb78c0a879e6df00907",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.194875392,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 519,
+            "uuploaders": 116
+        },
+        {
+            "id": 33,
+            "name": "Yellowstone.S05.WEB-DLRip.LF",
+            "btih": "a5beda2a7bb307769aecba08a01c6327cd95efbd",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.310202368,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 461,
+            "uuploaders": 126
+        },
+        {
+            "id": 8,
+            "name": "Yellowstone.2018.S05E05.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "8c3041efece581cb3d0e785357779a5dbb2edf97",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.494678619,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 442,
+            "uuploaders": 82
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.tv ] Yellowstone.S05E05.SUBFRENCH.WEB.x264-EXTREME.mkv",
+            "btih": "5c2081597fc27d4356b3ef01d35e5c217e7740e2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.45065702,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 406,
+            "uuploaders": 88
+        },
+        {
+            "id": 48,
+            "name": "Yellowstone.S05E05.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "b3465e682d7bf6cf0d582a762819259ea70953e9",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.527355466,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 307,
+            "uuploaders": 124
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Yellowstone.S05.2160p.SDR.NewComers",
+            "btih": "09130265094f1e5555ee16565f35d4fae39e1117",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 33.407816032,
+            "creation": "2022-12-06T20:53:34.000000000Z,Tixati v2.77,http://rutor.is/torrent/896624",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 237,
+            "uuploaders": 76
+        },
+        {
+            "id": 49,
+            "name": "Yellowstone.S05E05.WEBRip.400p.rus.2.0.HDREZKA.STUDIO.avi",
+            "btih": "077ca31280f513552efadcf9889386c40471324c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.47368832,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 209,
+            "uuploaders": 38
+        },
+        {
+            "id": 28,
+            "name": "Yellowstone.S05.1080p.NewComers",
+            "btih": "be94e701d7eaba8aa3a6ece1e7562b5a35153148",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 14.595858392,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 196,
+            "uuploaders": 12
+        },
+        {
+            "id": 43,
+            "name": "Yellowstone.S05E05.720p.x264-FENiX",
+            "btih": "5adffcc6b785de582ce1927999c2dd6d1e79b9c5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.45817862,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 130,
+            "uuploaders": 32
+        },
+        {
+            "id": 34,
+            "name": "Yellowstone.s05.WEBRip.XviD.Rus.RuDub.tv",
+            "btih": "5cec4862824a9bf6d2ae1be442f51f4d37c70522",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 3.73870337,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 121,
+            "uuploaders": 45
+        },
+        {
+            "id": 36,
+            "name": "Yellowstone.S05E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "2099dea83d89532a13780086fa91587466bb9249",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.769653591,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 92,
+            "uuploaders": 25
+        },
+        {
+            "id": 42,
+            "name": "Yellowstone.S05E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "a7b48e63d45e697d5dea5f5cfdb865616ca8a76b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.296159238,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67,
+            "uuploaders": 10
+        },
+        {
+            "id": 5,
+            "name": "Yellowstone.(Season 05).LostFilm",
+            "btih": "785a4989e0d4ea145df0328dc3bad41bf6230757",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.453756928,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55,
+            "uuploaders": 16
+        },
+        {
+            "id": 50,
+            "name": "Yellowstone.S05E05.WEBRip.720p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "26a1883a647d0fe79ac58acf79d43dc0f090e8f6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.408396256,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41,
+            "uuploaders": 17
+        },
+        {
+            "id": 57,
+            "name": "黄石公园.Yellowstone.2018.S05E05.1080p.AMZN.WEB-DL.中英双字.7meiju",
+            "btih": "00f383c645dd6158a9489058d45a385ead4ee94f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.124582533,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 3
+        },
+        {
+            "id": 46,
+            "name": "Yellowstone.S05E05.SUBFRENCH.1080p.AMZN.WEB-DL.DDP2.0.H264-FCK",
+            "btih": "28ecb8c6e542f6bb32edc8d53f3f49b737494256",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.990255729,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5,
+            "uuploaders": 3
+        },
+        {
+            "id": 47,
+            "name": "Yellowstone.S05E05.SUBFRENCH.720p.AMZN.WEB-DL.DDP2.0.H264-FCK",
+            "btih": "7ec76fab8965e559b12c3c2660dbaf3a3c0d5b20",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.313294111,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2,
+            "uuploaders": 0
+        }
+    ]
+}
