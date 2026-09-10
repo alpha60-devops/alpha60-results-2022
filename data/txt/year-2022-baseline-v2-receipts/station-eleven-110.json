@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10574236",
+    "imdb_id": "tt10574236",
+    "revision": "70ea1468c916802108b8315b776e8975fb4151ae",
+    "wikidata_id": "Q85803299",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Station_Eleven_(miniseries)"
+  },
+  "coverage_sha256": "0c633c7d8ca48b74dd2c60e11a6524a71a1428a538280b1084bc8681ed6db00f",
+  "generated_at": "2026-09-10T00:17:51.954649+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2022-archives/station-eleven-110.cache/cache.20220116.tar.xz",
+      "sha256": "42253c94ecaa4c8f487d5ce4a1f4ee342e23ec565215f496dd1c9da28f88c584",
+      "size": 4733800
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-coverage-evidence/station-eleven-110.md",
+      "sha256": "29aa9037e121fa3d98d4cd5aeaade0af77aa3ff380c16a780446b03f33653378",
+      "size": 556
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-cache-stream-receipts/station-eleven-110.json",
+      "sha256": "dce23164c189e4b553e64920d95eda02eea311733ca28a9e9a87d648fa585f5f",
+      "size": 2017
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2022/data/txt/year-2022-day-product-receipts/station-eleven-110.json",
+      "sha256": "c1a8143269682ed7e22c00bbbfbfebc33462741fa1977cae8884f2ea54f909da",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-control/worker-map.json",
+      "sha256": "709eccfb628a956007ff627a4a583b71e2a0f51270e82ffb77ee4a165fd540cc",
+      "size": 97709
+    }
+  },
+  "media_object": "station-eleven-110",
+  "published_files": {
+    "data/csv/bytes/station-eleven-110-cumulative-detail.2022-btiha-itemized-by-bytes.csv": "0245ef1a7844bec69e8eea4f7506ef0f464ee3bee42d7a4528750d6857e4dc68",
+    "docs/itemized/figures/station-eleven-110-carto-4k.webp": "c135d054588ec436ac11df8a1fc411440f456b43c94fc796cf136c88100616f2",
+    "docs/itemized/figures/station-eleven-110-carto.png": "bf6088ee8b372a48a69dbb9b2869ee1fa9bde89517d8c4bd00fb1477bb341314",
+    "docs/itemized/figures/station-eleven-110-cumulative-detail-btiha-itemized-by-bytes.svg": "f1469d86eaacab8ada1b3b83171502fe7f0c426286c8b0296fb4261989f39b12",
+    "docs/itemized/figures/station-eleven-110-data-ge-1080p-4k.webp": "77e20e847f6c8b5e97dc66137b831b56029fa5171388b021bf98fe00f7c9d2fa",
+    "docs/itemized/figures/station-eleven-110-data-ge-1080p.webp": "e5d6bc4a474548ede1fa917426b7a13c33917690e64909ecb51a0590ffabe54e",
+    "docs/itemized/figures/station-eleven-110-data-lt-1080p-4k.webp": "faf9f10d3dc1346ca74addf2ff465639d47ee285c66207ecc41878999ab33433",
+    "docs/itemized/figures/station-eleven-110-data-lt-1080p.webp": "7515c0a78384a5ee9e49db2f0d332d94d0587ae16e559e3ec96490d4b822e996",
+    "docs/itemized/figures/station-eleven-110-downloads-by-day-day.svg": "60f7fa49b7eb777e8c6c285cbb7adbc4e7c9f8ed4804942c60b2671d7c96ac35",
+    "docs/itemized/figures/station-eleven-110-downloads-by-week-station-eleven-110-week.svg": "3a85312b42dae44c1f2b2b7d077166ba817141dbc0e6ea4a20f4da992753438e",
+    "docs/itemized/station-eleven-110-sample-cache-audit.md": "5f43277226034f73de68568f1bb8257e7b23b0295a1389b6d5aa2efba70b536f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "6c263b55ae9b5a2ab520bf5686f6f401e724b889",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/station-eleven-110/tmp/station-eleven-110-cumulative-btiha.geojson",
+        "sha256": "c542cca2fb4440b005bc0213f9d6c55b536308ca0d3b1006de8b76212899eac7",
+        "size": 1843230
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2022/station-eleven-110/tmp/station-eleven-110-cumulative-btiha-media-objects.json",
+        "sha256": "09d62e7d0c8439471235ddd6452f5e23f9b777de66c5547cad61ca85fa2594ef",
+        "size": 134296
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "station-eleven-110",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2022-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          41.0,
+          35.0,
+          32.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Toronto",
+          "New York City",
+          "Lelystad",
+          "Amsterdam",
+          "Montr\u00e9al",
+          "Sydney",
+          "Ashburn",
+          "Los Angeles",
+          "Vancouver"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          33.0,
+          29.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Toronto",
+          "Sydney",
+          "Ashburn",
+          "Moscow",
+          "New York City",
+          "Lelystad",
+          "Amsterdam",
+          "Melbourne",
+          "Los Angeles"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "19453e86c2d20576ad8b3a7985b5a3ec6c674f0f",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "05b850d2416b3ced3b0936500c3050bf74aaff95",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "70ea1468c916802108b8315b776e8975fb4151ae"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2022"
+}

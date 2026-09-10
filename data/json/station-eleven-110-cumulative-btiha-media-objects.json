@@ -1,0 +1,3090 @@
+{
+    "collection_name": "Station Eleven",
+    "collection_id": "110",
+    "collection_key": "station-eleven-110",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "110eedc2dea39ccfa2749527e00fa7e02fdfe186",
+            "duplicate_0_0": "Station.Eleven.S01.WEBRip.x265-ION265-[rarbg.to]",
+            "duplicate_0_1": "Station.Eleven.S01.WEBRip.x265-ION265"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "052aa3edf3994db69cc4a865ac16676838bbd4e4",
+            "duplicate_1_0": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]",
+            "duplicate_1_1": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "13bddb800dfca705d3839ce1be273e80ab8aee4a",
+            "duplicate_2_0": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]",
+            "duplicate_2_1": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "7e4323bbfeba9d2511694ca0837d68ce6be5e0a1",
+            "duplicate_3_0": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]",
+            "duplicate_3_1": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Station Eleven S01 web 10bit hevc-d3g [IPT]",
+            "size_total": 16.582457364,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.477011464,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E01.Wheel.of.Fire.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.507007397,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E02.A.Hawk.from.a.Handsaw.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.599497406,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E03.Hurricane.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.443274137,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E04.Rosencrantz.and.Guildenstern.Arent.Dead.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.745233496,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E05.The.Severn.City.Airport.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.430095464,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E06.Survival.is.Insufficient.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.695958565,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E07.Goodbye.My.Damaged.Home.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.879791228,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E08.Whos.There.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.852130324,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E09.Dr.Chaudhary.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.952457883,
+                    "path": "Station Eleven S01 web 10bit hevc-d3g/Station.Eleven.S01E10.Unbroken.Circle.1080p.WEBRip.10Bit.DDP5.1.H265-d3g.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Station Eleven Season 1 Mp4 1080p",
+            "size_total": 14.399459622,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.682666318,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.280900665,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E01.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.307524238,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E02.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.385400584,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E03.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 1.254529666,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E04.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.537084778,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E05.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 1.243839777,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E06.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 1.476804951,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E07.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 1.626026631,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E08.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 1.604681909,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Station Eleven S01E09.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 1.05e-7,
+                    "path": "Station Eleven Season 1 Mp4 1080p/Read Me.txt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Station.Eleven.(Season 01).HDrezka Studio",
+            "size_total": 5.058062218,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.819556352,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.78736384,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E07.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.738994176,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.697227264,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.682575872,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.669063168,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.663261184,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Station Eleven.S01.E06.WEB-DLRip.Rus.Eng.by.Сибиряк.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000007492,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E07.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000002949,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E02.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000002873,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E03.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000002161,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E01.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000002072,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E05.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000001785,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E04.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.00000103,
+                    "path": "Station.Eleven.(Season 01).HDrezka Studio/Rus Sub/Station Eleven.S01.E06.WEB-DLRip.Rus.Eng.by.Сибиряк.Forc.srt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]",
+            "size_total": 33.106577104,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.940417699,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E01.Wheel.of.Fire.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.00120794,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E02.A.Hawk.from.a.Handsaw.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.193461402,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E03.Hurricane.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.882723034,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E04.Rosencrantz.and.Guildenstern.Arent.Dead.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.544186767,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E05.The.Severn.City.Airport.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.857830043,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E06.Survival.is.Insufficient.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.404507802,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E07.Goodbye.My.Damaged.Home.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.748389399,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E08.Whos.There.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.69193582,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E09.Dr.Chaudhary.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.841917198,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "size_total": 33.106577135,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.940417699,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E01.Wheel.of.Fire.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.00120794,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E02.A.Hawk.from.a.Handsaw.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.193461402,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E03.Hurricane.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.882723034,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E04.Rosencrantz.and.Guildenstern.Arent.Dead.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.544186767,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E05.The.Severn.City.Airport.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.857830043,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E06.Survival.is.Insufficient.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.404507802,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E07.Goodbye.My.Damaged.Home.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.748389399,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E08.Whos.There.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.69193582,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E09.Dr.Chaudhary.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.841917198,
+                    "path": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+            "size_total": 8.574431171,
+            "files_total": 31,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.76221659,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.778443518,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.825106884,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.746979768,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.915562332,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.740423147,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.879325611,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.968639623,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.9552041,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 1.001692612,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG/3_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG/Subs/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]",
+            "size_total": 8.574431141,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.76221659,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.879325611,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.778443518,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.9552041,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.968639623,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.001692612,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.740423147,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.915562332,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.746979768,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.825106884,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG[eztv.re].mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E09.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E08.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E07.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E06.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E05.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E04.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E03.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E02.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E01.1080p.WEBRip.x265-RARBG[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]/Subs/Station.Eleven.S01E10.1080p.WEBRip.x265-RARBG[eztv.re]/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Station.Eleven.S01.400p.Ultradox",
+            "size_total": 7.362244608,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.656830464,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E01.400p.Ultradox.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.669323264,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E02.400p.Ultradox.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.711237632,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E03.400p.Ultradox.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.643131392,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E04.400p.Ultradox.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.77308928,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E05.400p.Ultradox.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.638210048,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E06.400p.Ultradox.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.753629184,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E07.400p.Ultradox.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.83226624,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E08.400p.Ultradox.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.823001088,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E09.400p.Ultradox.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.861526016,
+                    "path": "Station.Eleven.S01.400p.Ultradox/Station.Eleven.S01E10.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]",
+            "size_total": 14.522977888,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.291253814,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E01.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.317738716,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E02.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.398555896,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E03.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.26588094,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E04.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.553772638,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E05.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.253289822,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E06.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.492054421,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E07.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.640525986,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E08.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.616963308,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E09.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.692942347,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]/Station.Eleven.S01E10.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "size_total": 14.522977919,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.291253814,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E01.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.317738716,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E02.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.398555896,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E03.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.26588094,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E04.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.553772638,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E05.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.253289822,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E06.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.492054421,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E07.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.640525986,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E08.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.616963308,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E09.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.692942347,
+                    "path": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]/Station.Eleven.S01E10.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 5.14646399,
+            "files_total": 31,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.459649268,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.466013066,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.491682939,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.446245861,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.545245246,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.446613338,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.526515366,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.580071686,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.575436947,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.608153286,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Station.Eleven.S01E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E01.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E01.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E02.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E02.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E03.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E03.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E04.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E04.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E05.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E05.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E06.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E06.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E07.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E07.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E08.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E08.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E09.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E09.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E10.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10/Subs/Station.Eleven.S01E10.WEBRip.x264-ION10/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]",
+            "size_total": 5.146463959,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.459649268,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E01.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.526515366,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E07.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.466013066,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E02.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.575436947,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E09.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.580071686,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E08.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.608153286,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E10.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.446613338,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E06.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.545245246,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E05.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.446245861,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E04.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.491682939,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Station.Eleven.S01E03.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E06.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E10.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E09.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E09.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E08.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E08.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E07.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E07.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E06.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E03.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E05.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E05.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E04.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E04.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E03.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E02.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E02.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E01.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E01.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Station.Eleven.S01E10.WEBRip.x264-ION10[eztv.re]/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv",
+            "size_total": 6.47400875,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.575972712,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e01.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.58780945,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e02.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.61897554,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e03.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.563388259,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e04.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.690680315,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e05.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.563903314,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e06.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.663529453,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e07.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.732168635,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e08.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.721188249,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e09.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.756392823,
+                    "path": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv/Station.Eleven.s01e10.WEBRip.x264.Rus.BaibaKo.tv.mp4"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Station.Eleven.S01.WEBRip.x265-ION265-[rarbg.to]",
+            "size_total": 3.593112205,
+            "files_total": 31,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.319270325,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E01.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.326121204,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E02.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.345740898,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E03.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.312934814,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E04.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.383601114,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E05.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.310281202,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E06.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.368446634,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E07.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.406075854,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E08.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.400181862,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E09.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.419621312,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E10.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Station.Eleven.S01.WEBRip.x265-ION265",
+            "size_total": 3.593112205,
+            "files_total": 31,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.319270325,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E01.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.326121204,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E02.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.345740898,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E03.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.312934814,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E04.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.383601114,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E05.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.310281202,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E06.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.368446634,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E07.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.406075854,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E08.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.400181862,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E09.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.419621312,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Station.Eleven.S01E10.WEBRip.x265-ION265.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265/3_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]",
+            "size_total": 3.593112175,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.319270325,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E01.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.368446634,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E07.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.326121204,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E02.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.400181862,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E09.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.406075854,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E08.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.419621312,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E10.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.310281202,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E06.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.383601114,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E05.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.312934814,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E04.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.345740898,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Station.Eleven.S01E03.WEBRip.x265-ION265[eztv.re].mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000027978,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000039998,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000041228,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000029819,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E09.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.0000539,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000043414,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E08.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000041727,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000029866,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E07.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000036691,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E06.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000051872,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000056844,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000048063,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E05.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000043241,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000040168,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E04.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000043317,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E03.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000043604,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000034581,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E02.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000042971,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000033071,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E01.WEBRip.x265-ION265[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000054603,
+                    "path": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]/Subs/Station.Eleven.S01E10.WEBRip.x265-ION265[eztv.re]/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo",
+            "size_total": 0.367183121,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.367177728,
+                    "path": "Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo/Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000005393,
+                    "path": "Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo/Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Station.Eleven.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.756559678,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.756559678,
+                    "path": "Station.Eleven.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Station.Eleven.S01E05.WEBRip.400p.ukr.2.0.HDREZKA.STUDIO.avi",
+            "size_total": 0.854496554,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.854496554,
+                    "path": "Station.Eleven.S01E05.WEBRip.400p.ukr.2.0.HDREZKA.STUDIO.avi"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.475836542,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006982684,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00423303,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005661651,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.458958036,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta/Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001141,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta/Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.458958036,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.458958036,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.458959895,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.458958036,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[TGx]/Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001141,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[TGx]/Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 3.841873906,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.241873125,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.4,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.7e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES/station.eleven.s01e10.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "station.eleven.s01e10.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 3.841871815,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.841871815,
+                    "path": "station.eleven.s01e10.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]",
+            "size_total": 3.92107334,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.079201185,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/Sample/station.eleven.s01e10.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.841871815,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 3.92107334,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.079201185,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/Sample/station.eleven.s01e10.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.841871815,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]",
+            "size_total": 3.921073929,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.079201185,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]/Sample/station.eleven.s01e10.1080p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.841871815,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]/station.eleven.s01e10.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]/station.eleven.s01e10.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 6.584208532,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 6.584208006,
+                    "path": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rarbg]/station.eleven.s01e10.2160p.web.h265-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.97e-7,
+                    "path": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rarbg]/station.eleven.s01e10.2160p.web.h265-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Station.Eleven.S01E10.480p.x264-mSD [IPT]",
+            "size_total": 0.274594655,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000208082,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000094859,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000126712,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.274164032,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD/Station.Eleven.S01E10.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.7e-7,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD/Station.Eleven.S01E10.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Station.Eleven.S01E10.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.274164032,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.274164032,
+                    "path": "Station.Eleven.S01E10.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.352790345,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003328547,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00206605,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002829148,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.344565463,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta/Station.Eleven.S01E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001137,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta/Station.Eleven.S01E10.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.344565463,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.344565463,
+                    "path": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.692898764,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.092898049,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.2,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 5.04e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES/station.eleven.s01e10.720p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "station.eleven.s01e10.720p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 1.692896951,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.692896951,
+                    "path": "station.eleven.s01e10.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]",
+            "size_total": 1.692897291,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.692896951,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.692897291,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.692896951,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]/station.eleven.s01e10.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 1.69289788,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.692896951,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[TGx]/station.eleven.s01e10.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.11e-7,
+                    "path": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[TGx]/station.eleven.s01e10.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Station.Eleven.S01E10.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.169180671,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000239415,
+                    "path": "Station.Eleven.S01E10.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00010524,
+                    "path": "Station.Eleven.S01E10.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000148747,
+                    "path": "Station.Eleven.S01E10.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.168686039,
+                    "path": "Station.Eleven.S01E10.AAC.MP4-Mobile/Station.Eleven.S01E10.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000123,
+                    "path": "Station.Eleven.S01E10.AAC.MP4-Mobile/Station.Eleven.S01E10.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]",
+            "size_total": 3.841917327,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.841917198,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "size_total": 3.841917327,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.841917198,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "size_total": 1.692942476,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.692942347,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]/Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[TGx]",
+            "size_total": 1.692943065,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.692942347,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[TGx]/Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEB-DL.DD5.1.H.264-NOSiViD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.304924697,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.304923937,
+                    "path": "Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY[TGx]/Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.2e-8,
+                    "path": "Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Station.Eleven.S01E10.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.608133363,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Station.Eleven.S01E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Station.Eleven.S01E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.608080456,
+                    "path": "Station.Eleven.S01E10.WEBRip.x264-ION10/Station.Eleven.S01E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000052778,
+                    "path": "Station.Eleven.S01E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Station.Eleven.S01E10.XviD-AFG [IPT]",
+            "size_total": 0.417362614,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000224016,
+                    "path": "Station.Eleven.S01E10.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000148292,
+                    "path": "Station.Eleven.S01E10.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000137897,
+                    "path": "Station.Eleven.S01E10.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.416851304,
+                    "path": "Station.Eleven.S01E10.XviD-AFG/Station.Eleven.S01E10.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001105,
+                    "path": "Station.Eleven.S01E10.XviD-AFG/Station.Eleven.S01E10.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Station.Eleven.S01E10.XviD-AFG[eztv.re].avi",
+            "size_total": 0.416851304,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.416851304,
+                    "path": "Station.Eleven.S01E10.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 44,
+            "name": "Station.Eleven.S01E10.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "5bd371293961656a2c26b869163ecea5d9781a71",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.608133363,
+            "creation": "2022-01-13T08:34:08.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4859,
+            "uuploaders": 1906
+        },
+        {
+            "id": 48,
+            "name": "multi-btih-1-2-x-Station.Eleven.S01E10.1080p.WEB.H264-CAKES[rarbg]",
+            "btih": "052aa3edf3994db69cc4a865ac16676838bbd4e4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.92107334,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4766,
+            "uuploaders": 1966
+        },
+        {
+            "id": 5,
+            "name": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "btih": "bc58c9a39ce487173d627eccaa000d8981af3a14",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 33.106577135,
+            "creation": "2022-01-13T10:25:46.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4420,
+            "uuploaders": 2059
+        },
+        {
+            "id": 21,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "a3de4e8977458aae5f5cbf09029219709aa4e1b8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.458958036,
+            "creation": "2022-01-13T14:43:51.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4351,
+            "uuploaders": 712
+        },
+        {
+            "id": 50,
+            "name": "multi-btih-3-2-x-Station.Eleven.S01E10.Unbroken.Circle.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rarbg]",
+            "btih": "7e4323bbfeba9d2511694ca0837d68ce6be5e0a1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.841917327,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4132,
+            "uuploaders": 1524
+        },
+        {
+            "id": 24,
+            "name": "station.eleven.s01e10.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "cad9c766197abe12d7aa6ac968fad1859f1bb428",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.841871815,
+            "creation": "2022-01-13T08:23:28.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3842,
+            "uuploaders": 1190
+        },
+        {
+            "id": 11,
+            "name": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "6946d6e0888f55c573fd216418c389f5930a4d74",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 5.14646399,
+            "creation": "2022-01-13T11:16:37.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3770,
+            "uuploaders": 1672
+        },
+        {
+            "id": 10,
+            "name": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "btih": "af3cb83b83d12dbcc617af8570319e62953b5d79",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 14.522977919,
+            "creation": "2022-01-13T10:25:20.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3557,
+            "uuploaders": 684
+        },
+        {
+            "id": 32,
+            "name": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "e8bfd1b16e51d6886921eb697b30e8e683610a91",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.344565463,
+            "creation": "2022-01-13T08:35:07.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3074,
+            "uuploaders": 399
+        },
+        {
+            "id": 49,
+            "name": "multi-btih-2-2-x-Station.Eleven.S01E10.720p.WEB.H264-CAKES[rarbg]",
+            "btih": "13bddb800dfca705d3839ce1be273e80ab8aee4a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.692897291,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2667,
+            "uuploaders": 932
+        },
+        {
+            "id": 12,
+            "name": "Station.Eleven.S01.PROPER.WEBRip.x264-ION10[eztv.re]",
+            "btih": "89795c9df25b51c94357a68460ffdd599e18d578",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 5.146463959,
+            "creation": "2022-01-13T12:35:16.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2544,
+            "uuploaders": 615
+        },
+        {
+            "id": 6,
+            "name": "Station.Eleven.S01.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+            "btih": "c3ebd2bbccd45f1803fd92dddbb39ba88d2818e8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 8.574431171,
+            "creation": "2022-01-13T20:20:15.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2362,
+            "uuploaders": 919
+        },
+        {
+            "id": 30,
+            "name": "Station.Eleven.S01E10.480p.x264-mSD[eztv.re].mkv",
+            "btih": "db703b350c4ee325958ede57594d654961a3b5ef",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.274164032,
+            "creation": "2022-01-13T08:34:34.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1684,
+            "uuploaders": 339
+        },
+        {
+            "id": 41,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[rartv]-[rarbg.to]",
+            "btih": "0d4638361cbf5a9342281c5f12955a3069d8336d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.692942476,
+            "creation": "2022-01-13T08:25:40.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1675,
+            "uuploaders": 519
+        },
+        {
+            "id": 34,
+            "name": "station.eleven.s01e10.720p.web.h264-cakes[eztv.re].mkv",
+            "btih": "4fae18c41aeddfb59284c03fdbde421b7392ed9f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.692896951,
+            "creation": "2022-01-13T08:25:18.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1598,
+            "uuploaders": 377
+        },
+        {
+            "id": 28,
+            "name": "Station.Eleven.S01E10.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "btih": "541ca8bceb9484216c94479793262556c745cced",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.584208532,
+            "creation": "2022-01-14T10:11:30.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1582,
+            "uuploaders": 694
+        },
+        {
+            "id": 7,
+            "name": "Station.Eleven.S01.1080p.WEBRip.x265[eztv.re]",
+            "btih": "bb9c166cb43fa9ab6534097d43e9d8175d79ccf3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 8.574431141,
+            "creation": "2022-01-13T22:16:48.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1513,
+            "uuploaders": 377
+        },
+        {
+            "id": 16,
+            "name": "Station.Eleven.S01.WEBRip.x265-ION265[eztv.re]",
+            "btih": "7ec4b97319acf4c555b0bb8b5d2219a064a0eaca",
+            "resolution": "sd",
+            "encoding": "265",
+            "gigabytes": 3.593112175,
+            "creation": "2022-01-13T17:24:53.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1476,
+            "uuploaders": 311
+        },
+        {
+            "id": 47,
+            "name": "multi-btih-0-2-x-Station.Eleven.S01.WEBRip.x265-ION265-[rarbg.to]",
+            "btih": "110eedc2dea39ccfa2749527e00fa7e02fdfe186",
+            "resolution": "sd",
+            "encoding": "265",
+            "gigabytes": 3.593112205,
+            "creation": "2022-01-13T16:42:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1375,
+            "uuploaders": 441
+        },
+        {
+            "id": 2,
+            "name": "Station Eleven Season 1 Mp4 1080p",
+            "btih": "05c57d75f7853cfe267fa5c01fab25385fe0a1f9",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 14.399459622,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1212,
+            "uuploaders": 215
+        },
+        {
+            "id": 46,
+            "name": "Station.Eleven.S01E10.XviD-AFG[eztv.re].avi",
+            "btih": "bb9c679497e49e438344a6de440a8ff7800bdc1b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.416851304,
+            "creation": "2022-01-13T08:36:24.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1189,
+            "uuploaders": 282
+        },
+        {
+            "id": 4,
+            "name": "Station.Eleven.S01.1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]",
+            "btih": "bc41407a84535a8fbedb4f7f436608a6e7a20dab",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 33.106577104,
+            "creation": "2022-01-13T15:08:23.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 982,
+            "uuploaders": 289
+        },
+        {
+            "id": 43,
+            "name": "Station.Eleven.S01E10.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "0082745de820449a4c2c3f31154cd20292e150b7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.304924697,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 978,
+            "uuploaders": 201
+        },
+        {
+            "id": 9,
+            "name": "Station.Eleven.S01.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[eztv.re]",
+            "btih": "5c2d9e91f9ac31ee02a217b4cae8aadcdbaff4ac",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 14.522977888,
+            "creation": "2022-01-13T13:13:53.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 932,
+            "uuploaders": 242
+        },
+        {
+            "id": 22,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "a839b2760b5af592bb763092db5d53ad0821395e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.458959895,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 534,
+            "uuploaders": 125
+        },
+        {
+            "id": 27,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES[TGx]",
+            "btih": "50eae6f68ce4e7f1fee77f72e063e268d1d305eb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.921073929,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 490,
+            "uuploaders": 96
+        },
+        {
+            "id": 20,
+            "name": "Station.Eleven.S01E10.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "b993e9eec74d371172780e1514d61e8e5146e14b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.475836542,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 484,
+            "uuploaders": 305
+        },
+        {
+            "id": 23,
+            "name": "Station.Eleven.S01E10.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "845c3d79cdfbace74f0a68e3c0455238ac092117",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.841873906,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 456,
+            "uuploaders": 222
+        },
+        {
+            "id": 1,
+            "name": "Station Eleven S01 web 10bit hevc-d3g [IPT]",
+            "btih": "9c8ecb47e3b491af0313ce068227f78c9bdd8212",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 16.582457364,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 393,
+            "uuploaders": 254
+        },
+        {
+            "id": 31,
+            "name": "Station.Eleven.S01E10.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "1bd7343388fda5e00b62856f0ef56f16f463e01b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.352790345,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 300,
+            "uuploaders": 189
+        },
+        {
+            "id": 18,
+            "name": "Station.Eleven.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "144e7989a4366489d7d157959008f166118baa0b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.756559678,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 261,
+            "uuploaders": 12
+        },
+        {
+            "id": 19,
+            "name": "Station.Eleven.S01E05.WEBRip.400p.ukr.2.0.HDREZKA.STUDIO.avi",
+            "btih": "07bd09ddd7f5bc862439c959bbe881e0deb260a0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.854496554,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 252,
+            "uuploaders": 13
+        },
+        {
+            "id": 42,
+            "name": "Station.Eleven.S01E10.Unbroken.Circle.720p.HMAX.WEBRip.DD5.1.x264-NOSiViD[TGx]",
+            "btih": "340747589a7f756380aaf4766995683fbfa76892",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.692943065,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 227,
+            "uuploaders": 91
+        },
+        {
+            "id": 8,
+            "name": "Station.Eleven.S01.400p.Ultradox",
+            "btih": "ee914c4e0f02158a43f18406d9af992390db2597",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 7.362244608,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 161,
+            "uuploaders": 65
+        },
+        {
+            "id": 33,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES [IPT]",
+            "btih": "c6e7c6404a7e90a81cfcd8276b85da629c5381ce",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.692898764,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 145,
+            "uuploaders": 103
+        },
+        {
+            "id": 13,
+            "name": "Station.Eleven.s01.WEBRip.x264.Rus.BaibaKo.tv",
+            "btih": "39bb78e983ca1eac6d4c6214e160cd842929a6c3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 6.47400875,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 139,
+            "uuploaders": 27
+        },
+        {
+            "id": 37,
+            "name": "Station.Eleven.S01E10.720p.WEB.H264-CAKES[TGx]",
+            "btih": "ff7a8fc67d44e982943cf707daf64485a54c93e6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.69289788,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 117,
+            "uuploaders": 36
+        },
+        {
+            "id": 17,
+            "name": "Station.Eleven.S01E01.FRENCH.WEB-DL.XviD-NoLo",
+            "btih": "cbab1fe8281ae65c4c08d9f4ff6f3ff5aba56c59",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.367183121,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 116,
+            "uuploaders": 11
+        },
+        {
+            "id": 45,
+            "name": "Station.Eleven.S01E10.XviD-AFG [IPT]",
+            "btih": "cac67a873122a3c51f334209ab73f38cf6232287",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.417362614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 100,
+            "uuploaders": 81
+        },
+        {
+            "id": 3,
+            "name": "Station.Eleven.(Season 01).HDrezka Studio",
+            "btih": "74986d117264ea5164e9ea5423539e21ab1d04c9",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.058062218,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69,
+            "uuploaders": 22
+        },
+        {
+            "id": 38,
+            "name": "Station.Eleven.S01E10.AAC.MP4-Mobile [IPT]",
+            "btih": "d93fcb49a650c7dde8d7b53c578c06d1750b2f8e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.169180671,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 60,
+            "uuploaders": 42
+        },
+        {
+            "id": 29,
+            "name": "Station.Eleven.S01E10.480p.x264-mSD [IPT]",
+            "btih": "15de4aa0e7c486894640f4467efd5875247656d8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.274594655,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 57,
+            "uuploaders": 42
+        }
+    ]
+}
