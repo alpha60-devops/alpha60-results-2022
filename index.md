@@ -22,9 +22,9 @@ project.
 
 <div style="height: 50px;"></div>
 
-## Results, Commentary
+## 2022 Results
 
-- Media Objects
+- 69 Media Objects
 {% capture media_objects %}{% include year-2022-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
 <div style="height: 50px;"></div>
