@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-02T04:14:13Z
 - Sample archive directory: `/run/media/bkoz/gold/src/alpha60-samples-raw.gold/euphoria-208.xz`
@@ -42,11 +42,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2022-03-20`
 - missing day: `2022-03-21`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Euphoria collection size histogram](figures/euphoria-208-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -69,24 +69,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![euphoria-208 downloads by day](figures/euphoria-208-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2022/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2022/refs/heads/main/data/geojson.cumulative/euphoria-208-cumulative-aggregate.geojson.gz" data-map-title="Euphoria — euphoria-208" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Euphoria (euphoria-208) cumulative data map in new window" title="Opens interactive map for Euphoria (euphoria-208) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 8.61 | 19.51 | 17.75 | 43.74 | 2.09 | 0.61 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Euphoria cumulative map](figures/euphoria-208-carto.png)](figures/euphoria-208-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/euphoria-208-data-ge-1080p.webp)](figures/euphoria-208-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/euphoria-208-data-lt-1080p.webp)](figures/euphoria-208-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

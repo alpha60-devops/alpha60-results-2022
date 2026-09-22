@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-09T22:54:26Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/andor-112.xz/2022`
@@ -51,11 +51,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing day: `2023-02-08`
 - missing day: `2023-02-09`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Andor collection size histogram](figures/andor-112-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -78,24 +78,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![andor-112 downloads by day](figures/andor-112-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2022/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2022/refs/heads/main/data/geojson.cumulative/andor-112-cumulative-aggregate.geojson.gz" data-map-title="Andor — andor-112" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Andor (andor-112) cumulative data map in new window" title="Opens interactive map for Andor (andor-112) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.19 | 18.23 | 17.56 | 54.44 | 2.10 | 0.61 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Andor cumulative map](figures/andor-112-carto.png)](figures/andor-112-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/andor-112-data-ge-1080p.webp)](figures/andor-112-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/andor-112-data-lt-1080p.webp)](figures/andor-112-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
